@@ -1,0 +1,19 @@
+kookje.co.kr##DIV[style="clear:both;position:relative;width:468px;height:60px;background:#FFF;border:1px solid #999999;margin:10px auto;z-index:0"]
+kookje.co.kr##P.right[style="width:250px;height:250px;border:1px solid #ddd"]
+kookje.co.kr##DIV.center[style="padding-top:10px;"]
+kookje.co.kr##IFRAME[src^="http://dspserver.adpnut.com/ron/"]
+kookje.co.kr##IFRAME[src="/service/banner/pnut_right.htm"]
+kookje.co.kr##DIV[style="float:right;width:300px;height:255px;margin-left:10px;"]
+naver.com##.home_da2
+zdnet.co.kr###main_right_Floating_banner
+zdnet.co.kr##div[class*="right_bn"]
+zdnet.co.kr##.ad
+zdnet.co.kr##.news_12
+zdnet.co.kr##DIV[style="position:relative; display:block;"]
+zdnet.co.kr##.power_center
+zdnet.co.kr##.ad_list
+bloter.net###text-5
+dt.co.kr##TABLE[align="left"][height="270"][width="260"]
+bbs.ruliweb.com###adsense_read_728x90_01
+ruliweb.com##.adrrr
+bbs.ruliweb.com##.nbp_container
