@@ -1,0 +1,5 @@
+||etorrent.kr/img/index_banner*.*
+||kookje.co.kr/news2011/banner/$image
+||veta.naver.com/fxshow
+||zdnet.co.kr/Include2/ad_mt*.html$script
+||ruliweb.com/view/view.js?zoneid=
