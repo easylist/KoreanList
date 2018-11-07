@@ -56,8 +56,7 @@ def AppendToTextFile(filename, filterToAppend):
 
 df = pd.read_excel(EXCELFILE_NAME , SHEET_NAME)
 for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
-    # additional conditon about white list requires
-
+    # Verified : if the background cell color of filter is Green or the "New filter" column is filled.
     isVerified= df['Verified'][idx]
     if isVerified == 'x':
         print("Passing not verified filter.")
@@ -67,6 +66,7 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
         print("This filter is already in the list.")
         continue
 
+    # If there is a new filter, using "New filter" column instead of "Suggested filter".
     IsNewFilter = False
     targetFilter = ''
     if df['New filter (If necessary)'][idx] is pd.np.nan:
@@ -74,17 +74,35 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
     else:
         targetFilter = df['New filter (If necessary)'][idx]
         IsNewFilter = True
-    
-    print("\n"+targetFilter+ "(" + isVerified +"," + str(IsNewFilter) + ")")
-    print("Is this domain is a... 1.adserver  2.sub-adserver  3.non-adserver.")
-    answer= input()
 
+    # Set boolean variables
     isPopup = IsPopup(targetFilter)
     isHidingFilter = IsHidingFilter(targetFilter)
     isGeneralFilter = IsGeneralFilter(targetFilter)
     isWhitelistFilter = IsWhitelistFilter(targetFilter)
     isGeneralWhitelistFilter = IsGeneralWhitelistFilter(targetFilter)
     isDeminsionalWhitelistFilter = IsDeminsionalWhitelistFilter(targetFilter)
+
+    if(isWhitelistFilter):
+        if(isPopup):
+            AppendToTextFile("whitelist_popup.txt", targetFilter)
+            continue
+        if(isDeminsionalWhitelistFilter):
+            AppendToTextFile("whitelist_dimensions.txt", targetFilter)
+            continue
+        else:
+            AppendToTextFile("whitelist.txt", targetFilter)
+            continue
+
+    if(isGeneralWhitelistFilter):
+        AppendToTextFile("whitelist_general_hide.txt", targetFilter)
+        continue
+
+    
+    
+    print("\n"+targetFilter+ "(" + isVerified +"," + str(IsNewFilter) + ")")
+    print("Is this domain is a... 1.adserver  2.sub-adserver  3.non-adserver.")
+    answer= input()
 
     if answer.strip() == '':
         print("Shutdown the program.")
