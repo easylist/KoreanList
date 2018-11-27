@@ -31,7 +31,7 @@ def IsDeminsionalWhitelistFilter(filter):
 
 TOTAL_WRITTEN_TXT = "total_written.txt"
 EXCELFILE_NAME = r'Korean website filters.xlsx'
-SHEET_NAME = r'February'
+SHEET_NAME = r'April'
 FILE_PREFIX = "koreanlist_"
 
 # check whether this filter already exists.
