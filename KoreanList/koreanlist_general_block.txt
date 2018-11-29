@@ -1,1 +1,1 @@
-||*PelicanC.dll?$script
+/PelicanC.dll?$script

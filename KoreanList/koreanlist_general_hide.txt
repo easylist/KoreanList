@@ -6,6 +6,5 @@
 ###prism_displayAD
 ##[id^="AD_LIVE_AREA"]
 ##.ad_area_wrap
-##.ad
 ##[class*="ad-wrap"]
 ##a[href*="ad_link.php"]

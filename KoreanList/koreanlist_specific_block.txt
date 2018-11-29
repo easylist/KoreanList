@@ -19,7 +19,7 @@
 ||dispatch.cdnser.be/ad/
 ||wikitree.co.kr/_tpl/default/_images/ad/
 ||appdata.hungryapp.co.kr/banner/$image
-http://www.hungryapp.co.kr/mission/event.php
+||hungryapp.co.kr/mission/event.php
 ||hungryapp.co.kr/banner/
 ||appdata.hungryapp.co.kr//event/main_banner/*772x200$image
 ||image.alba.kr/event/$image

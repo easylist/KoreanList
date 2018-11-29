@@ -142,7 +142,8 @@ staraz.co.kr##.nemo_full_widget
 api.dable.io##.item-sp
 api.dable.io##div.item-sp
 api.dable.io##.item-sp
-lawissue.co.kr##a[href*="adclick.php?"]veritas.kr##.s-bn
+lawissue.co.kr##a[href*="adclick.php?"]
+veritas.kr##.s-bn
 veritas.kr##DIV[style^="width:728px;height:90px;"]
 blogchart.co.kr##.banner_03
 newsprime.co.kr##.section_4 > iframe
