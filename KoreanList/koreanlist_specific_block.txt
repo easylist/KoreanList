@@ -2,6 +2,9 @@
 ||kookje.co.kr/news2011/banner/$image
 ||veta.naver.com/fxshow
 ||zdnet.co.kr/Include2/ad_mt*.html$script
+||radiokorea.com/amg/?page=
+||radiokorea.com/amg/images/banner/
+||radiokorea.com/home/car_dealer.php
 ||ruliweb.com/view/view.js?zoneid=
 ||image.gmarket.co.kr/DA/base/
 ||image.auction.co.kr/DA/base/$image

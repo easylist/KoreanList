@@ -6,6 +6,7 @@ kookje.co.kr##IFRAME[src="/service/banner/pnut_right.htm"]
 kookje.co.kr##DIV[style="float:right;width:300px;height:255px;margin-left:10px;"]
 naver.com##.home_da2
 zdnet.co.kr###main_right_Floating_banner
+radiokorea.com###mp_amg
 zdnet.co.kr##div[class*="right_bn"]
 zdnet.co.kr##.ad
 zdnet.co.kr##.news_12
@@ -124,6 +125,7 @@ sportsq.co.kr###layerPopup_1
 lyrics.co.kr##[href*="storefarm.naver.com"]
 lyrics.co.kr##.carousel.slide
 gooddailynews.co.kr##.width-320
+radiokorea.com##.cycle-slideshow
 gobest.co.kr##TABLE[width="786"] > tbody > tr:nth-of-type(6)
 gobest.co.kr##TABLE[width="174"][height="620"]
 cbs.co.kr##.t_left
