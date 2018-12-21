@@ -9,3 +9,7 @@
 ||cliimage.commutil.kr/phpwas/restmb_allidxmake.php?$image
 ||pe-adimage.newscloud.or.kr/creatives/
 ||ad.goclassic.co.kr/ad/
+||bp.blogspot.com^$image,third-party
+||wp.com/mrcrack.*/wp-content/uploads^$image,third-party
+||creditform.co.kr^$third-party
+||cdn.oneaday.co.kr^$third-party

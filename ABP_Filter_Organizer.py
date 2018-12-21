@@ -31,7 +31,7 @@ def IsDeminsionalWhitelistFilter(filter):
 
 TOTAL_WRITTEN_TXT = "total_written.txt"
 EXCELFILE_NAME = r'Korean website filters.xlsx'
-SHEET_NAME = r'April'
+SHEET_NAME = r'May'
 FILE_PREFIX = "koreanlist_"
 
 # check whether this filter already exists.
@@ -40,8 +40,11 @@ def VerifingDuplicatedFilter(pendingFilter):
         with open(TOTAL_WRITTEN_TXT) as f:
             lines = f.readlines()
             for l in lines:
-                l = l.replace('\n', '')
-                if pendingFilter == l:
+                check1 = str(l).replace('\n', '')
+                check2 = str(pendingFilter).replace('\n', '')
+                if check1 == '' or check2 == '':
+                    continue
+                if check1 == check2:
                     return False
     return True
 
@@ -59,12 +62,9 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
     # Verified : if the background cell color of filter is Green or the "New filter" column is filled.
     isVerified= df['Verified'][idx]
     if isVerified == 'x':
-        print("Passing not verified filter.")
+        print(str(idx)+ ". Passed unverified filter.")
         continue
     
-    if VerifingDuplicatedFilter(x) == False:
-        print("This filter is already in the list.")
-        continue
 
     # If there is a new filter, using "New filter" column instead of "Suggested filter".
     IsNewFilter = False
@@ -75,6 +75,14 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
         targetFilter = df['New filter (If necessary)'][idx]
         IsNewFilter = True
 
+    if targetFilter is pd.np.nan:
+        print(str(idx)+ ". This filter has nan value.")
+        continue
+
+    if VerifingDuplicatedFilter(targetFilter) == False:
+        print(str(idx)+ ". This filter is already in the list.")
+        continue
+    
     # Set boolean variables
     isPopup = IsPopup(targetFilter)
     isHidingFilter = IsHidingFilter(targetFilter)

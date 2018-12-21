@@ -177,3 +177,31 @@ gameone.kr##DIV[class^="banner"]
 motoya.co.kr###bottom_slides
 motoya.co.kr##.banner_aside01
 noteforum.co.kr##td[id^="id_bmain"]
+mrcrack.net##a[href*="fileguri.com"]
+mrcrack.net##a[href*="onawang.com"]
+mrcrack.net##a[href*="blog.naver.com/lja806316"]
+dogdrip.net##[class$="right-ad"]
+dogdrip.net##[class$="left-ad"]
+kmib.co.kr##.m_ad
+mydaily.co.kr##.read_right_ad
+mydaily.co.kr##DIV[style="width:706px; /**/overflow:hidden; margin-bottom:-20px; margin-top:-20px; padding:10px 0;"]
+gamechosun.co.kr##.top_event
+livere.me###livereAd
+etoday.co.kr###ad_site_top
+ytn.co.kr##DIV[class^="articleAd"]
+edaily.co.kr##DIV[class*="banner"]
+edaily.co.kr##DIV[class^="ad"]
+edaily.co.kr##.list_advertising
+fomos.kr##.banner_area.banner01
+hungryapp.co.kr##DIV[class^="fixed-top"]
+||nocutnews.co.kr###pnlAd1
+nocutnews.co.kr##.head_adr2
+nocutnews.co.kr##.ad1
+ablenews.co.kr##IFRAME[id^="realssp_ablenews"]
+ablenews.co.kr##DIV[style="position:relative; height:110px; text-align:center"]
+dailycar.co.kr##.adR
+mdtoday.co.kr##.mstyle3
+seeit.kr##TABLE[style="width:690px;margin:5 5 5 5;border:1px solid #ffffff;"]
+seeit.kr###ttItemGroup1853
+bhumor.co.kr###adLayerPopup
+unitel.co.kr##.today_area
