@@ -1,207 +1,187 @@
-kookje.co.kr##DIV[style="clear:both;position:relative;width:468px;height:60px;background:#FFF;border:1px solid #999999;margin:10px auto;z-index:0"]
-kookje.co.kr##P.right[style="width:250px;height:250px;border:1px solid #ddd"]
-kookje.co.kr##DIV.center[style="padding-top:10px;"]
-kookje.co.kr##IFRAME[src^="http://dspserver.adpnut.com/ron/"]
-kookje.co.kr##IFRAME[src="/service/banner/pnut_right.htm"]
-kookje.co.kr##DIV[style="float:right;width:300px;height:255px;margin-left:10px;"]
-naver.com##.home_da2
-zdnet.co.kr###main_right_Floating_banner
-radiokorea.com###mp_amg
-zdnet.co.kr##div[class*="right_bn"]
-zdnet.co.kr##.ad
-zdnet.co.kr##.news_12
-zdnet.co.kr##DIV[style="position:relative; display:block;"]
-zdnet.co.kr##.power_center
-zdnet.co.kr##.ad_list
-bloter.net###text-5
-dt.co.kr##TABLE[align="left"][height="270"][width="260"]
-bbs.ruliweb.com###adsense_read_728x90_01
-ruliweb.com##.adrrr
-bbs.ruliweb.com##.nbp_container
-gmarket.co.kr##.m_ad
-ppomppu.co.kr##.banner_553
-ppomppu.co.kr###pp_ban_bbs_list
-hani.co.kr##[class^="ad"]
-news.khan.co.kr###AD_LIVE_AREA_29964403
-news.khan.co.kr##[class^="ad_"]
-asiae.co.kr##DIV[class^="ad_"]
-asiae.co.kr##.inside_banner
-asiae.co.kr##.view_ad250
-asiae.co.kr##.news_view_ad
-news.mt.co.kr##.banner_big
-news.mt.co.kr###news_banner1
-mt.co.kr##INS[class^="adsbyadop_"]
-jobkorea.co.kr##.middle_banner_wrap
-news1.kr##DIV[style="display:block;bottom:0;padding:5px; background:#EBEBEB; margin-top:-156px; right:0; position:absolute; width:200px; height:200px;"]
-ilbe.com##IFRAME[style="width:120px;height:618px"]
-ilbe.com##DIV[id^="openXdummy_TTop"]
-ilbe.com###bannerXX
-ilbe.com###mainFixedBanner
-ilbe.com###layer_left
-wikitree.co.kr##.wikitree_ad
-ytn.co.kr##.articleAd_marketing
-ytn.co.kr##.articleAd_new
-ytn.co.kr##.ad_zone2
-ytn.co.kr##DIV[style="margin:0 auto;width:628px;border:1px solid #cbcccf;padding:10px 5px 10px 15px;margin-bottom:10px;overflow:hidden;margin-top: 25px;"]
-nocutnews.co.kr##.ad_view
-nocutnews.co.kr##.head_adr2
-nocutnews.co.kr##.ad1
-mediatoday.co.kr##DIV[style="float:right;margin:0 0 15px 15px;width:300px;height:250px;"]
-ebs.co.kr##.ban_01
-cgv.co.kr###BottomWrapper
-moneta.co.kr##.ad
-fow.kr##.neo_top_center
-soccerline.kr##.topBann
-soccerline.kr##ASIDE.midBann
-etoday.co.kr###quick_right
-etoday.co.kr###ad_site_top
-etoday.co.kr###livereAd
-wikitree.co.kr##.ad_realclick_relation_bar
-hungryapp.co.kr##.bannersww
-alba.co.kr###MainBanner
-alba.co.kr###Promotion
-alba.co.kr###GlobalBanner
-mydaily.co.kr##.read_right_ad
-mydaily.co.kr##DIV[style="width:706px; /**/overflow:hidden; margin-bottom:-20px; margin-top:-20px; padding:10px 0;"]
-biz.newdaily.co.kr##[style="width:300px; margin:5px 10px 3px 0; height: 250px;float:left;"]
-biz.newdaily.co.kr##DIV[id^="ad"]
-ppomppu.co.kr##.banner_553
-news.khan.co.kr##[class^="ad_"]
-asiae.co.kr##DIV[class^="ad_"]
-asiae.co.kr##.inside_banner
-asiae.co.kr##.view_ad250
-asiae.co.kr##.news_view_ad
-mt.co.kr##INS[class^="adsbyadop_"]
-ilbe.com##IFRAME[style="width:120px;height:618px"]
-ilbe.com##DIV[id^="openXdummy_TTop"]
-wikitree.co.kr##.wikitree_ad
-mediatoday.co.kr##DIV[style="float:right;margin:0 0 15px 15px;width:300px;height:250px;"]
-soccerline.kr##ASIDE.midBann
-biz.newdaily.co.kr##DIV[id^="ad"]
-postshare.co.kr###sky
-wowtv.co.kr###divTopBanner
-windowsforum.kr##.top_banner
-platum.kr##.Grand_News_Custom_Ads
-news.tf.co.kr##.readTopAd
-tvreport.co.kr##DIV[style="position:relative;height:130px"]
-tvreport.co.kr###VIEW_CONTENT_TOP1
-uuoobe.kr##TABLE[cellspacing="0"][cellpadding="0"][align="center"][width="730"][border="0"] > tbody > tr:first-child
-uuoobe.kr##TABLE[cellspacing="0"][cellpadding="0"][width="230"][height="230"][border="0"]
-mule.co.kr##[class^="group"]
-mule.co.kr##[class^="ad"]
-asiatoday.co.kr##.gad_wrap
-asiatoday.co.kr##[class^="aside_google"]
-asiatoday.co.kr##div[style^="width:450px;height:160px;"] 
-asiatoday.co.kr###ad_optima_wrap
-asiatoday.co.kr##.mt15
-vav.kr##.asideadsens
+veritas.kr##.s-bn
+mimint.co.kr##.ad
+kcsnews.co.kr##[class^="rightad"]
 sisain.co.kr##.float_banner
-sisain.co.kr###sliding_adop
-ezday.co.kr##[id^="homeAd"]
-ezday.co.kr##DIV[style="width:100%;padding-left:15px;height:250px;"]
-dailian.co.kr##[class^="ban300"]
-dailian.co.kr##[class^="contents"] + [style^="width:250px;height:250px;"]
-dailian.co.kr###ban_mtre14
-dailian.co.kr##[id*="scrollbanner"]
-techholic.co.kr###articleBody .width-250.height-250
-techholic.co.kr##.auto-marbtm-30
-siminilbo.co.kr##[class^="adsById"]
-lottorich.co.kr###fixed_tv_floating
-christiantoday.co.kr##.unit-banner-top
-christiantoday.co.kr###div_laypopup
-christiantoday.co.kr##.unit-banner
-cooln.kr##.tab
-cooln.kr##[class*="banner"]
-studyinkorea.go.kr###rollBox2
-ebn.co.kr##.bn320x200
-mtn.co.kr##.adbanner_sponsor
-mtn.co.kr###slideshow
-appstory.co.kr##.box._ban
-ddaily.co.kr##[style="padding-bottom:10px; border-bottom:1px solid #e4e4e4;margin:0;"]
-clien.net##[class$="ad"]
-autoview.co.kr##.banner
-news.khan.co.kr##.ad_movFocus3
-sportsq.co.kr###layerPopup_1
+etoday.co.kr###ad_site_top
+wikitree.co.kr##.ad_realclick_relation_bar
+asiae.co.kr##.news_view_ad
+kookje.co.kr##DIV[style="float:right;width:300px;height:255px;margin-left:10px;"]
+dailycar.co.kr##.adR
+bloter.net###text-5
+gooddailynews.co.kr##.width-320
+ppomppu.co.kr###pp_ban_bbs_list
+mydaily.co.kr##.read_right_ad
+mrcrack.net##a[href*="onawang.com"]
+windowsforum.kr##.top_banner
+metroseoul.co.kr##div[style="width: 673px; height: 250px; padding: 20px 0 50px 0 "]
+ytn.co.kr##DIV[class^="articleAd"]
+ebs.co.kr##.ban_01
+tvreport.co.kr###VIEW_CONTENT_TOP1
+alba.co.kr###Promotion
+tfnews.co.kr##.ht_left
 lyrics.co.kr##[href*="storefarm.naver.com"]
 lyrics.co.kr##.carousel.slide
-gooddailynews.co.kr##.width-320
-radiokorea.com##.cycle-slideshow
-gobest.co.kr##TABLE[width="786"] > tbody > tr:nth-of-type(6)
-gobest.co.kr##TABLE[width="174"][height="620"]
-cbs.co.kr##.t_left
-mediaus.co.kr##.mHeight_D
-cyw.pe.kr##TABLE[height="1539"] > tbody > tr:nth-of-type(5)
-daissue.kr###back
-daissue.kr###Container
-lec.co.kr###HeadBanner
-career.co.kr##.bannerbox-area
-kinews.net###layer-popups
-yonhapnews.co.kr##.goolge-banner
-yonhapnews.co.kr##.aside-banner
-boardlife.co.kr##[style="height:250px"]
-devkorea.co.kr##.nivo-wrapper
-staraz.co.kr##.nemo_full_widget
-api.dable.io##.item-sp
-api.dable.io##div.item-sp
-api.dable.io##.item-sp
-lawissue.co.kr##a[href*="adclick.php?"]
-veritas.kr##.s-bn
-veritas.kr##DIV[style^="width:728px;height:90px;"]
-blogchart.co.kr##.banner_03
-newsprime.co.kr##.section_4 > iframe
-kcsnews.co.kr##[class^="rightad"]
-metroseoul.co.kr##[style="margin-top: 40px; width: 100%; height: 300px;"]
-metroseoul.co.kr##div[style="width: 673px; height: 250px; padding: 20px 0 50px 0 "]
-wolchuck.co.kr###shop_ads
-wolchuck.co.kr##.boxstyle_01
-petzzi.com##[id^="floatMenu"]
-petzzi.com##.right-layout1 > .right-group:nth-of-type(6)
-f.eventhouse.kr##DIV[style="border:0px dashed #ccc;width:200px;height:200px;overflow:hidden;"]
-thecall.co.kr##[class^="adsense"]
-knnews.co.kr##[class*="banner"]
-mimint.co.kr##.ad
-mimint.co.kr##.board_view_pwlink
-ksilbo.co.kr##IFRAME[src*="banner"]
-mmzone.co.kr###main_right_block
-mediup.co.kr##.plr10
-adic.or.kr###banner
-adic.or.kr###box_3
-adic.or.kr##.banner
-kihoilbo.co.kr##.lo_4.edit_banner_box.drag_alone
-tfnews.co.kr##.ht_left
-tfnews.co.kr##.ht_right
-goodtv.co.kr##DIV[class*="banner"]
-goodtv.co.kr##DIV[id*="banner"]
-testdrive.or.kr###bannerpan
-gameone.kr##DIV[class^="banner"]
-motoya.co.kr###bottom_slides
-motoya.co.kr##.banner_aside01
-noteforum.co.kr##td[id^="id_bmain"]
-mrcrack.net##a[href*="fileguri.com"]
-mrcrack.net##a[href*="onawang.com"]
-mrcrack.net##a[href*="blog.naver.com/lja806316"]
-dogdrip.net##[class$="right-ad"]
-dogdrip.net##[class$="left-ad"]
-kmib.co.kr##.m_ad
-mydaily.co.kr##.read_right_ad
-mydaily.co.kr##DIV[style="width:706px; /**/overflow:hidden; margin-bottom:-20px; margin-top:-20px; padding:10px 0;"]
-gamechosun.co.kr##.top_event
-livere.me###livereAd
-etoday.co.kr###ad_site_top
-ytn.co.kr##DIV[class^="articleAd"]
-edaily.co.kr##DIV[class*="banner"]
-edaily.co.kr##DIV[class^="ad"]
-edaily.co.kr##.list_advertising
-fomos.kr##.banner_area.banner01
-hungryapp.co.kr##DIV[class^="fixed-top"]
-||nocutnews.co.kr###pnlAd1
-nocutnews.co.kr##.head_adr2
-nocutnews.co.kr##.ad1
+news.mt.co.kr##.banner_big
 ablenews.co.kr##IFRAME[id^="realssp_ablenews"]
+lottorich.co.kr###fixed_tv_floating
+gameone.kr##DIV[class^="banner"]
+gmarket.co.kr##.m_ad
+motoya.co.kr###bottom_slides
+uuoobe.kr##TABLE[cellspacing="0"][cellpadding="0"][align="center"][width="730"][border="0"] > tbody > tr:first-child
+techholic.co.kr###articleBody .width-250.height-250
+kookje.co.kr##P.right[style="width:250px;height:250px;border:1px solid #ddd"]
+christiantoday.co.kr##.unit-banner
+bbs.ruliweb.com###adsense_read_728x90_01
+adic.or.kr##.banner
+hungryapp.co.kr##DIV[class^="fixed-top"]
+alba.co.kr###MainBanner
+mydaily.co.kr##DIV[style="width:706px; /**/overflow:hidden; margin-bottom:-20px; margin-top:-20px; padding:10px 0;"]
+goodtv.co.kr##DIV[id*="banner"]
+news.khan.co.kr##.ad_movFocus3
+dogdrip.net##[class$="left-ad"]
+newsprime.co.kr##.section_4 > iframe
+gamechosun.co.kr##.top_event
+etoday.co.kr###livereAd
+ilbe.com###bannerXX
+metroseoul.co.kr##[style="margin-top: 40px; width: 100%; height: 300px;"]
+ilbe.com##IFRAME[style="width:120px;height:618px"]
+kookje.co.kr##DIV.center[style="padding-top:10px;"]
+cooln.kr##.tab
+mtn.co.kr##.adbanner_sponsor
+kookje.co.kr##IFRAME[src^="http://dspserver.adpnut.com/ron/"]
+lawissue.co.kr##a[href*="adclick.php?"]
+nocutnews.co.kr##.ad_view
+ytn.co.kr##.articleAd_marketing
+nocutnews.co.kr##.ad1
+daissue.kr###Container
+dailian.co.kr##[class^="ban300"]
+dogdrip.net##[class$="right-ad"]
+soccerline.kr##.topBann
+cbs.co.kr##.t_left
+jobkorea.co.kr##.middle_banner_wrap
+kihoilbo.co.kr##.lo_4.edit_banner_box.drag_alone
+news.tf.co.kr##.readTopAd
+techholic.co.kr##.auto-marbtm-30
+mediup.co.kr##.plr10
+zdnet.co.kr##.news_12
+tvreport.co.kr##DIV[style="position:relative;height:130px"]
+zdnet.co.kr##.power_center
+ebn.co.kr##.bn320x200
+ytn.co.kr##.ad_zone2
+zdnet.co.kr###main_right_Floating_banner
+sportsq.co.kr###layerPopup_1
+news.khan.co.kr##[class^="ad_"]
+mimint.co.kr##.board_view_pwlink
+mrcrack.net##a[href*="fileguri.com"]
+tfnews.co.kr##.ht_right
+yonhapnews.co.kr##.goolge-banner
+christiantoday.co.kr###div_laypopup
+ytn.co.kr##DIV[style="margin:0 auto;width:628px;border:1px solid #cbcccf;padding:10px 5px 10px 15px;margin-bottom:10px;overflow:hidden;margin-top: 25px;"]
+uuoobe.kr##TABLE[cellspacing="0"][cellpadding="0"][width="230"][height="230"][border="0"]
+zdnet.co.kr##div[class*="right_bn"]
+cyw.pe.kr##TABLE[height="1539"] > tbody > tr:nth-of-type(5)
+livere.me###livereAd
+nocutnews.co.kr##.head_adr2
+news1.kr##DIV[style="display:block;bottom:0;padding:5px; background:#EBEBEB; margin-top:-156px; right:0; position:absolute; width:200px; height:200px;"]
+clien.net##[class$="ad"]
+studyinkorea.go.kr###rollBox2
+dailian.co.kr##[id*="scrollbanner"]
+edaily.co.kr##DIV[class^="ad"]
+thecall.co.kr##[class^="adsense"]
+asiae.co.kr##.view_ad250
+adic.or.kr###box_3
+mediatoday.co.kr##DIV[style="float:right;margin:0 0 15px 15px;width:300px;height:250px;"]
+goodtv.co.kr##DIV[class*="banner"]
+ezday.co.kr##DIV[style="width:100%;padding-left:15px;height:250px;"]
+mtn.co.kr###slideshow
+edaily.co.kr##.list_advertising
+petzzi.com##[id^="floatMenu"]
+zdnet.co.kr##DIV[style="position:relative; display:block;"]
+ilbe.com###mainFixedBanner
 ablenews.co.kr##DIV[style="position:relative; height:110px; text-align:center"]
-dailycar.co.kr##.adR
+daissue.kr###back
+knnews.co.kr##[class*="banner"]
+news.khan.co.kr###AD_LIVE_AREA_29964403
+bbs.ruliweb.com##.nbp_container
+hungryapp.co.kr##.bannersww
+christiantoday.co.kr##.unit-banner-top
+kinews.net###layer-popups
+biz.newdaily.co.kr##[style="width:300px; margin:5px 10px 3px 0; height: 250px;float:left;"]
+||nocutnews.co.kr###pnlAd1
+hani.co.kr##[class^="ad"]
+appstory.co.kr##.box._ban
+devkorea.co.kr##.nivo-wrapper
+yonhapnews.co.kr##.aside-banner
+biz.newdaily.co.kr##DIV[id^="ad"]
+ppomppu.co.kr##.banner_553
+etoday.co.kr###quick_right
+api.dable.io##div.item-sp
+dt.co.kr##TABLE[align="left"][height="270"][width="260"]
+platum.kr##.Grand_News_Custom_Ads
+dailian.co.kr###ban_mtre14
+petzzi.com##.right-layout1 > .right-group:nth-of-type(6)
+mrcrack.net##a[href*="blog.naver.com/lja806316"]
+f.eventhouse.kr##DIV[style="border:0px dashed #ccc;width:200px;height:200px;overflow:hidden;"]
+sisain.co.kr###sliding_adop
 mdtoday.co.kr##.mstyle3
+zdnet.co.kr##.ad
+kmib.co.kr##.m_ad
+cooln.kr##[class*="banner"]
+ksilbo.co.kr##IFRAME[src*="banner"]
+mule.co.kr##[class^="group"]
+mule.co.kr##[class^="ad"]
+staraz.co.kr##.nemo_full_widget
+fow.kr##.neo_top_center
+radiokorea.com###mp_amg
+moneta.co.kr##.ad
+mmzone.co.kr###main_right_block
+lec.co.kr###HeadBanner
+asiae.co.kr##DIV[class^="ad_"]
+gobest.co.kr##TABLE[width="174"][height="620"]
+mediaus.co.kr##.mHeight_D
+vav.kr##.asideadsens
+career.co.kr##.bannerbox-area
+ilbe.com###layer_left
+asiatoday.co.kr##[class^="aside_google"]
+wowtv.co.kr###divTopBanner
+news.mt.co.kr###news_banner1
+autoview.co.kr##.banner
 seeit.kr##TABLE[style="width:690px;margin:5 5 5 5;border:1px solid #ffffff;"]
+ilbe.com##DIV[id^="openXdummy_TTop"]
+testdrive.or.kr###bannerpan
+radiokorea.com##.cycle-slideshow
+dailian.co.kr##[class^="contents"] + [style^="width:250px;height:250px;"]
+kookje.co.kr##IFRAME[src="/service/banner/pnut_right.htm"]
+postshare.co.kr###sky
+kookje.co.kr##DIV[style="clear:both;position:relative;width:468px;height:60px;background:#FFF;border:1px solid #999999;margin:10px auto;z-index:0"]
+ytn.co.kr##.articleAd_new
+wolchuck.co.kr###shop_ads
+boardlife.co.kr##[style="height:250px"]
+ddaily.co.kr##[style="padding-bottom:10px; border-bottom:1px solid #e4e4e4;margin:0;"]
+fomos.kr##.banner_area.banner01
+asiatoday.co.kr##div[style^="width:450px;height:160px;"] 
 seeit.kr###ttItemGroup1853
-bhumor.co.kr###adLayerPopup
 unitel.co.kr##.today_area
+veritas.kr##DIV[style^="width:728px;height:90px;"]
+asiatoday.co.kr##.mt15
+blogchart.co.kr##.banner_03
+asiatoday.co.kr##.gad_wrap
+alba.co.kr###GlobalBanner
+motoya.co.kr##.banner_aside01
+soccerline.kr##ASIDE.midBann
+adic.or.kr###banner
+gobest.co.kr##TABLE[width="786"] > tbody > tr:nth-of-type(6)
+wolchuck.co.kr##.boxstyle_01
+ruliweb.com##.adrrr
+zdnet.co.kr##.ad_list
+siminilbo.co.kr##[class^="adsById"]
+asiatoday.co.kr###ad_optima_wrap
+ezday.co.kr##[id^="homeAd"]
+bhumor.co.kr###adLayerPopup
+mt.co.kr##INS[class^="adsbyadop_"]
+cgv.co.kr###BottomWrapper
+naver.com##.home_da2
+wikitree.co.kr##.wikitree_ad
+noteforum.co.kr##td[id^="id_bmain"]
+edaily.co.kr##DIV[class*="banner"]
+asiae.co.kr##.inside_banner

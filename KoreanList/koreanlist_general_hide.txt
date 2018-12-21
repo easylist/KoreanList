@@ -1,10 +1,10 @@
+###prism_displayAD
+##.ad_area_wrap
+##[id^="AD_LIVE_AREA"]
 ##.ad_skin_left
+##[class*="adsbyadop"]
 ##.ad_skin_right
+##[class*="ad-wrap"]
 ##[class^="ad_left_"]
 ###PrismDisplayBox
-##[class*="adsbyadop"]
-###prism_displayAD
-##[id^="AD_LIVE_AREA"]
-##.ad_area_wrap
-##[class*="ad-wrap"]
 ##a[href*="ad_link.php"]
