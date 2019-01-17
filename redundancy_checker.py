@@ -6,6 +6,11 @@ from collections import OrderedDict
 MYPATH = os.getcwd() + "\\KoreanList"
 onlyfiles = [f for f in listdir(MYPATH) if isfile(join(MYPATH, f))]
 
+def f7(seq):
+    seen = set()
+    seen_add = seen.add
+    return [x for x in seq if not (x in seen or seen_add(x))]
+
 def EmptyLineRemover():
 	EmptyLines= 0
 	for each in onlyfiles:
@@ -42,14 +47,18 @@ def DuplicateRedundancyRemover():
 			lines = f.readlines()
 			f.close()
 
-			RemovedSet= list(set(lines))
+			lines_wo_rn = []
+			for line in lines:
+				lines_wo_rn.append(line.replace('\n', '').replace('\r', ''))
+
+			RedundancedList= f7(lines_wo_rn)
 
 			f = open(target_file,"w")
-			for line in RemovedSet:
-				f.write(line)
+			for line in RedundancedList:
+				f.write(line + "\n")
 			f.close()
 
-		print(str(len(lines) - len(RemovedSet)) + " duplicated lines are reduced in filename:" + each)
+		print(str(len(lines_wo_rn) - len(RedundancedList)) + " duplicated lines are reduced in filename:" + each)
 	
 
 EmptyLineRemover()
