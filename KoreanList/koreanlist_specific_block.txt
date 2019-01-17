@@ -32,7 +32,7 @@
 ||upload.blogchart.co.kr/img/data/banner/
 ||koreahome.kr/images/canteen.gif
 ||ksilbo.co.kr/ad/
-||etorrent.kr/img/index_banner*.*
+||etorrent.kr/img/index_banner
 ||clien.net/service/js/app/clien.naver.js
 ||dispatch.cdnser.be/ad/
 ||contentlink.co.kr^$third-party
@@ -68,7 +68,7 @@
 ||sporbiz.co.kr/bannerpop/uploads/image/$image
 ||image.lottorich.co.kr/lottorich/popup/$image
 ||image5.compuzone.co.kr/img/images/event/$image
-||nimg.honam.co.kr/banner/*
+||nimg.honam.co.kr/banner^
 ||images.christiantoday.co.kr/data/banner/$image
 ||cfile26.uf.tistory.com/image/$domain=macguyver.kr
 ||mmzone.co.kr/media/banner^*ban$image
@@ -88,9 +88,9 @@
 ||menu.mt.co.kr/news/banner/image/$image
 ||metroseoul.co.kr/images/banner/
 ||radiokorea.com/amg/images/banner/
-||img.megafile.co.kr/images^*/banner^*/web*$image
+||img.megafile.co.kr/images^*/banner^*/web^$image
 ||acache.ilbe.com/files/attach/new/$image
-||weeklytrade.co.kr/RAD/PEG/banner*$image
+||weeklytrade.co.kr/RAD/PEG/banner^$image
 ||funddoctor.co.kr/images/banner^*banner$image
 ||webapi2.edaily.co.kr/BoardMgnt/popup
 ||image.gamechosun.co.kr/game/webzine/common/$image
@@ -115,7 +115,7 @@
 ||mmzone.co.kr/media/banner/
 ||hungryapp.co.kr/banner^$image
 ||studyinkorea.go.kr/file/imgpreview.do$image
-||greenpostkorea.co.kr/bannerpop/uploads/image/*
+||greenpostkorea.co.kr/bannerpop/uploads/image^
 ||image.alba.kr/event/$image
 ||livescore.co.kr/img/minibanner$image
 ||gooddailynews.co.kr/bannerpop/uploads/image/

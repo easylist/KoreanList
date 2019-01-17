@@ -106,7 +106,7 @@ hungryapp.co.kr##.bannersww
 christiantoday.co.kr##.unit-banner-top
 kinews.net###layer-popups
 biz.newdaily.co.kr##[style="width:300px; margin:5px 10px 3px 0; height: 250px;float:left;"]
-||nocutnews.co.kr###pnlAd1
+nocutnews.co.kr###pnlAd1
 hani.co.kr##[class^="ad"]
 appstory.co.kr##.box._ban
 devkorea.co.kr##.nivo-wrapper
@@ -158,7 +158,7 @@ wolchuck.co.kr###shop_ads
 boardlife.co.kr##[style="height:250px"]
 ddaily.co.kr##[style="padding-bottom:10px; border-bottom:1px solid #e4e4e4;margin:0;"]
 fomos.kr##.banner_area.banner01
-asiatoday.co.kr##div[style^="width:450px;height:160px;"] 
+asiatoday.co.kr##div[style^="width:450px;height:160px;"]
 seeit.kr###ttItemGroup1853
 unitel.co.kr##.today_area
 veritas.kr##DIV[style^="width:728px;height:90px;"]

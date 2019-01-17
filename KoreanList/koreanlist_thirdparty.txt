@@ -2,7 +2,7 @@
 ||cdnprism.pandora.tv/_adv_img/prism_ad$third-party
 ||creditform.co.kr^$third-party
 ||wp.com/mrcrack.*/wp-content/uploads^$image,third-party
-||pstatic.net/tveta/libs/*$image,domain=naver.com
+||pstatic.net/tveta/libs^$image,domain=naver.com
 ||vod2.shoppingcall.me/images/$third-party
 ||pe-adimage.newscloud.or.kr/creatives/
 ||bp.blogspot.com^$image,third-party
