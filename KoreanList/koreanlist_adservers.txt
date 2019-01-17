@@ -11,6 +11,5 @@
 ||dable.io^$script,third-party
 ||images.dable.io/ad/
 ||dsp.adzon.net^$third-party
-||mymyad.co.kr^$third-party
 ||ad.tjtune.com^$third-party
 ||io.rotifl.unitasst.com/widget$third-party,image

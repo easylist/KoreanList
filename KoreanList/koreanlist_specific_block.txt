@@ -26,7 +26,6 @@
 ||fashionbiz.co.kr/upload/A_banner^$image
 ||asiatoday.co.kr^*/ads/$script
 ||img.asiatoday.co.kr/adver/banner*/
-||img.gsspat.jp^$image,third-party
 ||radiokorea.com/amg/?page=
 ||nimage.newsway.kr/banner^$image
 ||ilyo.co.kr/contents/banner/$image

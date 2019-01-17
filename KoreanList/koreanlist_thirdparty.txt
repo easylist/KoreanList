@@ -1,9 +1,7 @@
 ||outbanner.hu.co.kr/@files/human_banner/$script,third-party
-||outbanner.hu.co.kr/@files/human_banner/$script
 ||cdnprism.pandora.tv/_adv_img/prism_ad$third-party
 ||creditform.co.kr^$third-party
 ||wp.com/mrcrack.*/wp-content/uploads^$image,third-party
-||pub.adpnut.com/ron/html$third-party
 ||pstatic.net/tveta/libs/*$image,domain=naver.com
 ||vod2.shoppingcall.me/images/$third-party
 ||pe-adimage.newscloud.or.kr/creatives/

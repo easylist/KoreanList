@@ -101,7 +101,6 @@ ilbe.com###mainFixedBanner
 ablenews.co.kr##DIV[style="position:relative; height:110px; text-align:center"]
 daissue.kr###back
 knnews.co.kr##[class*="banner"]
-news.khan.co.kr###AD_LIVE_AREA_29964403
 bbs.ruliweb.com##.nbp_container
 hungryapp.co.kr##.bannersww
 christiantoday.co.kr##.unit-banner-top
@@ -178,7 +177,6 @@ siminilbo.co.kr##[class^="adsById"]
 asiatoday.co.kr###ad_optima_wrap
 ezday.co.kr##[id^="homeAd"]
 bhumor.co.kr###adLayerPopup
-mt.co.kr##INS[class^="adsbyadop_"]
 cgv.co.kr###BottomWrapper
 naver.com##.home_da2
 wikitree.co.kr##.wikitree_ad
