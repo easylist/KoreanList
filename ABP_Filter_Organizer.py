@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import pandas as pd 
 import os.path
 import webbrowser
+import tldextract # pip install tldextract
 
 def OpenChrome(url):
     # MacOS
@@ -13,6 +14,20 @@ def OpenChrome(url):
     # Linux
     # chrome_path = '/usr/bin/google-chrome %s'
     webbrowser.get(chrome_path).open(url) 
+
+#https://mxtoolbox.com/SuperTool.aspx?action=whois%3anaver.com&run=networktools
+#https://mxtoolbox.com/SuperTool.aspx?action=whois%3a.tpmn.co.kr&run=networktools
+def CallALookup(filter):
+    filter= filter.replace('#', '').replace('|', '').replace('$', '').replace('^', '')
+    ext = tldextract.extract(filter)
+    DNSLookupURL= "https://mxtoolbox.com/SuperTool.aspx?action=whois%3a"
+    param = "&run=networktools" 
+    print("Whois lookup including subdomain? (y/n)")
+    answer = input()
+    if answer.strip() == 'y' or answer.strip() == '': # Ad-server
+        OpenChrome(DNSLookupURL + ext.subdomain + '.' + ext.domain + '.' + ext.suffix + param)
+    else:
+        OpenChrome(DNSLookupURL + ext.domain + '.' + ext.suffix + param)
 
 def IsPopup(filter):
     if "$popup" in filter:
@@ -120,9 +135,9 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
     print("Is this domain is a... 1.adserver  2.sub-adserver  3.non-adserver.")
     answer= input()
 	
-    if answer.strip() == 'd' or answer.strip() == 'dns':
-        print("Call a DNS lookup.")
-        OpenChrome("https://mxtoolbox.com/SuperTool.aspx?action=a%3" + targetFilter)
+    if answer.strip() == 'w' or answer.strip() == 'l':
+        print("Calling a WHOIS lookup.")
+        CallALookup(targetFilter)
         answer= input()
         pass
 
