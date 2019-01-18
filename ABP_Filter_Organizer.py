@@ -3,7 +3,16 @@ from pandas import DataFrame, read_csv
 import matplotlib.pyplot as plt
 import pandas as pd 
 import os.path
-#import msvcrt
+import webbrowser
+
+def OpenChrome(url):
+    # MacOS
+    # chrome_path = 'open -a /Applications/Google\ Chrome.app %s'
+    # Windows
+    chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
+    # Linux
+    # chrome_path = '/usr/bin/google-chrome %s'
+    webbrowser.get(chrome_path).open(url) 
 
 def IsPopup(filter):
     if "$popup" in filter:
@@ -31,7 +40,8 @@ def IsDeminsionalWhitelistFilter(filter):
 
 TOTAL_WRITTEN_TXT = "total_written.txt"
 EXCELFILE_NAME = r'Korean website filters.xlsx'
-SHEET_NAME = r'May'
+SHEET_NAME = r'June'
+SUB_FOLDER = "KoreanList"
 FILE_PREFIX = "koreanlist_"
 
 # check whether this filter already exists.
@@ -49,8 +59,7 @@ def VerifingDuplicatedFilter(pendingFilter):
     return True
 
 def AppendToTextFile(filename, filterToAppend):
-    FILE_PREFIX = "koreanlist_"
-    with open(FILE_PREFIX+filename, "a") as currFile:
+    with open(SUB_FOLDER + "\\" + FILE_PREFIX+filename, "a") as currFile:
         currFile.write(filterToAppend + "\r\n")
     with open(TOTAL_WRITTEN_TXT, "a") as currFile:
         currFile.write(filterToAppend + "\r\n")
@@ -64,7 +73,6 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
     if isVerified == 'x':
         print(str(idx)+ ". Passed unverified filter.")
         continue
-    
 
     # If there is a new filter, using "New filter" column instead of "Suggested filter".
     IsNewFilter = False
@@ -111,8 +119,14 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
     print("\n"+targetFilter+ "(" + isVerified +"," + str(IsNewFilter) + ")")
     print("Is this domain is a... 1.adserver  2.sub-adserver  3.non-adserver.")
     answer= input()
+	
+    if answer.strip() == 'd' or answer.strip() == 'dns':
+        print("Call a DNS lookup.")
+        OpenChrome("https://mxtoolbox.com/SuperTool.aspx?action=a%3" + targetFilter)
+        answer= input()
+        pass
 
-    if answer.strip() == '':
+    if answer.strip() == '' or answer.strip() == 'x':
         print("Shutdown the program.")
         break
 
