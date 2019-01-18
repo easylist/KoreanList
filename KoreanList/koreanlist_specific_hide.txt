@@ -183,3 +183,7 @@ wikitree.co.kr##.wikitree_ad
 noteforum.co.kr##td[id^="id_bmain"]
 edaily.co.kr##DIV[class*="banner"]
 asiae.co.kr##.inside_banner
+news.heraldcorp.com##div[class^="ad_"]
+cjob.co.kr###main_bn_box
+storyday.kr###leftbanner
+storyday.kr###adLayerPopup

@@ -13,3 +13,5 @@
 ||dsp.adzon.net^$third-party
 ||ad.tjtune.com^$third-party
 ||io.rotifl.unitasst.com/widget$third-party,image
+||ad.tpmn.co.kr^
+||ad.idnad.co.kr^$third-party

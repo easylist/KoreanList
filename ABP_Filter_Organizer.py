@@ -22,12 +22,7 @@ def CallALookup(filter):
     ext = tldextract.extract(filter)
     DNSLookupURL= "https://mxtoolbox.com/SuperTool.aspx?action=whois%3a"
     param = "&run=networktools" 
-    print("Whois lookup including subdomain? (y/n)")
-    answer = input()
-    if answer.strip() == 'y' or answer.strip() == '': # Ad-server
-        OpenChrome(DNSLookupURL + ext.subdomain + '.' + ext.domain + '.' + ext.suffix + param)
-    else:
-        OpenChrome(DNSLookupURL + ext.domain + '.' + ext.suffix + param)
+    OpenChrome(DNSLookupURL + ext.domain + '.' + ext.suffix + param)
 
 def IsPopup(filter):
     if "$popup" in filter:
@@ -99,7 +94,7 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
         IsNewFilter = True
 
     if targetFilter is pd.np.nan:
-        print(str(idx)+ ". This filter has nan value.")
+        print(str(idx)+ ". No filters can be found in this row.")
         continue
 
     if VerifingDuplicatedFilter(targetFilter) == False:

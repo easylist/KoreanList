@@ -8,3 +8,5 @@
 ##[class^="ad_left_"]
 ###PrismDisplayBox
 ##a[href*="ad_link.php"]
+##.adBannerLeft
+##.adBannerRight
