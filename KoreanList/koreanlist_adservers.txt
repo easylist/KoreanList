@@ -15,3 +15,7 @@
 ||io.rotifl.unitasst.com/widget$third-party,image
 ||ad.tpmn.co.kr^
 ||ad.idnad.co.kr^$third-party
+||piclick.me^$third-party
+||mymyad.co.kr^$third-party
+||adop.cc^$third-party
+||ad.tpmn.co.kr^$third-party

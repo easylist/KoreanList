@@ -147,3 +147,6 @@
 ||sangil-g.hs.kr/xbanner/$image
 ||kncity.co.kr/source/upload/banner/
 ||shopers.co.kr/chanb_images^$image
+||image.tvdaily.co.kr/banner/
+||pandorasbox.kr^*/banner
+||autotimes.hankyung.com/autotimesdata/images/banner/
