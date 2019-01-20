@@ -7,7 +7,6 @@
 ||pe-adimage.newscloud.or.kr/creatives/
 ||bp.blogspot.com^$image,third-party
 ||ad.goclassic.co.kr/ad/
-||mymyad.co.kr^$third-party
 ||cdn.oneaday.co.kr^$third-party
 ||cliimage.commutil.kr/phpwas/restmb_allidxmake.php?$image
 ||cdnprism.pandora.tv/_adv_img/prism_ad^$script

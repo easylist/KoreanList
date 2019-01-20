@@ -18,10 +18,16 @@ def OpenChrome(url):
 #https://mxtoolbox.com/SuperTool.aspx?action=whois%3anaver.com&run=networktools
 #https://mxtoolbox.com/SuperTool.aspx?action=whois%3a.tpmn.co.kr&run=networktools
 def CallALookup(filter):
-    filter= filter.replace('#', '').replace('|', '').replace('$', '').replace('^', '')
+    filter= filter[:filter.find('$')]
+    filter= filter.replace('#', '').replace('|', '').replace('^', '')
     ext = tldextract.extract(filter)
     DNSLookupURL= "https://mxtoolbox.com/SuperTool.aspx?action=whois%3a"
     param = "&run=networktools" 
+
+    print("subdomain: " + ext.subdomain)
+    print("domain: " + ext.domain)
+    print("suffix: " + ext.suffix)
+    
     OpenChrome(DNSLookupURL + ext.domain + '.' + ext.suffix + param)
 
 def IsPopup(filter):
@@ -50,7 +56,7 @@ def IsDeminsionalWhitelistFilter(filter):
 
 TOTAL_WRITTEN_TXT = "total_written.txt"
 EXCELFILE_NAME = r'Korean website filters.xlsx'
-SHEET_NAME = r'June'
+SHEET_NAME = r'July'
 SUB_FOLDER = "KoreanList"
 FILE_PREFIX = "koreanlist_"
 

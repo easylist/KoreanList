@@ -14,7 +14,6 @@ mydaily.co.kr##.read_right_ad
 mrcrack.net##a[href*="onawang.com"]
 windowsforum.kr##.top_banner
 metroseoul.co.kr##div[style="width: 673px; height: 250px; padding: 20px 0 50px 0 "]
-ytn.co.kr##DIV[class^="articleAd"]
 ebs.co.kr##.ban_01
 tvreport.co.kr###VIEW_CONTENT_TOP1
 alba.co.kr###Promotion
@@ -188,7 +187,7 @@ cjob.co.kr###main_bn_box
 storyday.kr###leftbanner
 storyday.kr###adLayerPopup
 tvdaily.asiae.co.kr##.read> TABLE[style="margin-right:10px"]
-ytn.co.kr##div[class^="articleAd_"]
+ytn.co.kr##div[class^="articleAd"]
 ytn.co.kr##DIV[style="overflow:hidden;width:420px;height:45px;border:1px solid #cbcccf;background-color: #fafafa;margin:20px auto 0 auto;padding:10px 30px;position:relative;"]
 ytn.co.kr###hns_mask
 ytn.co.kr##.adright_box
