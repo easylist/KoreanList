@@ -192,3 +192,9 @@ ytn.co.kr##DIV[style="overflow:hidden;width:420px;height:45px;border:1px solid #
 ytn.co.kr###hns_mask
 ytn.co.kr##.adright_box
 m.koreaherald.com###SUEZ_SlideSlideDivBox
+offroad.co.kr##.banner_line
+gamey.kr##.articleright1_banner
+epnc.co.kr###top_banner
+mof.go.kr##.banner_zone
+kwiin.es.kr##.Cont_Banner
+phiko.kr##.basic-post-gallery

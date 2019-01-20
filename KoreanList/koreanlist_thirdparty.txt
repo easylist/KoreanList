@@ -11,3 +11,4 @@
 ||cliimage.commutil.kr/phpwas/restmb_allidxmake.php?$image
 ||cdnprism.pandora.tv/_adv_img/prism_ad^$script
 ||ad.linkprice.com^$third-party
+||ssl.logger.co.kr^$third-party

@@ -17,3 +17,5 @@
 ||piclick.me^$third-party
 ||mymyad.co.kr^$third-party
 ||ad.tpmn.co.kr^$third-party
+||gamey.ad.wich.kr^$third-party
+||dd-adkpf.newscloud.or.kr$third-party
