@@ -19,3 +19,4 @@
 ||ad.tpmn.co.kr^$third-party
 ||gamey.ad.wich.kr^$third-party
 ||dd-adkpf.newscloud.or.kr$third-party
+||apis.piclick.me^$third-party
