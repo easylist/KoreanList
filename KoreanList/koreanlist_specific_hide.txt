@@ -198,3 +198,4 @@ epnc.co.kr###top_banner
 mof.go.kr##.banner_zone
 kwiin.es.kr##.Cont_Banner
 phiko.kr##.basic-post-gallery
+osen.mt.co.kr##.advertising
