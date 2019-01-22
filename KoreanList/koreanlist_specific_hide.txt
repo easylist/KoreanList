@@ -199,3 +199,11 @@ mof.go.kr##.banner_zone
 kwiin.es.kr##.Cont_Banner
 phiko.kr##.basic-post-gallery
 osen.mt.co.kr##.advertising
+m.khan.co.kr##.pushADMiddle
+m.khan.co.kr###mobitree
+circulation.or.kr##.rollingArea.sponsor
+soongil.hs.kr###banner
+ga-dong.es.kr##.move_banner
+kaswc.or.kr##.right2
+sangga114.co.kr##.banner-block
+andongmbc.co.kr##.pr_img
