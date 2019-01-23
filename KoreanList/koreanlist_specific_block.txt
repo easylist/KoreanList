@@ -7,7 +7,7 @@
 ||appdata.hungryapp.co.kr//event/main_banner/*772x200$image
 ||file.okky.kr/banner/
 ||img.tf.co.kr/ad/ads/$image
-||img.ppomppu.co.kr/zboard/data3/banner/$image
+||img.ppomppu.co.kr/zboard/data3/banner^$image
 ||vrn.co.kr/bannerpop/uploads/image/
 ||apparelnews.co.kr/ad/
 ||nalab.kr/files/attach/images/27919483/1c8b2c06dfa95b4f07bd47322a0033a6.gif
@@ -222,14 +222,12 @@
 ||kims.re.kr/*bottom_ban$image
 ||kpanews.co.kr/imgs/adv^$image
 ||idec.or.kr/images/index/banner$image
-||img.ppomppu.co.kr/zboard/data3/banner$image
 ||jungsan.hs.kr/files/banner$image
 ||syszone.co.kr/clunix_banner.jpg
 ||prezi.or.kr/wp-content/uploads^*508*73$image
 ||te31.com/rgr/coit20181124pc.png
 ||te31.com/rgr/ad^*banner$image
 ||te31.com/rgr/eyepc_2.jpg
-||khgames.co.kr/bannerpop/uploads/image
 ||torrentmap.com/banner^$image
 ||i.imgur.com^$domain=torrentmap.com
 ||nids.or.kr/images/main/banner$image
