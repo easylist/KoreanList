@@ -10,4 +10,4 @@
 ##a[href*="ad_link.php"]
 ##.adBannerLeft
 ##.adBannerRight
-##.ad_slide_wrap
+##.ad_slide_wrap

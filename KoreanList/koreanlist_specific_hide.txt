@@ -207,11 +207,11 @@ ga-dong.es.kr##.move_banner
 kaswc.or.kr##.right2
 sangga114.co.kr##.banner-block
 andongmbc.co.kr##.pr_img
-fafan.kr##DIV[style="clear: both; position: relative; width: 100%; height: 110px; padding: 10px 10px 10px 10px; border: 1px solid #e2e2e2; background: #fff; overflow: hidden; margin-bottom: 15px;"]
-fafan.kr##DIV[style="clear: both; position: relative; width: 100%; height: 630px; padding: 10px 20px 10px 20px; border: 1px solid #e2e2e2; background: #fff; overflow: hidden;"]
-stuin.ac.kr##[class^="banner"]
-rnd.or.kr##.footer-slider
-kicox.or.kr###banner-area
-kims.re.kr##.sct_box.bnr_roll
-idec.or.kr##.banner
-khgames.co.kr##DIV[id^="popup"]
+fafan.kr##DIV[style="clear: both; position: relative; width: 100%; height: 110px; padding: 10px 10px 10px 10px; border: 1px solid #e2e2e2; background: #fff; overflow: hidden; margin-bottom: 15px;"]
+fafan.kr##DIV[style="clear: both; position: relative; width: 100%; height: 630px; padding: 10px 20px 10px 20px; border: 1px solid #e2e2e2; background: #fff; overflow: hidden;"]
+stuin.ac.kr##[class^="banner"]
+rnd.or.kr##.footer-slider
+kicox.or.kr###banner-area
+kims.re.kr##.sct_box.bnr_roll
+idec.or.kr##.banner
+khgames.co.kr##DIV[id^="popup"]
