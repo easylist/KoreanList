@@ -20,3 +20,4 @@
 ||gamey.ad.wich.kr^$third-party
 ||dd-adkpf.newscloud.or.kr$third-party
 ||apis.piclick.me^$third-party
+||adapi.inlcorp.com^$third-party

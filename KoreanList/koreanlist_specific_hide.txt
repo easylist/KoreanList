@@ -212,3 +212,6 @@ fafan.kr##DIV[style="clear: both; position: relative; width: 100%; height: 630px
 stuin.ac.kr##[class^="banner"]
 rnd.or.kr##.footer-slider
 kicox.or.kr###banner-area
+kims.re.kr##.sct_box.bnr_roll
+idec.or.kr##.banner
+khgames.co.kr##DIV[id^="popup"]

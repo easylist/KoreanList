@@ -219,3 +219,15 @@
 ||kcms.cnews.co.kr/uhtml/images/banner/181031.jpg
 ||kcms.cnews.co.kr/uhtml/images/banner/181024.jpg
 ||kcms.cnews.co.kr/uhtml/images/banner/interior_life_left_banner.png
+||kims.re.kr/*bottom_ban$image
+||kpanews.co.kr/new/images/banner/sub^$image
+||kpanews.co.kr/imgs/adv^$image
+||idec.or.kr/images/index/banner$image
+||img.ppomppu.co.kr/zboard/data3/banner$image
+||jungsan.hs.kr/files/banner$image
+||syszone.co.kr/clunix_banner.jpg
+||prezi.or.kr/wp-content/uploads^*508*73$image
+||te31.com/rgr/coit20181124pc.png
+||te31.com/rgr/ad^*banner$image
+||te31.com/rgr/eyepc_2.jpg
+||khgames.co.kr/bannerpop/uploads/image
