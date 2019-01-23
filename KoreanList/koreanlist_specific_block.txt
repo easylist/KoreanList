@@ -175,7 +175,6 @@
 ||phiko.kr^*/banner/$image
 ||cjb.co.kr/project/design/main/banner$image
 ||j123.co.kr/images01/main_001_13.gif
-||soongil.hs.kr/data_files/board^*_thumb$image
 ||circulation.or.kr:4443/image/sponsor/banner$image
 ||koreahtml5.kr/images^*banner
 ||study4you.co.kr/image/left_banner$image
