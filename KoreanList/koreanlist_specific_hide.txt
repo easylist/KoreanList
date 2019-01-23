@@ -215,3 +215,6 @@ kicox.or.kr###banner-area
 kims.re.kr##.sct_box.bnr_roll
 idec.or.kr##.banner
 khgames.co.kr##DIV[id^="popup"]
+hijeju.or.kr##.recommendWrap
+fpn119.co.kr##DIV.bn
+kiise.or.kr##.partners_list
