@@ -216,5 +216,6 @@ kims.re.kr##.sct_box.bnr_roll
 idec.or.kr##.banner
 khgames.co.kr##DIV[id^="popup"]
 hijeju.or.kr##.recommendWrap
-fpn119.co.kr##DIV.bn
-kiise.or.kr##.partners_list
+fpn119.co.kr##DIV.bnkiise.or.kr##.partners_list
+eventnet.co.kr##DIV[class*="ban_wrap"]
+eventnet.co.kr##.m_ban_slide

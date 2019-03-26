@@ -250,5 +250,6 @@
 ||mrs-k.or.kr/images/IUMRS-ICEM2018_v1-1.jpg
 ||mrs-k.or.kr/images/yeosu.jpg
 ||egn.kr/bannerpop/uploads/image^$image
-||egn.kr/image/banner^$image
-||hongikin.com/banner^$image
+||egn.kr/image/banner^$image
+||hongikin.com/banner^$image
+||kinews.net/bannerpop/uploads/image^
