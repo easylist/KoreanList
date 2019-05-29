@@ -19,4 +19,5 @@
 ||ad.tpmn.co.kr^$third-party
 ||gamey.ad.wich.kr^$third-party
 ||dd-adkpf.newscloud.or.kr$third-party
-||adapi.inlcorp.com^$third-party
+||adbiz3.co.kr^$subdocument,third-party
+||catad5959.com^$third-party

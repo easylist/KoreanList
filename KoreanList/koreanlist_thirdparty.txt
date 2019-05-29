@@ -5,9 +5,12 @@
 ||pstatic.net/tveta/libs^$image,domain=naver.com
 ||vod2.shoppingcall.me/images/$third-party
 ||pe-adimage.newscloud.or.kr/creatives/
+||bp.blogspot.com^$image,third-party
 ||ad.goclassic.co.kr/ad/
 ||cdn.oneaday.co.kr^$third-party
 ||cliimage.commutil.kr/phpwas/restmb_allidxmake.php?$image
 ||cdnprism.pandora.tv/_adv_img/prism_ad^$script
 ||ad.linkprice.com^$third-party
 ||ssl.logger.co.kr^$third-party
+||res.cloudinary.com^*/image/upload^$image,third-party
+||i68.tinypic.com^$domain=avnori.pro
