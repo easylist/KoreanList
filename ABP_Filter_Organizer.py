@@ -56,10 +56,9 @@ def IsDeminsionalWhitelistFilter(filter):
 
 TOTAL_WRITTEN_TXT = "total_written.txt"
 EXCELFILE_NAME = r'Korean website filters.xlsx'
-SHEET_NAME = r'Jan'
+SHEET_NAME = r'2019.Feb'
 SUB_FOLDER = "KoreanList"
 FILE_PREFIX = "koreanlist_"
-ONE_COLUMN_MODE = False
 
 # check whether this filter already exists.
 def VerifingDuplicatedFilter(pendingFilter):
@@ -91,27 +90,22 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
         print(str(idx)+ ". Passed unverified filter.")
         continue
 
-
     # If there is a new filter, using "New filter" column instead of "Suggested filter".
     IsNewFilter = False
     targetFilter = ''
-
-    if ONE_COLUMN_MODE == True:
+    if df['New filter (If necessary)'][idx] is pd.np.nan:
         targetFilter = x
     else:
-        if df['New filter (If necessary)'][idx] is pd.np.nan:
-            targetFilter = x
-        else:
-            targetFilter = df['New filter (If necessary)'][idx]
-            IsNewFilter = True
+        targetFilter = df['New filter (If necessary)'][idx]
+        IsNewFilter = True
 
-        if targetFilter is pd.np.nan:
-            print(str(idx)+ ". No filters can be found in this row.")
-            continue
+    if targetFilter is pd.np.nan:
+        print(str(idx)+ ". No filters can be found in this row.")
+        continue
 
-        if VerifingDuplicatedFilter(targetFilter) == False:
-            print(str(idx)+ ". This filter is already in the list.")
-            continue
+    if VerifingDuplicatedFilter(targetFilter) == False:
+        print(str(idx)+ ". This filter is already in the list.")
+        continue
     
     # Set boolean variables
     isPopup = IsPopup(targetFilter)
@@ -139,9 +133,9 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
     
     
     print("\n"+targetFilter+ "(" + isVerified +"," + str(IsNewFilter) + ")")
-    print("Is this domain is a... 1.adserver  2.sub-adserver  3.non-adserver.")
+    print("Is this domain is a... (1)adserver  (2)sub-adserver  (3)non-adserver. (w)whois searching. (u)undo. (x)exit")
     answer= input()
-    
+	
     if answer.strip() == 'w' or answer.strip() == 'l':
         print("Calling a WHOIS lookup.")
         CallALookup(targetFilter)
