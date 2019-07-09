@@ -5,7 +5,6 @@
 ||pstatic.net/tveta/libs^$image,domain=naver.com
 ||vod2.shoppingcall.me/images/$third-party
 ||pe-adimage.newscloud.or.kr/creatives/
-||bp.blogspot.com^$image,third-party
 ||ad.goclassic.co.kr/ad/
 ||cdn.oneaday.co.kr^$third-party
 ||cliimage.commutil.kr/phpwas/restmb_allidxmake.php?$image
