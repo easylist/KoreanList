@@ -230,3 +230,14 @@ torrentpan.net##img[align="absmiddle"]
 mobile.newsis.com##iframe[src*="/ad_list/"]
 m.etnews.com##div[id^="mobonDivBanner"]
 dvdprime.com###mobile_top_banner
+gigglehd.com##a[href^="http://prod.danawa.com"]
+gigglehd.com##a[href^="http://www.3rshop.co.kr/"]
+m.kbench.com###flotting_layer
+torrentpan.net##.basic-banner
+torrentpan2.net##.basic-banner
+m.koreaherald.com##p[id^="ad_piclick"]
+kookje.co.kr###mobitree
+kookje.co.kr##div[style*="width:210px;height:200px;"]
+kookje.co.kr##.soft_box
+otgtv.top##.widget-box
+m.dailian.co.kr###tmpILSA_Container

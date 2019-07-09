@@ -209,3 +209,7 @@
 ||m.nocutnews.co.kr/ad/ad$subdocument
 ||m.etnews.com/tools/refresh_script.html
 ||media.marutv.com^*200x200.gif
+||toonkor.gg/bann^$image
+||etoland.co.kr/img/index_banner$image
+||busan.com/w2010/AD^$image
+||torrentpan*.net/img^$image

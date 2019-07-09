@@ -14,3 +14,4 @@
 ||ssl.logger.co.kr^$third-party
 ||res.cloudinary.com^*/image/upload^$image,third-party
 ||i68.tinypic.com^$domain=avnori.pro
+||res.cloudinary.com^*/image/upload^$image,third-party
