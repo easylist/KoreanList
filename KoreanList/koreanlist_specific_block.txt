@@ -201,7 +201,7 @@
 ||taeyo.pe.kr/images/spreadJS.gif
 ||devlec.com/images/devlec_taeyo.gif
 ||taeyo.pe.kr/banner_images/neodeex_ban2.jpg
-  
+||toonkor.*/bann^$image
 ||mangashow.me/img/banner^$image
 ||semoya.net/img/banner^$image
 ||hellven.net/data/apms/banner^$image
@@ -209,7 +209,6 @@
 ||m.nocutnews.co.kr/ad/ad$subdocument
 ||m.etnews.com/tools/refresh_script.html
 ||media.marutv.com^*200x200.gif
-||toonkor.gg/bann^$image
 ||etoland.co.kr/img/index_banner$image
 ||busan.com/w2010/AD^$image
 ||torrentpan*.net/img^$image
