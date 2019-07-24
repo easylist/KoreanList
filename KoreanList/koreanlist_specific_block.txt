@@ -212,3 +212,5 @@
 ||etoland.co.kr/img/index_banner$image
 ||busan.com/w2010/AD^$image
 ||torrentpan*.net/img^$image
+||torrentmap.com/banner^$image
+||i.imgur.com^$domain=torrentmap.com
