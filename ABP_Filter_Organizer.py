@@ -1,4 +1,9 @@
+# -*- coding: utf-8 -*-
+from __future__ import print_function, unicode_literals # CLI-UIs
+from PyInquirer import prompt, print_json # CLI-UIs
 
+import sys
+import numpy as np 
 from pandas import DataFrame, read_csv
 import matplotlib.pyplot as plt
 import pandas as pd 
@@ -6,9 +11,8 @@ import os.path
 import webbrowser
 import tldextract # pip install tldextract
 from xlrd import open_workbook
-import numpy as np 
-import sys
-from StyleFrame import StyleFrame, utils
+from StyleFrame import StyleFrame, utils # to read background of cell
+
 
 print("Python version: ", sys.version)
 print ("Pandas version: ", pd.__version__)
@@ -80,13 +84,29 @@ def IsDeminsionalWhitelistFilter(filter):
 
 TOTAL_WRITTEN_TXT = "total_written.txt"
 #EXCELFILE_NAME = r'Korean website filters.xlsx'
-PRESET_SHEET_NAME = r'2019.Feb'
+#PRESET_SHEET_NAME = r'2019.Feb'
 SUB_FOLDER = "KoreanList"
 FILE_PREFIX = "koreanlist_"
-SheetName = input("Please enter the target sheet name (enter blank to use pre-filled sheet name) : ")
+#SheetName = input("Please enter the target sheet name (enter blank to use pre-filled sheet name) : ")
 
-if SheetName.strip() == '':
-    SheetName = PRESET_SHEET_NAME
+xl = pd.ExcelFile(path)
+xl.sheet_names
+
+questions = [
+    {
+        'type': 'list',
+        'name': 'sheet',
+        'message': 'Please select the target sheet.',
+        'choices': xl.sheet_names,
+    },
+]
+selected_sheet = prompt(questions)
+print(selected_sheet['sheet'])
+SheetName = selected_sheet['sheet']
+
+#if SheetName.strip() == '':
+#    SheetName = PRESET_SHEET_NAME
+
 
 print("target sheet : " + SheetName)
 
