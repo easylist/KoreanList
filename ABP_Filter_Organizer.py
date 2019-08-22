@@ -5,6 +5,28 @@ import pandas as pd
 import os.path
 import webbrowser
 import tldextract # pip install tldextract
+from xlrd import open_workbook
+import numpy as np 
+import sys
+from StyleFrame import StyleFrame, utils
+
+print("Python version: ", sys.version)
+print ("Pandas version: ", pd.__version__)
+#print("openpyxl version: ", openpyxl.__version__)
+
+print("execute script from : " +sys.argv[0])
+print("running target file : " +sys.argv[1] + "\n")
+
+path = ""
+if sys.argv[1] == "":
+    path = 'Korean website filters.xlsx'
+    print("use a default path : " + path)
+else:
+    path = sys.argv[1]
+
+if path == "":
+    print("path null error.")
+    sys.exit()
 
 def OpenChrome(url):
     # MacOS
@@ -54,8 +76,10 @@ def IsGeneralWhitelistFilter(filter):
 def IsDeminsionalWhitelistFilter(filter):
     return False
 
+
+
 TOTAL_WRITTEN_TXT = "total_written.txt"
-EXCELFILE_NAME = r'Korean website filters.xlsx'
+#EXCELFILE_NAME = r'Korean website filters.xlsx'
 SHEET_NAME = r'2019.Feb'
 SUB_FOLDER = "KoreanList"
 FILE_PREFIX = "koreanlist_"
@@ -82,7 +106,19 @@ def AppendToTextFile(filename, filterToAppend):
     print("This filter is saved to: " + filename)
 
 
-df = pd.read_excel(EXCELFILE_NAME , SHEET_NAME)
+
+def only_cells_with_green_background(cell):
+    #print(cell.value, cell.style.bg_color)
+    return cell if cell.style.bg_color in {utils.colors.green, 'FF93C47D'} else np.nan
+
+
+sf = StyleFrame.read_excel(path, sheet_name=SHEET_NAME, read_style=True, use_openpyxl_styles=False)
+sf_3 = StyleFrame(sf.applymap(only_cells_with_green_background).dropna(axis=(0, 1), how='all'))
+print(sf_3)
+
+sys.exit()
+
+df = pd.read_excel(path , SHEET_NAME)
 for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
     # Verified : if the background cell color of filter is Green or the "New filter" column is filled.
     isVerified= df['Verified'][idx]
