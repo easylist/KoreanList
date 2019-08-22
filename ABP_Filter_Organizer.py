@@ -80,10 +80,15 @@ def IsDeminsionalWhitelistFilter(filter):
 
 TOTAL_WRITTEN_TXT = "total_written.txt"
 #EXCELFILE_NAME = r'Korean website filters.xlsx'
-SHEET_NAME = r'2019.Feb'
+PRESET_SHEET_NAME = r'2019.Feb'
 SUB_FOLDER = "KoreanList"
 FILE_PREFIX = "koreanlist_"
-print("target sheet : " + SHEET_NAME)
+SheetName = input("Please enter the target sheet name (enter blank to use pre-filled sheet name) : ")
+
+if SheetName.strip() == '':
+    SheetName = PRESET_SHEET_NAME
+
+print("target sheet : " + SheetName)
 
 
 # check whether this filter already exists.
@@ -119,13 +124,13 @@ def checkVerified():
     return
 
 
-sf = StyleFrame.read_excel(path, sheet_name=SHEET_NAME, read_style=True, use_openpyxl_styles=False)
+sf = StyleFrame.read_excel(path, sheet_name=SheetName, read_style=True, use_openpyxl_styles=False)
 sf_bg = StyleFrame(sf.applymap(only_cells_with_green_background))
 #print(sf_bg)
 
 
 
-df = pd.read_excel(path , SHEET_NAME)
+df = pd.read_excel(path , SheetName)
 #print(df)
 #sys.exit()
 for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
@@ -162,7 +167,7 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
 
     if isVerified is False:
         print(str(idx)+ ". Passed unverified filter.")
-    #     continue
+        continue
 
     
     # Set boolean variables
@@ -190,9 +195,13 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
 
     
     
-    print("\n"+targetFilter+ " --> (Verified : " + str(isVerified) +", New suggestion : " + str(IsNewFilter) + ")")
-    print("Is this domain is a... (1)adserver  (2)sub-adserver  (3)non-adserver. (w)whois searching. (u)undo. (x)exit")
+    print("\n"+targetFilter) #+ " --> (Verified : " + str(isVerified) +", New suggestion : " + str(IsNewFilter) + ")")
+    print("Is this domain is a... (1)adserver  (2)sub-adserver  (3)non-adserver. (w)whois searching. (u)undo. (p)pass. (x)exit")
     answer= input()
+
+    if answer.strip() == 'p' or answer.strip() == 'n':
+        print ("next.")
+        continue
 	
     if answer.strip() == 'w' or answer.strip() == 'l':
         print("Calling a WHOIS lookup.")
