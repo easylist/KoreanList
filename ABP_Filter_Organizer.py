@@ -83,6 +83,8 @@ TOTAL_WRITTEN_TXT = "total_written.txt"
 SHEET_NAME = r'2019.Feb'
 SUB_FOLDER = "KoreanList"
 FILE_PREFIX = "koreanlist_"
+print("target sheet : " + SHEET_NAME)
+
 
 # check whether this filter already exists.
 def VerifingDuplicatedFilter(pendingFilter):
@@ -109,22 +111,33 @@ def AppendToTextFile(filename, filterToAppend):
 
 def only_cells_with_green_background(cell):
     #print(cell.value, cell.style.bg_color)
-    return cell if cell.style.bg_color in {utils.colors.green, 'FF93C47D'} else np.nan
+    #return cell if cell.style.bg_color in {utils.colors.green, 'FF93C47D'} else np.nan
+    return cell.style.bg_color
+
+
+def checkVerified():
+    return
 
 
 sf = StyleFrame.read_excel(path, sheet_name=SHEET_NAME, read_style=True, use_openpyxl_styles=False)
-sf_3 = StyleFrame(sf.applymap(only_cells_with_green_background).dropna(axis=(0, 1), how='all'))
-print(sf_3)
+sf_bg = StyleFrame(sf.applymap(only_cells_with_green_background))
+#print(sf_bg)
 
-sys.exit()
+
 
 df = pd.read_excel(path , SHEET_NAME)
+#print(df)
+#sys.exit()
 for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
     # Verified : if the background cell color of filter is Green or the "New filter" column is filled.
-    isVerified= df['Verified'][idx]
-    if isVerified == 'x':
-        print(str(idx)+ ". Passed unverified filter.")
-        continue
+    # isVerified= df['Verified'][idx]
+    # if isVerified == 'x':
+    #     print(str(idx)+ ". Passed unverified filter.")
+    #     continue
+
+    has_green_bg= False
+    if sf_bg['Suggested filter (to be reviewed)'][idx] == "FF93C47D" or sf_bg['Suggested filter (to be reviewed)'][idx] == "FFB6D7A8":
+        has_green_bg = True
 
     # If there is a new filter, using "New filter" column instead of "Suggested filter".
     IsNewFilter = False
@@ -142,6 +155,15 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
     if VerifingDuplicatedFilter(targetFilter) == False:
         print(str(idx)+ ". This filter is already in the list.")
         continue
+
+    isVerified = False
+    if IsNewFilter is True or has_green_bg is True:
+        isVerified= True
+
+    if isVerified is False:
+        print(str(idx)+ ". Passed unverified filter.")
+    #     continue
+
     
     # Set boolean variables
     isPopup = IsPopup(targetFilter)
@@ -168,7 +190,7 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
 
     
     
-    print("\n"+targetFilter+ "(" + isVerified +"," + str(IsNewFilter) + ")")
+    print("\n"+targetFilter+ " --> (Verified : " + str(isVerified) +", New suggestion : " + str(IsNewFilter) + ")")
     print("Is this domain is a... (1)adserver  (2)sub-adserver  (3)non-adserver. (w)whois searching. (u)undo. (x)exit")
     answer= input()
 	
