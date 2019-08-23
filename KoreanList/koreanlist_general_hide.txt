@@ -9,5 +9,5 @@
 ##a[href*="ad_link.php"]
 ##.adBannerLeft
 ##.adBannerRight
-
-##iframe[src*="adop.cc"]
+##iframe[src*="adop.cc"]
+###mobitree

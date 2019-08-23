@@ -200,7 +200,6 @@ kwiin.es.kr##.Cont_Banner
 phiko.kr##.basic-post-gallery
 osen.mt.co.kr##.advertising
 m.khan.co.kr##.pushADMiddle
-m.khan.co.kr###mobitree
 circulation.or.kr##.rollingArea.sponsor
 soongil.hs.kr###banner
 ga-dong.es.kr##.move_banner
@@ -216,13 +215,11 @@ m.yna.co.kr##div[id^="mobonDivBanner"]
 news.hankyung.com##.ad_list
 news.hankyung.com##.ad_txt
 news.hankyung.com##.joy_info
-m.ohmynews.com###mobitree
 m.ohmynews.com##.s3dpop_container
 m.ytn.co.kr###sf_plus_modal
 m.ytn.co.kr##.newsview_ad
 m.mt.co.kr##.ad_list_t1
 m.nocutnews.co.kr##div[style*="width:200px; height:200px;float:right;"]
-topstarnews.net###mobitree
 topstarnews.net###waveAD
 m.zdnet.co.kr###ad_tag
 torrentpan.net##.basic-banner
@@ -236,7 +233,6 @@ m.kbench.com###flotting_layer
 torrentpan.net##.basic-banner
 torrentpan2.net##.basic-banner
 m.koreaherald.com##p[id^="ad_piclick"]
-kookje.co.kr###mobitree
 kookje.co.kr##div[style*="width:210px;height:200px;"]
 kookje.co.kr##.soft_box
 otgtv.top##.widget-box
