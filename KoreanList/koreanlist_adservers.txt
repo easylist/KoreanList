@@ -24,3 +24,5 @@
 ||catad5959.com^$third-party
 ||adpingpong1.co.kr^$third-party
 ||ad.3dpop.kr^$third-party
+adbiz.co.kr$third-party
+||check.tadapi.info^$domain=ajunews.com

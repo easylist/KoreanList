@@ -241,3 +241,12 @@ kookje.co.kr##div[style*="width:210px;height:200px;"]
 kookje.co.kr##.soft_box
 otgtv.top##.widget-box
 m.dailian.co.kr###tmpILSA_Container
+mobile.busan.com##div[class^="wcms_ad"]
+mobile.busan.com###waveAd
+m.kr.ajunews.com##div[id^="mobonDivBanner"]
+m.kr.ajunews.com##.view_banner
+m.thisisgame.com##div[id^="ad_layer"]
+dispatch.co.kr##div[class*="abchttpsdispatchcdn"]
+ppss.kr###custom_html-2
+m.sportsseoul.com##div[id^="ad_"]
+m.sportsseoul.com###article-ad-area

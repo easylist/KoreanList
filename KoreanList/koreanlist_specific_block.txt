@@ -213,4 +213,13 @@
 ||busan.com/w2010/AD^$image
 ||torrentpan*.net/img^$image
 ||torrentmap.com/banner^$image
-||i.imgur.com^$domain=torrentmap.com
+||i.imgur.com^$domain=torrentmap.comavdbs.com/banner^$image
+||avshow.me/img^$image
+||torrentshow.me^$domain=avshow.me
+||busan.com^*AD^$image
+||image.ajunews.com/images^*/banner^
+||ilovevid.com/banner^$third-party,image
+||torrenttt.*^*/ad^$image
+||torrenttt.*^*/assets/img/banner$image
+||dasibomtv.vip/wp-content/uploads^*.gif
+||ppss.kr^*/*banner$image
