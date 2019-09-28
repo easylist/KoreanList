@@ -164,6 +164,9 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
     if sf_bg['Suggested filter (to be reviewed)'][idx] == "FF93C47D" or sf_bg['Suggested filter (to be reviewed)'][idx] == "FFB6D7A8":
         has_green_bg = True
 
+    print(has_green_bg)
+    print(df['New filter (If necessary)'][idx] )
+
     # If there is a new filter, using "New filter" column instead of "Suggested filter".
     IsNewFilter = False
     targetFilter = ''
@@ -173,7 +176,7 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
         targetFilter = df['New filter (If necessary)'][idx]
         IsNewFilter = True
 
-    if targetFilter is pd.np.nan:
+    if targetFilter is pd.np.nan:# or np.isnan(targetFilter):
         print(str(idx)+ ". No filters can be found in this row.")
         continue
 
@@ -189,7 +192,7 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
         print(str(idx)+ ". Passed unverified filter.")
         continue
 
-    
+    print(targetFilter)
     # Set boolean variables
     isPopup = IsPopup(targetFilter)
     isHidingFilter = IsHidingFilter(targetFilter)

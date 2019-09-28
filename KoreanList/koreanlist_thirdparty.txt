@@ -15,3 +15,5 @@
 ||i68.tinypic.com^$domain=avnori.pro
 ||res.cloudinary.com^*/image/upload^$image,third-party
 ||partner.can.co.kr/banner^$third-party
+||i.imgur.com^$domain=torrentwal.com
+||media.tumblr.com^$domain=yuriroom.com

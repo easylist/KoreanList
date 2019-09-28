@@ -246,3 +246,13 @@ dispatch.co.kr##div[class*="abchttpsdispatchcdn"]
 ppss.kr###custom_html-2
 m.sportsseoul.com##div[id^="ad_"]
 m.sportsseoul.com###article-ad-area
+dasiboda1.net##.vc_row
+dasiboda1.net##p[class^="adma"]
+sportalkorea.com##.review_txt
+sportalkorea.com##div[id^="mask_ad_"]
+sportalkorea.com###topAdBox
+sportalkorea.com###reView_ad
+sportalkorea.com###Contents_Top
+sportalkorea.com##iframe[src*="adop.cc"]
+sportalkorea.com###mk_ad
+m.kyeongin.com###mobitreeP
