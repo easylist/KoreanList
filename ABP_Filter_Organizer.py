@@ -18,8 +18,8 @@ print("Python version: ", sys.version)
 print ("Pandas version: ", pd.__version__)
 #print("openpyxl version: ", openpyxl.__version__)
 
-print("execute script from : " +sys.argv[0])
-print("running target file : " +sys.argv[1] + "\n")
+# print("execute script from : " +sys.argv[0])
+# print("running target file : " +sys.argv[1] + "\n")
 
 path = ""
 if sys.argv[1] == "":
