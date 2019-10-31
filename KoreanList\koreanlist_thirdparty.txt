@@ -1,0 +1,2 @@
+||mediacategory.com^$script,popup,subdocument
+||i.imgur.com^$domain=yaburi14.men

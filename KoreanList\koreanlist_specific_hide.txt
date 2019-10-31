@@ -1,0 +1,19 @@
+m.dailian.co.kr###tmpILSA_Container
+joseilbo.com##.google_ban_iframe2
+koreatimes.com##.bn_300x250_2
+torrentgaja.com###hd_pop
+torrentp.net##div[id^="banner_top"]
+torrentp.net##.banner
+viewsnnews.com##.ads
+sarangbang.com##div[style*="padding: 20px 25px;height:120px;"]
+sarangbang.com###adPopDiv
+evape.kr###sideBanner
+ilyo.co.kr##.eventBnr
+ilyo.co.kr##div[style*="width:300px;height:250px;float:right]
+allatpay.com###divFixBanner
+allatpay.com###divSection5
+spojoy.com###TopAdv250Rapper
+spojoy.com##.banner_ad_220
+named.com###topBanner
+incheonilbo.com###layer-popups
+g-enews.com##.ad1d
