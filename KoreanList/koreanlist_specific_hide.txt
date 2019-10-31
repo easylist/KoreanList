@@ -256,3 +256,5 @@ sportalkorea.com###Contents_Top
 sportalkorea.com##iframe[src*="adop.cc"]
 sportalkorea.com###mk_ad
 m.kyeongin.com###mobitreeP
+ezday.co.kr##.pb5
+newspim.com###slideshow

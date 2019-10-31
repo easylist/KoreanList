@@ -17,3 +17,5 @@
 ||partner.can.co.kr/banner^$third-party
 ||i.imgur.com^$domain=torrentwal.com
 ||media.tumblr.com^$domain=yuriroom.com
+||bananamall.co.kr/banner^$third-party,image
+||partner.lovetoky.co.kr/banner^$image,third-party
