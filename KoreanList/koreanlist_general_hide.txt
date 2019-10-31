@@ -10,4 +10,4 @@
 ##.adBannerLeft
 ##.adBannerRight
 ##iframe[src*="adop.cc"]
-###mobitree
+###waveAd
