@@ -243,3 +243,12 @@
 ||ad.sarangbang.com/banner^$script
 ||yaburi*.men/data/file/ads_link^$image
 ||innorame.com$domain=g-enews.com,subdocument
+||javseoul8.com/images/spon^$image
+||tocafe.net/data/by_banner^$image
+||torrentbe.com/banner^$image
+||ilbe.com/images/fileis_$image
+||lec.co.kr/bannerpop/uploads^$image
+||io1.innorame.com^$subdocument,domain=mbiz.herladcorp.com
+||rapportian.com/banner^$subdocument
+||newtoki23.net/data/banner^$image
+||dogjoa*.net/img/2019^$image
