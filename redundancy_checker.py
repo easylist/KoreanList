@@ -3,7 +3,12 @@ from os import listdir
 from os.path import isfile, join
 from collections import OrderedDict
 
-MYPATH = os.getcwd() + "\\KoreanList"
+# on windows
+#pathDelimeter = "\\"
+# on mac
+pathDelimeter = "/"
+
+MYPATH = os.getcwd() + pathDelimeter + "KoreanList"
 onlyfiles = [f for f in listdir(MYPATH) if isfile(join(MYPATH, f))]
 
 def f7(seq):
@@ -15,7 +20,8 @@ def EmptyLineRemover():
 	EmptyLines= 0
 	for each in onlyfiles:
 		new_temp= []
-		target_file= MYPATH+"\\"+each
+		target_file= MYPATH+ pathDelimeter +each
+		#target_file= MYPATH+"\\"+each
 		name, ext = os.path.splitext(each)
 
 		if(ext == ".txt"):
@@ -39,7 +45,7 @@ def EmptyLineRemover():
 def DuplicateRedundancyRemover():
 	for each in onlyfiles:
 		new_temp= []
-		target_file= MYPATH+"\\"+each
+		target_file= MYPATH+pathDelimeter +each
 		name, ext = os.path.splitext(each)
 
 		if(ext == ".txt"):
