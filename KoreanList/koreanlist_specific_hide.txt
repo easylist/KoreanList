@@ -290,3 +290,12 @@ g-enews.com##.mad
 ebn.co.kr##.vod-banner
 newtoki23.net###main4x3_banner
 newtoki23.net###hd_pop
+poomki.net##a[href*="bondisk.com"]
+poomki.net##a[href*="filelon.com"]
+yeongnam.com##a[href^="/pages/adv.do?mode=advMove&advIdx"]
+ksilbo.co.kr###FadeADLayer
+onlifezone.com##.gpe_pm_conban_code
+ilyoseoul.co.kr##.ad-template
+ilyoseoul.co.kr##.dnbanner
+m.ezday.co.kr##div[style="margin: 0px;padding: 15px"]
+biz.heraldcorp.com###FadeADLayer
