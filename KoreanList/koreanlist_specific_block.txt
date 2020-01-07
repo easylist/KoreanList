@@ -268,3 +268,8 @@
 ||ilovepc.co.kr/bannerpop^$image
 ||mydaily.co.kr/ad/center_adone.$subdocument
 ||cdn1.innorame.com/pub^$image
+||joseilbo.com/Ent/banner^$subdocument
+||cdn.bizwatch.co.kr/ads^$image
+||carnoon.co.kr/images/banner^$image
+||manamoa*.net/img/banner^$image
+||playxp.com/assets/images^*^900x120.$image

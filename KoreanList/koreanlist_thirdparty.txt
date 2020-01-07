@@ -22,3 +22,7 @@
 ||i.imgur.com^$domain=yaburi14.men
 ||u.dji.com/ads^$third-party
 ||kwbcallme.godohosting.com/vod/bannern^$image,third-party
+||ad.imp.joins.com^$subdocument,~third-party
+||pr-adimage.newscloud.or.kr^$image
+||bananamall.co.kr/banner^$image,third-party
+||ads-partners.coupang.com^$script,third-party
