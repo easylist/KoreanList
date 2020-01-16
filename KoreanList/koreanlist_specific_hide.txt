@@ -82,7 +82,6 @@ cyw.pe.kr##TABLE[height="1539"] > tbody > tr:nth-of-type(5)
 livere.me###livereAd
 nocutnews.co.kr##.head_adr2
 news1.kr##DIV[style="display:block;bottom:0;padding:5px; background:#EBEBEB; margin-top:-156px; right:0; position:absolute; width:200px; height:200px;"]
-clien.net##[class$="ad"]
 studyinkorea.go.kr###rollBox2
 dailian.co.kr##[id*="scrollbanner"]
 edaily.co.kr##DIV[class^="ad"]
@@ -311,3 +310,5 @@ sisunnews.co.kr##img[alt^="¿î¼¼_"]
 apkpure.com##.ad-box-auto
 asiatoday.co.kr##div[id^="scrolling"][id$="banner"]
 famtimes.co.kr###targetpushAd_banner_wrap
+clien.net##.main_top_ad
+clien.net##.main_center_ad
