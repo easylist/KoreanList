@@ -266,7 +266,7 @@ sarangbang.com##div[style*="padding: 20px 25px;height:120px;"]
 sarangbang.com###adPopDiv
 evape.kr###sideBanner
 ilyo.co.kr##.eventBnr
-ilyo.co.kr##div[style*="width:300px;height:250px;float:right]
+ilyo.co.kr##div[style*="width:300px;height:250px;float:right"]
 allatpay.com###divFixBanner
 allatpay.com###divSection5
 spojoy.com###TopAdv250Rapper
@@ -306,7 +306,6 @@ joseilbo.com##.banner_box_wrap
 joseilbo.com##div[class^="R_cnt_bn_"]
 joseilbo.com##div[id^="mobonDivBanner"]
 manamoa*.net##.ad-banner-widget
-sisunnews.co.kr##img[alt^="¿î¼¼_"]
 apkpure.com##.ad-box-auto
 asiatoday.co.kr##div[id^="scrolling"][id$="banner"]
 famtimes.co.kr###targetpushAd_banner_wrap
