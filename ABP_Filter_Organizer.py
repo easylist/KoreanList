@@ -236,18 +236,18 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
         print("Shutdown the program.")
         break
 
-    if int(answer) is 1: # Ad-server
+    if int(answer) == 1: # Ad-server
         if isPopup == True:
             AppendToTextFile("adservers_popup.txt", targetFilter)
         else:
             AppendToTextFile("adservers.txt", targetFilter)
-    if int(answer) is 2: # Non-ad-server
+    if int(answer) == 2: # Non-ad-server
         if isPopup == True:
             AppendToTextFile("thirdparty_popup.txt", targetFilter)
         else:
             AppendToTextFile("thirdparty.txt", targetFilter)
 
-    if int(answer) is 3: # Non-ad-server
+    if int(answer) == 3: # Non-ad-server
         if isGeneralFilter == True:
             if isHidingFilter == True:
                 AppendToTextFile("general_hide.txt", targetFilter)
