@@ -311,3 +311,11 @@ asiatoday.co.kr##div[id^="scrolling"][id$="banner"]
 famtimes.co.kr###targetpushAd_banner_wrap
 clien.net##.main_top_ad
 clien.net##.main_center_ad
+betanews.heraldcorp.com###linkimage
+gamemeca.com##.aside-right-ad2
+1004tip.com##.banner
+news1.kr##.ad_txt_article
+chol.com##[class^="main_banner"]
+chol.com##.lnb3_shopping
+moneynet.co.kr##.scban_wrap
+moneynet.co.kr##div[class*="topban"]

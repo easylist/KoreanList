@@ -33,3 +33,4 @@
 ||cliimage.commutil.kr/big_www/images/banner_$image,third-party
 ||img.ironmancdn.xyz/upload^$image,third-party
 ||plugin.adplex.co.kr^$image,third-party
+||cdn.targetpush.co.kr/js/targetpushad.js$third-party

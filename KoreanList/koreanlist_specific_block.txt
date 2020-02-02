@@ -273,3 +273,14 @@
 ||carnoon.co.kr/images/banner^$image
 ||manamoa*.net/img/banner^$image
 ||playxp.com/assets/images^*^900x120.$image
+||lawtimes.co.kr/data/ad^$image
+||box2.betanews.net/banner^$image
+||box2.betanews.net/banner.html^$subdocument,domain=heraldcorp.com
+||box2.betanews.net/banner.html^$subdocument,domain=betanews.net
+||resources.gdac.com/imgs/BIPbanner^$image
+||nimage.newsway.kr/ne_w/banner^$image
+||nimage.newsway.kr/banner^$image
+||the-pr.co.kr/bannerpop/uploads/image^$image
+||ccdn.co.kr/bannerpop/uploads/image^$image
+||afreehp.kr/img/11square^$image
+
