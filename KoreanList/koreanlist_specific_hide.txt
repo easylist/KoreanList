@@ -320,3 +320,5 @@ chol.com##.lnb3_shopping
 moneynet.co.kr##.scban_wrap
 moneynet.co.kr##div[class*="topban"]
 naver.com##.MM_DA_BRANDING_BANNER
+naver.com###veta_top
+naver.com###veta_branding
