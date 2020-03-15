@@ -12,6 +12,7 @@ import webbrowser
 import tldextract # pip install tldextract
 from xlrd import open_workbook
 from StyleFrame import StyleFrame, utils # to read background of cell
+from pathlib import Path
 
 
 print("Python version: ", sys.version)
@@ -85,7 +86,7 @@ def IsDeminsionalWhitelistFilter(filter):
 TOTAL_WRITTEN_TXT = "total_written.txt"
 #EXCELFILE_NAME = r'Korean website filters.xlsx'
 #PRESET_SHEET_NAME = r'2019.Feb'
-SUB_FOLDER = "KoreanList"
+SUB_FOLDER = Path("KoreanList")
 FILE_PREFIX = "koreanlist_"
 #SheetName = input("Please enter the target sheet name (enter blank to use pre-filled sheet name) : ")
 
@@ -126,7 +127,7 @@ def VerifingDuplicatedFilter(pendingFilter):
     return True
 
 def AppendToTextFile(filename, filterToAppend):
-    with open(SUB_FOLDER + "\\" + FILE_PREFIX+filename, "a") as currFile:
+    with open(SUB_FOLDER / (FILE_PREFIX+filename), "a") as currFile:
         currFile.write(filterToAppend + "\r\n")
     with open(TOTAL_WRITTEN_TXT, "a") as currFile:
         currFile.write(filterToAppend + "\r\n")
