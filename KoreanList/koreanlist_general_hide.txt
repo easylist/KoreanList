@@ -11,3 +11,4 @@
 ##.adBannerRight
 ##iframe[src*="adop.cc"]
 ###waveAd
+###targetpushAd_banner_wrap

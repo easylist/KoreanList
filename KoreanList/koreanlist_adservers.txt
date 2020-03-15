@@ -34,3 +34,5 @@
 ||img.ironmancdn.xyz/upload^$image,third-party
 ||plugin.adplex.co.kr^$image,third-party
 ||cdn.targetpush.co.kr/js/targetpushad.js$third-party
+||cdn.targetpush.co.kr/upload^$image,third-party
+||io1.innorame.com/imp^$subdocument

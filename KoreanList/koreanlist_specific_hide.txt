@@ -322,3 +322,8 @@ moneynet.co.kr##div[class*="topban"]
 naver.com##.MM_DA_BRANDING_BANNER
 naver.com###veta_top
 naver.com###veta_branding
+sports-g.com##.iwm_ba
+fomos.kr###top_banner
+fomos.kr###banner_center
+qtum.or.kr##.gpe_contents_xecon > div.xe_content:first-child
+fmkorea.com###adpost
