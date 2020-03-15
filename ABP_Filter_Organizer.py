@@ -22,7 +22,7 @@ print ("Pandas version: ", pd.__version__)
 # print("running target file : " +sys.argv[1] + "\n")
 
 path = ""
-if sys.argv[1] == "":
+if len(sys.argv) == 1:
     path = 'Korean website filters.xlsx'
     print("use a default path : " + path)
 else:
