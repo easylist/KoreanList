@@ -279,8 +279,9 @@
 ||box2.betanews.net/banner.html^$subdocument,domain=betanews.net
 ||resources.gdac.com/imgs/BIPbanner^$image
 ||nimage.newsway.kr/ne_w/banner^$image
-||nimage.newsway.kr/banner^$image
 ||the-pr.co.kr/bannerpop/uploads/image^$image
 ||ccdn.co.kr/bannerpop/uploads/image^$image
 ||afreehp.kr/img/11square^$image
-
+||badmintontimes.com/pds/banner^$image
+||ssodam.com/statics/upload^$image
+instiz.net#@#.admain

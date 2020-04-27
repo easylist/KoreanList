@@ -26,3 +26,4 @@
 ||pr-adimage.newscloud.or.kr^$image
 ||bananamall.co.kr/banner^$image,third-party
 ||ads-partners.coupang.com^$script,third-party
+||i.imgur.com^$image,domain=manamoa31.net

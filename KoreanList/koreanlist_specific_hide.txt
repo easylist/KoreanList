@@ -327,3 +327,6 @@ fomos.kr###top_banner
 fomos.kr###banner_center
 qtum.or.kr##.gpe_contents_xecon > div.xe_content:first-child
 fmkorea.com###adpost
+ccdn.co.kr##.width-320
+gall.dcinside.com##.rightbanner
+copytoon75.com##.banner_m
