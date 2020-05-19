@@ -264,4 +264,4 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
                 if isPopup is True:
                     AppendToTextFile("specific_block_popup.txt", targetFilter)
                 else:
-                    AppendToTextFile("specific_block.txt ", targetFilter)
+                    AppendToTextFile("specific_block.txt", targetFilter)
