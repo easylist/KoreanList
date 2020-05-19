@@ -233,7 +233,7 @@
 ||news.imaeil.com/img/banner^$image
 ||mango*.me/images/spon^$image
 ||funbe*.com/bann^$image
-/HBAdManager/*$image,domain=hungryboarder.com
+||file.hungryboarder.com:8080/HBAdManager^*$image,domain=hungryboarder.com
 ||img.livescore.co.kr/ad^$image
 ||img.newspim.com/banner^$image
 ||img.koreatimes.com/banner^$image
@@ -284,4 +284,8 @@
 ||afreehp.kr/img/11square^$image
 ||badmintontimes.com/pds/banner^$image
 ||ssodam.com/statics/upload^$image
-instiz.net#@#.admain
+||image.swadpia.co.kr/images/wing_banner^$image
+||images.veritas.kr/data/banner^$image
+||gameplanet.co.kr/xe/files/attach/banner_images^$image
+||jndn.com/banner^$image
+

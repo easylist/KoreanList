@@ -14,3 +14,7 @@
 @@||news.einfomax.co.kr/bannerpop/uploads/image/1539823982896798299.png
 @@||news.einfomax.co.kr/bannerpop/uploads/image/1539823959310713061.png
 @@||kpenews.com/images/main/recruit$image
+@@||apparelnews.co.kr/upfiles/banner/yui_banner
+@@||apparelnews.co.kr/upfiles/banner/포스트배너
+@@||itdaily.kr/bannerManager^$script
+@@||itdaily.kr/bannerManager/upload/22.jpg

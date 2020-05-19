@@ -330,3 +330,6 @@ fmkorea.com###adpost
 ccdn.co.kr##.width-320
 gall.dcinside.com##.rightbanner
 copytoon75.com##.banner_m
+newstown.co.kr##a:not([href*="newstown"]):not([href*="ZADW35BNPZ"]) > img[src*="/bannerpop/"]
+ilyoseoul.co.kr##.banner_box > a:not([href*="ilyoseoul"])
+updownnews.co.kr##a:not([href*="updownnews.co.kr"]) > img[src*="/bannerpop/"]
