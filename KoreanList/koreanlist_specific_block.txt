@@ -289,3 +289,8 @@
 ||gameplanet.co.kr/xe/files/attach/banner_images^$image
 ||jndn.com/banner^$image
 
+||kjdaily.com/banner^$image
+||img.etnews.com^*/banner^$image,domain=nextdaily.co.kr
+||image.ichannela.com/images/common/shinhan_sol$image
+||image.ichannela.com/images/mainbanner/kookmin$image
+||nownews.seoul.co.kr/ad^$subdocument

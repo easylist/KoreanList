@@ -333,3 +333,9 @@ copytoon75.com##.banner_m
 newstown.co.kr##a:not([href*="newstown"]):not([href*="ZADW35BNPZ"]) > img[src*="/bannerpop/"]
 ilyoseoul.co.kr##.banner_box > a:not([href*="ilyoseoul"])
 updownnews.co.kr##a:not([href*="updownnews.co.kr"]) > img[src*="/bannerpop/"]
+blog.naver.com###ssp-adpost
+buzztoon42.com###hd_pop
+manamoa32.net##.ad-banner-widget
+chuksannews.co.kr##.top_banner
+inews24.com##ad[class="view200"]
+hani.co.kr###ad_tag
