@@ -28,3 +28,4 @@
 ||ads-partners.coupang.com^$script,third-party
 ||i.imgur.com^$image,domain=manamoa31.net
 ||i.imgur.com^$image,domain=buzztoon42.com
+||adclicks.devpia.com^$subdocument

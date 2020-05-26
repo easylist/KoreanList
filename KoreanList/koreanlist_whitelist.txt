@@ -18,3 +18,5 @@
 @@||apparelnews.co.kr/upfiles/banner/포스트배너
 @@||itdaily.kr/bannerManager^$script
 @@||itdaily.kr/bannerManager/upload/22.jpg
+@@||kpenews.com/images^*/10th_$image
+@@||kpenews.com/images^*/recruit_$image

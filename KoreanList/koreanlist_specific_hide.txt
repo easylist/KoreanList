@@ -339,3 +339,6 @@ manamoa32.net##.ad-banner-widget
 chuksannews.co.kr##.top_banner
 inews24.com##ad[class="view200"]
 hani.co.kr###ad_tag
+inews24.com##ad[alt="3171"]
+newbam1.net##.main-banners
+ibiza4.site##.swipe-carousel

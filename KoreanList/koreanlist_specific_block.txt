@@ -294,3 +294,17 @@
 ||image.ichannela.com/images/common/shinhan_sol$image
 ||image.ichannela.com/images/mainbanner/kookmin$image
 ||nownews.seoul.co.kr/ad^$subdocument
+||kpenews.com/images/main^$image
+||gamecodi.cdn3.cafe24.com/sponsor/ad_$image,domain=gamecodi.com
+||1st.gamecodi.com/ad_floating_$image
+||unisign.co.kr/images/banner_$image
+||image.devpia.com/ADVSystem^$image
+||image.devpia.com/NewDevpia^*_banner^$image
+||image.devpia.com/DextSolution/banner^$image
+||iu.copytoon*.com^*.gif^$image
+||newbam1.net/images/banner$image
+||linkmol.com/img/banner$image
+||linkmol.com/img/abc$image
+||kokotoon1.com/images/abc$image
+||kokotoon1.com/images/banner$image
+||ibiza4.site/data/apms/background^$image
