@@ -342,3 +342,7 @@ hani.co.kr###ad_tag
 inews24.com##ad[alt="3171"]
 newbam1.net##.main-banners
 ibiza4.site##.swipe-carousel
+major-top.com,kongcafe3.site,boomboom3.site##.swipe-carousel
+major-top.com##.carousel-inner.bg-black
+funbe.cloud,funbe.vip##div[class^="main_top_bann"] 
+funbe.cloud,funbe.vip##.top_banner
