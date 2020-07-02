@@ -128,9 +128,9 @@ def VerifingDuplicatedFilter(pendingFilter):
 
 def AppendToTextFile(filename, filterToAppend):
     with open(SUB_FOLDER / (FILE_PREFIX+filename), "a") as currFile:
-        currFile.write(filterToAppend + "\r\n")
+        currFile.write(filterToAppend + "\n")
     with open(TOTAL_WRITTEN_TXT, "a") as currFile:
-        currFile.write(filterToAppend + "\r\n")
+        currFile.write(filterToAppend + "\n")
     print("This filter is saved to: " + filename)
 
 
@@ -193,6 +193,7 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
         print(str(idx)+ ". Passed unverified filter.")
         continue
 
+    targetFilter=str(targetFilter)
     print(targetFilter)
     # Set boolean variables
     isPopup = IsPopup(targetFilter)
