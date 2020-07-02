@@ -346,3 +346,15 @@ major-top.com,kongcafe3.site,boomboom3.site##.swipe-carousel
 major-top.com##.carousel-inner.bg-black
 funbe.cloud,funbe.vip##div[class^="main_top_bann"] 
 funbe.cloud,funbe.vip##.top_banner
+torrenttt03.me###hd_pops_2
+newsis.com##div[id^="mobonDivBanner"]
+m.seoul.co.kr###rollingAdDiv
+cafe.naver.com###cafe_sdk_tgtLREC
+koreaminecraft.net##.fancybox-wrap
+toonsarang.gripe##.banner_m
+torrent-world.com##[data-ride="carousel"]
+etoland.co.kr##aside[class^="fortune_aside"]
+etoland.co.kr###main_bn
+torrentmep.com###banner_top_list
+torrentmep.com##.banner
+hangose01.com##div[style^="height: 180px;width: 99%"]

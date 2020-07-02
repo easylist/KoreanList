@@ -307,3 +307,13 @@
 ||kokotoon1.com/images/abc$image
 ||kokotoon1.com/images/banner$image
 ||ibiza4.site/data/apms/background^$image
+||torrenttt03.me/data/file/adad2^$image
+||torrenttt03.me/thema/Basic/assets/img^$image
+||torrent-world.*/data/apms/background^$image
+||etoland.co.kr/data^*/etomall^$image
+||etoland.co.kr/data/daumeditor$image
+||torrentmep.com/data/banner^$image
+||moeni.org/img/sponsor$image
+||tkor.fit/bann^$image
+||newtoon*.com/data/by_banner^$image
+||hangose01.com/data/file/linkt^$image
