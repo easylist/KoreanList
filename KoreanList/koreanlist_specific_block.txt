@@ -311,7 +311,6 @@
 ||torrenttt03.me/thema/Basic/assets/img^$image
 ||torrent-world.*/data/apms/background^$image
 ||etoland.co.kr/data^*/etomall^$image
-||etoland.co.kr/data/daumeditor$image
 ||torrentmep.com/data/banner^$image
 ||moeni.org/img/sponsor$image
 ||tkor.fit/bann^$image
