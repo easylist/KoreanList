@@ -22,7 +22,7 @@
 ||ksg.co.kr/upload/banner/
 ||board.edaily.co.kr/data/firstclass/popup_data/
 ||wolchuck.co.kr/ab_banner/__bn/
-||joyseattle.com/paper/data/news/banner/
+||joyseattle.com^*/banner^$image
 ||jpick24.co.kr/pds_files/$image
 ||fashionbiz.co.kr/upload/A_banner^$image
 ||asiatoday.co.kr^*/ads/$script
