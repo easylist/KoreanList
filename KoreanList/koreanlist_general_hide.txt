@@ -14,3 +14,4 @@
 ###targetpushAd_banner_wrap
 ###FadeADLayer
 ##.hed_ad
+##.swipe-carousel

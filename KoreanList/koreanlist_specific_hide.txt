@@ -358,3 +358,10 @@ etoland.co.kr###main_bn
 torrentmep.com###banner_top_list
 torrentmep.com##.banner
 hangose01.com##div[style^="height: 180px;width: 99%"]
+clien.net###hongboInfoList
+clien.net##.list_top_ad
+clien.net##.list_bottom_ad
+ubang19.com###at-right
+ubang19.com###hd_pop
+ubang19.com##.insty
+xn--hg3b191ba.2on.in###chatclick

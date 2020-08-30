@@ -316,3 +316,7 @@
 ||tkor.fit/bann^$image
 ||newtoon*.com/data/by_banner^$image
 ||hangose01.com/data/file/linkt^$image
+||boomboom*.site/data/apms/background^$image
+||newtoki*.com/data/banner^$image
+||docdocdoc.co.kr/bannerpop/uploads^$image
+||xn--hg3b191ba.2on.in/img/tot^$image
