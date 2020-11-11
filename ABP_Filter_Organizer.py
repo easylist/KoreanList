@@ -7,6 +7,7 @@ import numpy as np
 from pandas import DataFrame, read_csv
 import matplotlib.pyplot as plt
 import pandas as pd 
+import math
 import os.path
 import webbrowser
 import tldextract # pip install tldextract
@@ -15,12 +16,16 @@ from StyleFrame import StyleFrame, utils # to read background of cell
 from pathlib import Path
 
 
+if __name__ == "__main__":
+    pass
+
 print("Python version: ", sys.version)
 print ("Pandas version: ", pd.__version__)
 #print("openpyxl version: ", openpyxl.__version__)
 
 # print("execute script from : " +sys.argv[0])
 # print("running target file : " +sys.argv[1] + "\n")
+
 
 path = ""
 if len(sys.argv) == 1:
@@ -35,9 +40,9 @@ if path == "":
 
 def OpenChrome(url):
     # MacOS
-    # chrome_path = 'open -a /Applications/Google\ Chrome.app %s'
+    chrome_path = 'open -a /Applications/Google\ Chrome.app %s'
     # Windows
-    chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
+    #chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
     # Linux
     # chrome_path = '/usr/bin/google-chrome %s'
     webbrowser.get(chrome_path).open(url) 
@@ -165,13 +170,14 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
     if sf_bg['Suggested filter (to be reviewed)'][idx] == "FF93C47D" or sf_bg['Suggested filter (to be reviewed)'][idx] == "FFB6D7A8":
         has_green_bg = True
 
-    print(has_green_bg)
+    print("Verified: "+ str(has_green_bg))
+    print(df['New filter (If necessary)'])
     print(df['New filter (If necessary)'][idx] )
 
     # If there is a new filter, using "New filter" column instead of "Suggested filter".
     IsNewFilter = False
     targetFilter = ''
-    if df['New filter (If necessary)'][idx] is pd.np.nan:
+    if df['New filter (If necessary)'][idx] is pd.np.nan or math.nan:
         targetFilter = x
     else:
         targetFilter = df['New filter (If necessary)'][idx]
@@ -221,7 +227,7 @@ for idx, x in enumerate(df['Suggested filter (to be reviewed)']):
     
     
     print("\n"+targetFilter) #+ " --> (Verified : " + str(isVerified) +", New suggestion : " + str(IsNewFilter) + ")")
-    print("Is this domain is a... (1)adserver  (2)sub-adserver  (3)non-adserver. (w)whois searching. (u)undo. (p)pass. (x)exit")
+    print("This domain is a... (1)adserver  (2)sub-adserver  (3)non-adserver. (w)whois searching. (u)undo. (p)pass. (x)exit")
     answer= input()
 
     if answer.strip() == 'p' or answer.strip() == 'n':
