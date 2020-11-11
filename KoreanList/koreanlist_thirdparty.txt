@@ -31,3 +31,5 @@
 ||adclicks.devpia.com^$subdocument
 ||i.imgur.com^$image,domain=torrenthaja.com
 ||file.kcrwork.com/banner^$image,domain=jejukcr.com
+||i.imgur.com$image,domain=torrentrz.org
+||i.imgur.com^$image,domain=marumaru.tech

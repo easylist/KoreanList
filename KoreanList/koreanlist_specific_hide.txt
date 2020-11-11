@@ -366,3 +366,7 @@ ubang19.com###hd_pop
 ubang19.com##.insty
 xn--hg3b191ba.2on.in###chatclickm.kr.ajunews.com###myDIV
 dentphoto.com##td[width="130"] > table
+torrentrz.org###banner_top_list_wrap
+gamemeca.com###ad_layer_Ti_gamemeca
+gamemeca.com##.toastBanner
+gamemeca.com##.content-top-ad
