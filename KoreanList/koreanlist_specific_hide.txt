@@ -364,4 +364,5 @@ clien.net##.list_bottom_ad
 ubang19.com###at-right
 ubang19.com###hd_pop
 ubang19.com##.insty
-xn--hg3b191ba.2on.in###chatclick
+xn--hg3b191ba.2on.in###chatclickm.kr.ajunews.com###myDIV
+dentphoto.com##td[width="130"] > table

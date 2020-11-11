@@ -320,3 +320,5 @@
 ||newtoki*.com/data/banner^$image
 ||docdocdoc.co.kr/bannerpop/uploads^$image
 ||xn--hg3b191ba.2on.in/img/tot^$image
+||famtimes.co.kr/bannerpop/uploads^$image
+||img2.quasarzone.com/banner^$image
