@@ -370,3 +370,11 @@ torrentrz.org###banner_top_list_wrap
 gamemeca.com###ad_layer_Ti_gamemeca
 gamemeca.com##.toastBanner
 gamemeca.com##.content-top-ad
+timeforum.co.kr##div[id^="phizMslider"]
+timeforum.co.kr##div[class^="banner"]
+timeforum.co.kr###mainTopBanner
+timeforum.co.kr##a[href*="smartstore"]
+kpenews.com###divRightBannerKPENEWS
+kpenews.com###divMiddleBannerKPENEWS
+naeil.com##div[class^="bannerType"]
+todaykorea.co.kr##.ad-template

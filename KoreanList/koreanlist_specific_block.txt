@@ -328,3 +328,9 @@
 ||torrentrz.org/data/banner^$image
 ||imgnewad.ytn.co.kr/image^$image
 ||hodu*^img/banner^$image
+||kpenews.com/images/main/banner$image
+||sisunnews.co.kr/bannerpop/uploads/image^$image
+||sisajournal.com/bannerpop/uploads/image^$image
+||naeil.com/upload/banner^$image
+||veritas-a.com/bannerpop/uploads/image^$image
+||todaykorea.co.kr/bannerpop/uploads/image^$image
