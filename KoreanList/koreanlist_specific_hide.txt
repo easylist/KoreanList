@@ -358,4 +358,23 @@ etoland.co.kr###main_bn
 torrentmep.com###banner_top_list
 torrentmep.com##.banner
 hangose01.com##div[style^="height: 180px;width: 99%"]
-m.search.naver.com##.sp_power
+clien.net###hongboInfoList
+clien.net##.list_top_ad
+clien.net##.list_bottom_ad
+ubang19.com###at-right
+ubang19.com###hd_pop
+ubang19.com##.insty
+xn--hg3b191ba.2on.in###chatclickm.kr.ajunews.com###myDIV
+dentphoto.com##td[width="130"] > table
+torrentrz.org###banner_top_list_wrap
+gamemeca.com###ad_layer_Ti_gamemeca
+gamemeca.com##.toastBanner
+gamemeca.com##.content-top-ad
+timeforum.co.kr##div[id^="phizMslider"]
+timeforum.co.kr##div[class^="banner"]
+timeforum.co.kr###mainTopBanner
+timeforum.co.kr##a[href*="smartstore"]
+kpenews.com###divRightBannerKPENEWS
+kpenews.com###divMiddleBannerKPENEWS
+naeil.com##div[class^="bannerType"]
+todaykorea.co.kr##.ad-template

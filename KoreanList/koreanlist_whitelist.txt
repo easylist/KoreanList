@@ -20,3 +20,4 @@
 @@||itdaily.kr/bannerManager/upload/22.jpg
 @@||kpenews.com/images^*/10th_$image
 @@||kpenews.com/images^*/recruit_$image
+@@||ad-mapps.com^$third-party,domain=ytn.co.kr
