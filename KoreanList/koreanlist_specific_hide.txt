@@ -358,3 +358,4 @@ etoland.co.kr###main_bn
 torrentmep.com###banner_top_list
 torrentmep.com##.banner
 hangose01.com##div[style^="height: 180px;width: 99%"]
+m.search.naver.com##.sp_power
