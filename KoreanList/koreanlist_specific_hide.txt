@@ -378,3 +378,4 @@ kpenews.com###divRightBannerKPENEWS
 kpenews.com###divMiddleBannerKPENEWS
 naeil.com##div[class^="bannerType"]
 todaykorea.co.kr##.ad-template
+m.search.naver.com##.sp_power
