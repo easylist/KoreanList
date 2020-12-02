@@ -11,7 +11,7 @@
 ||cdnprism.pandora.tv/_adv_img/prism_ad^$script
 ||ad.linkprice.com^$third-party
 ||ssl.logger.co.kr^$third-party
-||res.cloudinary.com^*/image/upload^$image,third-party
+||res.cloudinary.com^*/image/upload^$image,domain=torrenthaja.com
 ||i68.tinypic.com^$domain=avnori.pro
 ||partner.can.co.kr/banner^$third-party
 ||i.imgur.com^$domain=torrentwal.com
