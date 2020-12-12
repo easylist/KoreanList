@@ -368,3 +368,10 @@ kpenews.com###divMiddleBannerKPENEWS
 naeil.com##div[class^="bannerType"]
 todaykorea.co.kr##.ad-template
 m.search.naver.com##.sp_power
+idomin.com##a:not([href^="/com/"]):not([href$="gndomin"]) > img[src*="/bannerpop/"]
+tvgook43.com##div[class^="popup"]
+influencernews.kr###wingBanner
+dogjoa34.net##.at-footer
+fntoday.co.kr##.banner_box > a:not([href*="http://www.fntoday"]):not([href*="UCXZC42ea-iwib-ljBNNA3Fg"]):not([href^="/news"])
+usjournal.kr###articleBody1
+meconomynews.com##.banner_box > a:not([href="https://www.inc.or.kr/"])

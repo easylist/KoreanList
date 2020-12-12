@@ -328,3 +328,7 @@
 ||naeil.com/upload/banner^$image
 ||veritas-a.com/bannerpop/uploads/image^$image
 ||todaykorea.co.kr/bannerpop/uploads/image^$image
+||tvgook*.com/banner/upload$image
+||influencernews.kr/bannerpop/uploads/image^$image
+||torrentview*^data/editor^$image
+||tkor.blog/bann^$image

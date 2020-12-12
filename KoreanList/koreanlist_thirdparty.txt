@@ -32,3 +32,4 @@
 ||file.kcrwork.com/banner^$image,domain=jejukcr.com
 ||i.imgur.com$image,domain=torrentrz.org
 ||i.imgur.com^$image,domain=marumaru.tech
+||i.imgur.com^$image,domain=torrentview24.com
