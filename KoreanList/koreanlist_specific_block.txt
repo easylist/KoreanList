@@ -40,7 +40,6 @@
 ||g-disk.co.kr/images_g/banner/
 ||knnews.co.kr/edb/banner/
 ||ilbe.com/images/*popUp$image
-||wikitree.co.kr/_tpl/default/_images/ad/
 ||keywordsconnect.com$domain=mtn.co.kr
 ||ikbc.co.kr/jw_images^*/*banner$image
 ||xenics.co.kr/shop/data/skin^$image
@@ -67,7 +66,6 @@
 ||sporbiz.co.kr/bannerpop/uploads/image/$image
 ||image.lottorich.co.kr/lottorich/popup/$image
 ||image5.compuzone.co.kr/img/images/event/$image
-||nimg.honam.co.kr/banner^
 ||images.christiantoday.co.kr/data/banner/$image
 ||cfile26.uf.tistory.com/image/$domain=macguyver.kr
 ||mmzone.co.kr/media/banner^*ban$image
@@ -200,12 +198,10 @@
 ||taeyo.pe.kr/*banner_$image
 ||taeyo.pe.kr/images/spreadJS.gif
 ||devlec.com/images/devlec_taeyo.gif
-||taeyo.pe.kr/banner_images/neodeex_ban2.jpg
 ||toonkor.*/bann^$image
 ||mangashow.me/img/banner^$image
 ||semoya.net/img/banner^$image
 ||hellven.net/data/apms/banner^$image
-||m.torrentwal.com/banner^$image
 ||m.nocutnews.co.kr/ad/ad$subdocument
 ||m.etnews.com/tools/refresh_script.html
 ||media.marutv.com^*200x200.gif
@@ -328,9 +324,11 @@
 ||torrentrz.org/data/banner^$image
 ||imgnewad.ytn.co.kr/image^$image
 ||hodu*^img/banner^$image
-||kpenews.com/images/main/banner$image
-||sisunnews.co.kr/bannerpop/uploads/image^$image
 ||sisajournal.com/bannerpop/uploads/image^$image
 ||naeil.com/upload/banner^$image
 ||veritas-a.com/bannerpop/uploads/image^$image
 ||todaykorea.co.kr/bannerpop/uploads/image^$image
+||tvgook*.com/banner/upload$image
+||influencernews.kr/bannerpop/uploads/image^$image
+||torrentview*^data/editor^$image
+||tkor.blog/bann^$image
