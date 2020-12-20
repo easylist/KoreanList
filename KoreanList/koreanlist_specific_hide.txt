@@ -297,7 +297,6 @@ lawissue.co.kr##a[href*="smartstore.naver.com"]
 joseilbo.com##.banner_box_wrap
 joseilbo.com##div[class^="R_cnt_bn_"]
 joseilbo.com##div[id^="mobonDivBanner"]
-manamoa*.net##.ad-banner-widget
 apkpure.com##.ad-box-auto
 asiatoday.co.kr##div[id^="scrolling"][id$="banner"]
 clien.net##.main_top_ad
@@ -353,7 +352,6 @@ clien.net##.list_bottom_ad
 ubang19.com###at-right
 ubang19.com###hd_pop
 ubang19.com##.insty
-xn--hg3b191ba.2on.in###chatclickm.kr.ajunews.com###myDIV
 dentphoto.com##td[width="130"] > table
 torrentrz.org###banner_top_list_wrap
 gamemeca.com###ad_layer_Ti_gamemeca
