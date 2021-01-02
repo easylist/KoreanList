@@ -372,4 +372,7 @@ influencernews.kr###wingBanner
 dogjoa34.net##.at-footer
 fntoday.co.kr##.banner_box > a:not([href*="http://www.fntoday"]):not([href*="UCXZC42ea-iwib-ljBNNA3Fg"]):not([href^="/news"])
 usjournal.kr###articleBody1
-meconomynews.com##.banner_box > a:not([href="https://www.inc.or.kr/"])
+meconomynews.com##.banner_box > a:not([href="https://www.inc.or.kr/"])redton52.com##.top-banner
+postshare.co.kr###ps_eventpop
+postshare.co.kr###topadiwm
+postshare.co.kr###hd_pop
