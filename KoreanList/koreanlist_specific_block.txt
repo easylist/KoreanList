@@ -209,7 +209,6 @@
 ||busan.com/w2010/AD^$image
 ||torrentpan*.net/img^$image
 ||torrentmap.com/banner^$image
-||i.imgur.com^$domain=torrentmap.comavdbs.com/banner^$image
 ||avshow.me/img^$image
 ||torrentshow.me^$domain=avshow.me
 ||busan.com^*AD^$image
@@ -222,7 +221,7 @@
 ||torrentelf.com/data/file/ad^$image
 ||torrentwal.com/banner^$image
 ||ddaltime6.com/img^*.gif
-||ggilbo.com/bannerpop$^image
+||ggilbo.com/bannerpop^$image
 ||dasiboda1.net/dasi_media^*728.gif
 ||nunagom01.com/data/by_banner^$image
 ||spolive-banner.s3.amazonaws.com/banner$subdocument
@@ -332,3 +331,18 @@
 ||influencernews.kr/bannerpop/uploads/image^$image
 ||torrentview*^data/editor^$image
 ||tkor.blog/bann^$image
+||linktong1.com/img^$image
+||tkor.land/bann^$image
+||dayisoo.me/imgad$image
+||madtimes.org/bannerpop/uploads/image^$image
+||sharktoon*.com/img/banner^$image
+||mangacat.net/bn^$image
+||mangacat.net/mainhover^$image
+||jamics.work/bann^$image
+||tkor.men/bann^$image
+||redvi*.com/storage/upload/banners^$image
+||realtoon*.link/data/file/banner^$image
+||mango*.net/images/spon^$image
+||metoon*.com/data/banner^$image
+||img.postshare.co.kr/images/banner^$image
+||adulti*.com/data/banner^$image
