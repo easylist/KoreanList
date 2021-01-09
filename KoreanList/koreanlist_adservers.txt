@@ -41,3 +41,4 @@
 ||i0.imgcloud10.com^$image,third-party
 ||vod.shoppingcall.me/ad_shoppingCallme$subdocument,domain=topstarnews.net
 ||kitweb.tadapi.info/network/adapi$subdocument,third-party
+||123123image.11toon.com/Image/Banposter^$image,domain=toon123.com
