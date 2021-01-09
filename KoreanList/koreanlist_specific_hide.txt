@@ -373,3 +373,4 @@ dogjoa34.net##.at-footer
 fntoday.co.kr##.banner_box > a:not([href*="http://www.fntoday"]):not([href*="UCXZC42ea-iwib-ljBNNA3Fg"]):not([href^="/news"])
 usjournal.kr###articleBody1
 meconomynews.com##.banner_box > a:not([href="https://www.inc.or.kr/"])
+apparelnews.co.kr##a:not([href*="apparelnews.co.kr"]) > img[src*="/upfiles/banner/"]

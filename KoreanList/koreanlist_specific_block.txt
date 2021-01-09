@@ -9,7 +9,6 @@
 ||img.tf.co.kr/ad/ads/$image
 ||img.ppomppu.co.kr/zboard/data3/banner/$image
 ||vrn.co.kr/bannerpop/uploads/image/
-||apparelnews.co.kr/ad/
 ||nalab.kr/files/attach/images/27919483/1c8b2c06dfa95b4f07bd47322a0033a6.gif
 ||image.lottorich.co.kr/lottorich/main_new/w_sky_media*.gif
 ||ad.cgv.co.kr^
