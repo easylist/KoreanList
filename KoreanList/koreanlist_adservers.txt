@@ -5,7 +5,7 @@
 ||adpnut.com^$third-party
 ||adop.cc^$script,third-party
 ||apis.piclick.me/v2/publish/banner/iframe.min.js$script
-||cdn.adtive.com^third-party
+||cdn.adtive.com^$third-party
 ||static.criteo.net/js/ld/publishertag.js
 ||img.gsspat.jp^$image,third-party
 ||dable.io^$script,third-party
