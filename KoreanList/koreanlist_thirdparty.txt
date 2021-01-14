@@ -16,7 +16,6 @@
 ||partner.can.co.kr/banner^$third-party
 ||i.imgur.com^$domain=torrentwal.com
 ||media.tumblr.com^$domain=yuriroom.com
-||bananamall.co.kr/banner^$third-party,image
 ||partner.lovetoky.co.kr/banner^$image,third-party
 ||mediacategory.com^$script,popup,subdocument
 ||i.imgur.com^$domain=yaburi14.men
@@ -33,3 +32,8 @@
 ||file.kcrwork.com/banner^$image,domain=jejukcr.com
 ||i.imgur.com$image,domain=torrentrz.org
 ||i.imgur.com^$image,domain=marumaru.tech
+||i.imgur.com^$image,domain=torrentview24.com
+||64.media.tumblr.com$image,domain=sorabada26.com
+||imgcloud6.net^$image,domain=fxfx40.com
+||19all.net/data/files/banner^$image,domain=allall39.net
+||i.imgur.com^$image,domain=tocops.net

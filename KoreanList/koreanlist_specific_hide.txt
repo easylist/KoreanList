@@ -169,7 +169,6 @@ soccerline.kr##ASIDE.midBann
 adic.or.kr###banner
 gobest.co.kr##TABLE[width="786"] > tbody > tr:nth-of-type(6)
 wolchuck.co.kr##.boxstyle_01
-ruliweb.com##.adrrr
 zdnet.co.kr##.ad_list
 siminilbo.co.kr##[class^="adsById"]
 asiatoday.co.kr###ad_optima_wrap
@@ -219,7 +218,6 @@ m.ytn.co.kr###sf_plus_modal
 m.ytn.co.kr##.newsview_ad
 m.mt.co.kr##.ad_list_t1
 m.nocutnews.co.kr##div[style*="width:200px; height:200px;float:right;"]
-topstarnews.net###waveAD
 m.zdnet.co.kr###ad_tag
 torrentpan.net##.basic-banner
 torrentpan.net##img[align="absmiddle"]
@@ -236,7 +234,6 @@ kookje.co.kr##.soft_box
 otgtv.top##.widget-box
 m.dailian.co.kr###tmpILSA_Container
 mobile.busan.com##div[class^="wcms_ad"]
-mobile.busan.com###waveAd
 m.kr.ajunews.com##div[id^="mobonDivBanner"]
 m.kr.ajunews.com##.view_banner
 m.thisisgame.com##div[id^="ad_layer"]
@@ -248,10 +245,8 @@ dasiboda1.net##.vc_row
 dasiboda1.net##p[class^="adma"]
 sportalkorea.com##.review_txt
 sportalkorea.com##div[id^="mask_ad_"]
-sportalkorea.com###topAdBox
 sportalkorea.com###reView_ad
 sportalkorea.com###Contents_Top
-sportalkorea.com##iframe[src*="adop.cc"]
 sportalkorea.com###mk_ad
 m.kyeongin.com###mobitreeP
 ezday.co.kr##.pb5
@@ -292,23 +287,18 @@ newtoki23.net###hd_pop
 poomki.net##a[href*="bondisk.com"]
 poomki.net##a[href*="filelon.com"]
 yeongnam.com##a[href^="/pages/adv.do?mode=advMove&advIdx"]
-ksilbo.co.kr###FadeADLayer
 onlifezone.com##.gpe_pm_conban_code
 ilyoseoul.co.kr##.ad-template
 ilyoseoul.co.kr##.dnbanner
 m.ezday.co.kr##div[style="margin: 0px;padding: 15px"]
-biz.heraldcorp.com###FadeADLayer
 news.joins.com###criteo_network
 news.joins.com##.ab_adtxt_wrap 
-lawissue.co.kr###FadeADLayer
 lawissue.co.kr##a[href*="smartstore.naver.com"]
 joseilbo.com##.banner_box_wrap
 joseilbo.com##div[class^="R_cnt_bn_"]
 joseilbo.com##div[id^="mobonDivBanner"]
-manamoa*.net##.ad-banner-widget
 apkpure.com##.ad-box-auto
 asiatoday.co.kr##div[id^="scrolling"][id$="banner"]
-famtimes.co.kr###targetpushAd_banner_wrap
 clien.net##.main_top_ad
 clien.net##.main_center_ad
 betanews.heraldcorp.com###linkimage
@@ -341,8 +331,6 @@ inews24.com##ad[class="view200"]
 hani.co.kr###ad_tag
 inews24.com##ad[alt="3171"]
 newbam1.net##.main-banners
-ibiza4.site##.swipe-carousel
-major-top.com,kongcafe3.site,boomboom3.site##.swipe-carousel
 major-top.com##.carousel-inner.bg-black
 funbe.cloud,funbe.vip##div[class^="main_top_bann"] 
 funbe.cloud,funbe.vip##.top_banner
@@ -364,7 +352,6 @@ clien.net##.list_bottom_ad
 ubang19.com###at-right
 ubang19.com###hd_pop
 ubang19.com##.insty
-xn--hg3b191ba.2on.in###chatclickm.kr.ajunews.com###myDIV
 dentphoto.com##td[width="130"] > table
 torrentrz.org###banner_top_list_wrap
 gamemeca.com###ad_layer_Ti_gamemeca
@@ -379,3 +366,15 @@ kpenews.com###divMiddleBannerKPENEWS
 naeil.com##div[class^="bannerType"]
 todaykorea.co.kr##.ad-template
 m.search.naver.com##.sp_power
+idomin.com##a:not([href^="/com/"]):not([href$="gndomin"]) > img[src*="/bannerpop/"]
+tvgook43.com##div[class^="popup"]
+influencernews.kr###wingBanner
+dogjoa34.net##.at-footer
+fntoday.co.kr##.banner_box > a:not([href*="http://www.fntoday"]):not([href*="UCXZC42ea-iwib-ljBNNA3Fg"]):not([href^="/news"])
+usjournal.kr###articleBody1
+meconomynews.com##.banner_box > a:not([href="https://www.inc.or.kr/"])
+redton52.com##.top-banner
+postshare.co.kr###ps_eventpop
+postshare.co.kr###topadiwm
+postshare.co.kr###hd_pop
+apparelnews.co.kr##a:not([href*="apparelnews.co.kr"]) > img[src*="/upfiles/banner/"]
