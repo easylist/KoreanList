@@ -1,7 +1,6 @@
 import requests
 import re
 import urllib3
-from urllib.request import urlopen
 
 def readSourceFromABPFilters(url, target):
     http = urllib3.PoolManager()
@@ -23,7 +22,8 @@ def readSourceFromABPFilters(url, target):
             # number of the written filter is old.
             if(extracted < number_of_domain):
                 renewed_filter= line.replace(str(extracted), str(number_of_domain))
-                print("Suggest to update: " + line + " --> " + renewed_filter)
+                print("Filter update suggestion: " + line + " --> " + renewed_filter)
+    print("")
 
 def extract_number(url):
     parsed_int_list= re.findall("\d+", url)
