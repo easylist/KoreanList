@@ -2,7 +2,7 @@ name: domain_checker
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '*/10 * * * *'
 
 jobs:
   build:
