@@ -26,14 +26,14 @@
 ||bananamall.co.kr/banner^$image,third-party
 ||ads-partners.coupang.com^$script,third-party
 ||i.imgur.com^$image,domain=manamoa31.net
-||i.imgur.com^$image,domain=buzztoon42.com
+||i.imgur.com^$image,domain=buzztoon79.com
 ||adclicks.devpia.com^$subdocument
 ||i.imgur.com^$image,domain=torrenthaja.com
 ||file.kcrwork.com/banner^$image,domain=jejukcr.com
 ||i.imgur.com$image,domain=torrentrz.org
 ||i.imgur.com^$image,domain=marumaru.tech
-||i.imgur.com^$image,domain=torrentview24.com
+||i.imgur.com^$image,domain=torrentview28.com
 ||64.media.tumblr.com$image,domain=sorabada26.com
 ||imgcloud6.net^$image,domain=fxfx40.com
-||19all.net/data/files/banner^$image,domain=allall39.net
+||19all.net/data/files/banner^$image,domain=allall41.net
 ||i.imgur.com^$image,domain=tocops.net

@@ -319,13 +319,12 @@ qtum.or.kr##.gpe_contents_xecon > div.xe_content:first-child
 fmkorea.com###adpost
 ccdn.co.kr##.width-320
 gall.dcinside.com##.rightbanner
-copytoon75.com##.banner_m
+copytoon77.com##.banner_m
 newstown.co.kr##a:not([href*="newstown"]):not([href*="ZADW35BNPZ"]) > img[src*="/bannerpop/"]
 ilyoseoul.co.kr##.banner_box > a:not([href*="ilyoseoul"])
 updownnews.co.kr##a:not([href*="updownnews.co.kr"]) > img[src*="/bannerpop/"]
 blog.naver.com###ssp-adpost
-buzztoon42.com###hd_pop
-manamoa32.net##.ad-banner-widget
+buzztoon79.com###hd_pop
 chuksannews.co.kr##.top_banner
 inews24.com##ad[class="view200"]
 hani.co.kr###ad_tag
