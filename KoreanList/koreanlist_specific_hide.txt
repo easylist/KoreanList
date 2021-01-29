@@ -377,3 +377,13 @@ postshare.co.kr###ps_eventpop
 postshare.co.kr###topadiwm
 postshare.co.kr###hd_pop
 apparelnews.co.kr##a:not([href*="apparelnews.co.kr"]) > img[src*="/upfiles/banner/"]
+mobile.newsis.com###btm_layer
+mobile.newsis.com##div[id^="ad_layer_"]
+t2.taktaktak.me##div[style="margin-top:10px;margin-bottom:25px;"]
+http://sinnamovie.com/##div[id^=%22AD_%22]
+torrenti.co.kr##.widget-box-banner
+torrenti.co.kr###at-right > .widget-side-box > a > img
+torrenti.co.kr##.modal-backdrop
+torrenti.co.kr###ouibounce-modal
+jujutorrent27.com##.npia-board-gallery
+hmovie.net##div[id^="AD_"]
