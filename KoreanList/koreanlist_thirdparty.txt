@@ -37,7 +37,6 @@
 ||imgcloud6.net^$image,domain=fxfx40.com
 ||19all.net/data/files/banner^$image,domain=allall42.net
 ||i.imgur.com^$image,domain=tocops.net
-||i.imgur.com^$image,domain=buzztoon79.com
 ||imgcloud6.net^$image,domain=wtwt55.com
 ||1.bp.blogspot.com^$image,domain=blacktoon97.com
 ||i.imgur.com$image,domain=torrentgram12.com
