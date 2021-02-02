@@ -35,10 +35,10 @@
 ||i.imgur.com^$image,domain=torrentview29.com
 ||64.media.tumblr.com$image,domain=sorabada26.com
 ||imgcloud6.net^$image,domain=fxfx40.com
-||19all.net/data/files/banner^$image,domain=allall42.net
+||19all.net/data/files/banner^$image,domain=allall43.net
 ||i.imgur.com^$image,domain=tocops.net
-||imgcloud6.net^$image,domain=wtwt55.com
-||1.bp.blogspot.com^$image,domain=blacktoon97.com
-||i.imgur.com$image,domain=torrentgram12.com
+||imgcloud6.net^$image,domain=wtwt57.com
+||1.bp.blogspot.com^$image,domain=blacktoon99.com
+||i.imgur.com$image,domain=torrentgram13.com
 ||i.imgur.com$image,domain=ttobogo.net
 ||images2.imgbox.com$image,domain=ktxtorrent19.com
