@@ -385,5 +385,5 @@ torrenti.co.kr##.widget-box-banner
 torrenti.co.kr###at-right > .widget-side-box > a > img
 torrenti.co.kr##.modal-backdrop
 torrenti.co.kr###ouibounce-modal
-jujutorrent27.com##.npia-board-gallery
+jujutorrent28.com##.npia-board-gallery
 hmovie.net##div[id^="AD_"]
