@@ -42,3 +42,4 @@
 ||i.imgur.com$image,domain=torrentgram14.com
 ||i.imgur.com$image,domain=ttobogo.net
 ||images2.imgbox.com$image,domain=ktxtorrent19.com
+||images2.imgbox.com^$image,domain=torrentsir31.com

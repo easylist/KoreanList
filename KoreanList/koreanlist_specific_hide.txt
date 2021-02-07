@@ -387,3 +387,6 @@ torrenti.co.kr##.modal-backdrop
 torrenti.co.kr###ouibounce-modal
 jujutorrent28.com##.npia-board-gallery
 hmovie.net##div[id^="AD_"]
+kr1.ibe.kr###ouibounce-modal
+torrentmax15.com##.container-line-main-m
+torrentweb18.com##.mmmainads

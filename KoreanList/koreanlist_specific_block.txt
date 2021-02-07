@@ -354,3 +354,8 @@
 ||jol-jam.com/thema/Basic/assets/img/side_$image
 ||torrentgram*.com/data/file/250_250^$image
 ||torrentgram*.com/data/file/750_90^$image
+||torrentgo*.com/data/file/banner^$image
+||potv*.com/images^$image
+||blackgambler*.com/quickbanner^$image
+||kr1.ibe.kr/img^$image
+||torrentwon*.com/data/file^$image
