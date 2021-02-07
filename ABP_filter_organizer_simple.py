@@ -115,91 +115,98 @@ def checkVerified():
 while(True):
     # If there is a new filter, using "New filter" column instead of "Suggested filter".
     print("Please input a filter: (Press 'q' to quit)")
-    x= input()
-    if(x == 'q'):
-        break
-    
-    targetFilter = ''
-    targetFilter = x
 
-    if targetFilter is None:# or np.isnan(targetFilter):
-        print("Please input a valid filter.")
-        continue
-
-    if VerifingDuplicatedFilter(targetFilter) == False:
-        print("This filter is already in the list.")
-        continue
-
-    targetFilter=str(targetFilter)
-    print(targetFilter)
-    # Set boolean variables
-    isPopup = IsPopup(targetFilter)
-    isHidingFilter = IsHidingFilter(targetFilter)
-    isGeneralFilter = IsGeneralFilter(targetFilter)
-    isWhitelistFilter = IsWhitelistFilter(targetFilter)
-    isGeneralWhitelistFilter = IsGeneralWhitelistFilter(targetFilter)
-    isDeminsionalWhitelistFilter = IsDeminsionalWhitelistFilter(targetFilter)
-
-    if(isWhitelistFilter):
-        if(isPopup):
-            AppendToTextFile("whitelist_popup.txt", targetFilter)
-            continue
-        if(isDeminsionalWhitelistFilter):
-            AppendToTextFile("whitelist_dimensions.txt", targetFilter)
-            continue
+    lines = []
+    while(True):
+        line = input()
+        if line:
+            lines.append(line)
+        elif(line == 'q'):
+            break
         else:
-            AppendToTextFile("whitelist.txt", targetFilter)
-            continue
+            break
 
-    if(isGeneralWhitelistFilter):
-        AppendToTextFile("whitelist_general_hide.txt", targetFilter)
-        continue
+    print(lines)
+    for x in lines:
+	    targetFilter = x
 
-    
-    
-    print("\n"+targetFilter) #+ " --> (Verified : " + str(isVerified) +", New suggestion : " + str(IsNewFilter) + ")")
-    print("This domain is a... (1)adserver  (2)sub-adserver  (3)non-adserver. (w)whois searching. (u)undo. (p)pass. (x)exit")
-    answer= input()
+	    if targetFilter is None:# or np.isnan(targetFilter):
+	        print("Please input a valid filter.")
+	        continue
 
-    if answer.strip() == 'p' or answer.strip() == 'n':
-        print ("next.")
-        continue
-	
-    if answer.strip() == 'w' or answer.strip() == 'l':
-        print("Calling a WHOIS lookup.")
-        CallALookup(targetFilter)
-        answer= input()
-        pass
+	    if VerifingDuplicatedFilter(targetFilter) == False:
+	        print("This filter is already in the list.")
+	        continue
 
-    if answer.strip() == '' or answer.strip() == 'x':
-        print("Shutdown the program.")
-        break
+	    targetFilter=str(targetFilter)
+	    # Set boolean variables
+	    isPopup = IsPopup(targetFilter)
+	    isHidingFilter = IsHidingFilter(targetFilter)
+	    isGeneralFilter = IsGeneralFilter(targetFilter)
+	    isWhitelistFilter = IsWhitelistFilter(targetFilter)
+	    isGeneralWhitelistFilter = IsGeneralWhitelistFilter(targetFilter)
+	    isDeminsionalWhitelistFilter = IsDeminsionalWhitelistFilter(targetFilter)
 
-    if int(answer) == 1: # Ad-server
-        if isPopup == True:
-            AppendToTextFile("adservers_popup.txt", targetFilter)
-        else:
-            AppendToTextFile("adservers.txt", targetFilter)
-    if int(answer) == 2: # Non-ad-server
-        if isPopup == True:
-            AppendToTextFile("thirdparty_popup.txt", targetFilter)
-        else:
-            AppendToTextFile("thirdparty.txt", targetFilter)
+	    if(isWhitelistFilter):
+	        if(isPopup):
+	            AppendToTextFile("whitelist_popup.txt", targetFilter)
+	            continue
+	        if(isDeminsionalWhitelistFilter):
+	            AppendToTextFile("whitelist_dimensions.txt", targetFilter)
+	            continue
+	        else:
+	            AppendToTextFile("whitelist.txt", targetFilter)
+	            continue
 
-    if int(answer) == 3: # Non-ad-server
-        if isGeneralFilter == True:
-            if isHidingFilter == True:
-                AppendToTextFile("general_hide.txt", targetFilter)
-            else:
-                if isPopup == True:
-                    AppendToTextFile("general_block_popup.txt", targetFilter)
-                else:
-                    AppendToTextFile("general_block.txt", targetFilter)
-        else:
-            if isHidingFilter is True:
-                AppendToTextFile("specific_hide.txt", targetFilter)
-            else:
-                if isPopup is True:
-                    AppendToTextFile("specific_block_popup.txt", targetFilter)
-                else:
-                    AppendToTextFile("specific_block.txt", targetFilter)
+	    if(isGeneralWhitelistFilter):
+	        AppendToTextFile("whitelist_general_hide.txt", targetFilter)
+	        continue
+
+	    
+	    
+	    print("\n"+targetFilter) #+ " --> (Verified : " + str(isVerified) +", New suggestion : " + str(IsNewFilter) + ")")
+	    print("This domain is a... (1)adserver  (2)sub-adserver  (3)non-adserver. (w)whois searching. (u)undo. (p)pass. (q)exit")
+	    answer= input()
+
+	    if answer.strip() == 'p' or answer.strip() == 'n':
+	        print ("next.")
+	        continue
+		
+	    if answer.strip() == 'w' or answer.strip() == 'l':
+	        print("Calling a WHOIS lookup.")
+	        CallALookup(targetFilter)
+	        answer= input()
+	        pass
+
+	    if answer.strip() == '' or answer.strip() == 'q':
+	        print("Shutdown the program.")
+	        sys.exit()
+
+	    if int(answer) == 1: # Ad-server
+	        if isPopup == True:
+	            AppendToTextFile("adservers_popup.txt", targetFilter)
+	        else:
+	            AppendToTextFile("adservers.txt", targetFilter)
+	    if int(answer) == 2: # Non-ad-server
+	        if isPopup == True:
+	            AppendToTextFile("thirdparty_popup.txt", targetFilter)
+	        else:
+	            AppendToTextFile("thirdparty.txt", targetFilter)
+
+	    if int(answer) == 3: # Non-ad-server
+	        if isGeneralFilter == True:
+	            if isHidingFilter == True:
+	                AppendToTextFile("general_hide.txt", targetFilter)
+	            else:
+	                if isPopup == True:
+	                    AppendToTextFile("general_block_popup.txt", targetFilter)
+	                else:
+	                    AppendToTextFile("general_block.txt", targetFilter)
+	        else:
+	            if isHidingFilter is True:
+	                AppendToTextFile("specific_hide.txt", targetFilter)
+	            else:
+	                if isPopup is True:
+	                    AppendToTextFile("specific_block_popup.txt", targetFilter)
+	                else:
+	                    AppendToTextFile("specific_block.txt", targetFilter)
