@@ -380,7 +380,7 @@ apparelnews.co.kr##a:not([href*="apparelnews.co.kr"]) > img[src*="/upfiles/banne
 mobile.newsis.com###btm_layer
 mobile.newsis.com##div[id^="ad_layer_"]
 t2.taktaktak.me##div[style="margin-top:10px;margin-bottom:25px;"]
-http://sinnamovie.com/##div[id^=%22AD_%22]
+sinnamovie.com##div[id^="AD_"]
 torrenti.co.kr##.widget-box-banner
 torrenti.co.kr###at-right > .widget-side-box > a > img
 torrenti.co.kr##.modal-backdrop
