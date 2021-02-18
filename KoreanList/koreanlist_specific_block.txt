@@ -359,3 +359,8 @@
 ||blackgambler*.com/quickbanner^$image
 ||kr1.ibe.kr/img^$image
 ||torrentwon*.com/data/file^$image
+||torrentwiz*.me/data/editor^$image
+||wwwc.torrentdia.com/data/zn_banner^$image
+||ani365.org/assets/images^$image
+||linktong*.com/img^$image
+||torrentonly.com/data/zn_banner^$image
