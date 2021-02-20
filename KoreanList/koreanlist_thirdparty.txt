@@ -37,11 +37,11 @@
 ||imgcloud6.net^$image,domain=fxfx40.com
 ||19all.net/data/files/banner^$image,domain=allall44.net
 ||i.imgur.com^$image,domain=tocops.net
-||imgcloud6.net^$image,domain=wtwt59.com
+||imgcloud6.net^$image,domain=wtwt60.com
 ||1.bp.blogspot.com^$image,domain=blacktoon102.com
 ||i.imgur.com$image,domain=torrentgram14.com
 ||i.imgur.com$image,domain=ttobogo.net
 ||images2.imgbox.com$image,domain=ktxtorrent19.com
 ||images2.imgbox.com^$image,domain=torrentsir31.com
 ||i.imgur.com^$image,domain=torrentwiz20.me
-||i.imgur.com^$image,domain=torrentqq74.com
+||i.imgur.com^$image,domain=torrentqq75.com
