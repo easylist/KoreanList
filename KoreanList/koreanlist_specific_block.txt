@@ -244,7 +244,7 @@
 ||lec.co.kr/bannerpop/uploads^$image
 ||io1.innorame.com^$subdocument,domain=mbiz.herladcorp.com
 ||rapportian.com/banner^$subdocument
-||newtoki23.net/data/banner^$image
+||newtoki31.net/data/banner^$image
 ||dogjoa*.net/img/2019^$image
 ||linkzoa.com/data/linkimg^$image
 ||honam.co.kr/banner^$image

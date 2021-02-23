@@ -282,8 +282,8 @@ phpschool.com##.main_banner
 phpschool.com##.main_job
 g-enews.com##.mad
 ebn.co.kr##.vod-banner
-newtoki23.net###main4x3_banner
-newtoki23.net###hd_pop
+newtoki31.net###main4x3_banner
+newtoki31.net###hd_pop
 poomki.net##a[href*="bondisk.com"]
 poomki.net##a[href*="filelon.com"]
 yeongnam.com##a[href^="/pages/adv.do?mode=advMove&advIdx"]
