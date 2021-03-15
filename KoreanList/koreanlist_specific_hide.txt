@@ -393,3 +393,4 @@ torrentweb19.com##.mmmainads
 prskorea.co.kr##.small_bnr
 prskorea.co.kr##.imgcarousel1
 dtnews24.com##div[class*="user-banner"]
+sports.chosun.com###breakingNewsTicker
