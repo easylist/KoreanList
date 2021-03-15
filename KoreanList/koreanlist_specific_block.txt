@@ -364,3 +364,7 @@
 ||ani365.org/assets/images^$image
 ||linktong*.com/img^$image
 ||torrentonly.com/data/zn_banner^$image
+||imyongbook.com/innoy/main/iyb_bn$image
+||newspenguin.com/bannerpop/uploads/image^$image
+||swiftcoding.org/wp-content/uploads^*300x250$image
+||19guide*.com/img^$image
