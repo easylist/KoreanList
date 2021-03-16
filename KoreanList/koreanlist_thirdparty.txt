@@ -38,7 +38,7 @@
 ||19all.net/data/files/banner^$image,domain=allall44.net
 ||i.imgur.com^$image,domain=tocops.net
 ||imgcloud6.net^$image,domain=wtwt63.com
-||1.bp.blogspot.com^$image,domain=blacktoon105.com
+||1.bp.blogspot.com^$image,domain=blacktoon106.com
 ||i.imgur.com$image,domain=torrentgram15.com
 ||i.imgur.com$image,domain=ttobogo.net
 ||images2.imgbox.com$image,domain=ktxtorrent19.com
