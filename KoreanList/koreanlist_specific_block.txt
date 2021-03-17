@@ -368,3 +368,6 @@
 ||newspenguin.com/bannerpop/uploads/image^$image
 ||swiftcoding.org/wp-content/uploads^*300x250$image
 ||19guide*.com/img^$image
+||linkmozi.com/files/attach/images^$image
+||ttking*.me/ad^$image
+||us1.thetorrent.net/img^$image
