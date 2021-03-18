@@ -396,3 +396,6 @@ dtnews24.com##div[class*="user-banner"]
 sports.chosun.com###breakingNewsTicker
 us1.thetorrent.net###ouibounce-modal
 us1.thetorrent.net##.widget-box-banner
+tfmedia.co.kr##.com_ban
+tfmedia.co.kr##.ht_right
+tfmedia.co.kr##.ht_left
