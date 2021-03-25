@@ -32,14 +32,14 @@
 ||file.kcrwork.com/banner^$image,domain=jejukcr.com
 ||i.imgur.com$image,domain=torrentrz.org
 ||i.imgur.com^$image,domain=marumaru.tech
-||i.imgur.com^$image,domain=torrentview31.com
+||i.imgur.com^$image,domain=torrentview32.com
 ||64.media.tumblr.com$image,domain=sorabada26.com
 ||imgcloud6.net^$image,domain=fxfx40.com
 ||19all.net/data/files/banner^$image,domain=allall44.net
 ||i.imgur.com^$image,domain=tocops.net
-||imgcloud6.net^$image,domain=wtwt63.com
-||1.bp.blogspot.com^$image,domain=blacktoon105.com
-||i.imgur.com$image,domain=torrentgram15.com
+||imgcloud6.net^$image,domain=wtwt64.com
+||1.bp.blogspot.com^$image,domain=blacktoon106.com
+||i.imgur.com$image,domain=torrentgram16.com
 ||i.imgur.com$image,domain=ttobogo.net
 ||images2.imgbox.com$image,domain=ktxtorrent19.com
 ||images2.imgbox.com^$image,domain=torrentsir32.com
@@ -47,3 +47,5 @@
 ||i.imgur.com^$image,domain=torrentqq78.com
 ||imgur.com^$image,domain=matown.kr
 ||innorame.com$subdocument,domain=tfmedia.co.kr
+||i.imgur.com^$image,domain=torrentwiz23.me
+||i.imgur.com^$image,domain=torrentqq79.com
