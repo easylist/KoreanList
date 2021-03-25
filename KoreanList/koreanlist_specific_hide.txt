@@ -394,3 +394,14 @@ prskorea.co.kr##.small_bnr
 prskorea.co.kr##.imgcarousel1
 dtnews24.com##div[class*="user-banner"]
 sports.chosun.com###breakingNewsTicker
+us1.thetorrent.net###ouibounce-modal
+us1.thetorrent.net##.widget-box-banner
+tfmedia.co.kr##.com_ban
+tfmedia.co.kr##.ht_right
+tfmedia.co.kr##.ht_leftsexbam1.me###hd_pop
+sexbam1.me###manner
+sexbam1.me###topBanner
+sexbam1.me###bnr
+joongdo.co.kr###mobitree
+alldatasheet.co.kr###icbankbannermobile
+alldatasheet.co.kr###idAD2

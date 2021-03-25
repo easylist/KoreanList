@@ -43,5 +43,9 @@
 ||i.imgur.com$image,domain=ttobogo.net
 ||images2.imgbox.com$image,domain=ktxtorrent19.com
 ||images2.imgbox.com^$image,domain=torrentsir32.com
+||i.imgur.com^$image,domain=torrentwiz22.me
+||i.imgur.com^$image,domain=torrentqq78.com
+||imgur.com^$image,domain=matown.kr
+||innorame.com$subdocument,domain=tfmedia.co.kr
 ||i.imgur.com^$image,domain=torrentwiz23.me
 ||i.imgur.com^$image,domain=torrentqq79.com
