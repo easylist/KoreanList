@@ -405,3 +405,4 @@ sexbam1.me###bnr
 joongdo.co.kr###mobitree
 alldatasheet.co.kr###icbankbannermobile
 alldatasheet.co.kr###idAD2
+startuptoday.kr##.banner_box > a:not([href*="startuptoday.kr"])
