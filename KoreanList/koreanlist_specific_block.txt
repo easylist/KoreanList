@@ -374,3 +374,5 @@
 ||opinionnews.co.kr/bannerpop/uploads/image^$image||joongdo.co.kr/web//images/banner^$image
 ||javzoa.com/img^$image
 ||izm.co.kr/photo/banner^$image
+||foodbank.co.kr/bannerpop/uploads^$image
+||ekoreanews.co.kr/bannerpop/uploads/image^$image

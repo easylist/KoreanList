@@ -1,1 +1,2 @@
 /slots.php?site=*$popup
+||foodbank.co.kr/bannerpop/popup$popup
