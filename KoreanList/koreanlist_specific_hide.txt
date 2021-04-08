@@ -406,3 +406,4 @@ joongdo.co.kr###mobitree
 alldatasheet.co.kr###icbankbannermobile
 alldatasheet.co.kr###idAD2
 startuptoday.kr##.banner_box > a:not([href*="startuptoday.kr"])
+jangup.com##.banner_box > a:not([href^="/com/ne"]):not([href*="instagram.com"])
