@@ -377,3 +377,4 @@
 ||foodbank.co.kr/bannerpop/uploads^$image
 ||ekoreanews.co.kr/bannerpop/uploads/image^$image
 ||womaneconomy.kr/bannerpop/uploads/image^$image
+||soriaudio.com/files/attach/banner_images^$image

@@ -37,13 +37,14 @@
 ||imgcloud6.net^$image,domain=fxfx40.com
 ||19all.net/data/files/banner^$image,domain=allall44.net
 ||i.imgur.com^$image,domain=tocops.net
-||imgcloud6.net^$image,domain=wtwt66.com
+||imgcloud*.net^$image,domain=wtwt68.com
+||imgcloud*.net^$image,domain=wfwf143.com
 ||1.bp.blogspot.com^$image,domain=blacktoon106.com
-||i.imgur.com$image,domain=torrentgram16.com
+||i.imgur.com$image,domain=torrentgram17.com
 ||i.imgur.com$image,domain=ttobogo.net
 ||images2.imgbox.com$image,domain=ktxtorrent19.com
 ||images2.imgbox.com^$image,domain=torrentsir32.com
-||i.imgur.com^$image,domain=torrentqq81.com
+||i.imgur.com^$image,domain=torrentqq82.com
 ||imgur.com^$image,domain=matown.kr
 ||innorame.com$subdocument,domain=tfmedia.co.kr
 ||i.imgur.com^$image,domain=torrentwiz24.me
