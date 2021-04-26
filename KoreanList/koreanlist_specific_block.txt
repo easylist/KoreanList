@@ -378,3 +378,6 @@
 ||ekoreanews.co.kr/bannerpop/uploads/image^$image
 ||womaneconomy.kr/bannerpop/uploads/image^$image
 ||soriaudio.com/files/attach/banner_images^$image
+||prskorea.co.kr/banner^$image
+||cdn.ppomppu.co.kr/zboard/data3/banner^$image
+||ppompu.co.kr/popup/banner$image
