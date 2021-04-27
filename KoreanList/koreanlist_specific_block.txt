@@ -306,7 +306,7 @@
 ||torrent-world.*/data/apms/background^$image
 ||etoland.co.kr/data^*/etomall^$image
 ||torrentmep.com/data/banner^$image
-||moeni.org/img/sponsor$image\
+||moeni.org/img/sponsor$image
 ||newtoon*.com/data/by_banner^$image
 ||hangose01.com/data/file/linkt^$image
 ||boomboom*.site/data/apms/background^$image
