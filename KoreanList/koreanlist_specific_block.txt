@@ -379,3 +379,4 @@
 ||cdn.ppomppu.co.kr/zboard/data3/banner^$image
 ||ppompu.co.kr/popup/banner$image
 ||itbiznews.com/bannerpop/uploads^$image
+||weeklytrade.co.kr^*banner$image
