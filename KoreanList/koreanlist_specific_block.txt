@@ -378,3 +378,4 @@
 ||prskorea.co.kr/banner^$image
 ||cdn.ppomppu.co.kr/zboard/data3/banner^$image
 ||ppompu.co.kr/popup/banner$image
+||itbiznews.com/bannerpop/uploads^$image
