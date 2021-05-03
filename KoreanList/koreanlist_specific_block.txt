@@ -307,7 +307,6 @@
 ||etoland.co.kr/data^*/etomall^$image
 ||torrentmep.com/data/banner^$image
 ||moeni.org/img/sponsor$image
-||tkor.fit/bann^$image
 ||newtoon*.com/data/by_banner^$image
 ||hangose01.com/data/file/linkt^$image
 ||boomboom*.site/data/apms/background^$image
@@ -329,16 +328,13 @@
 ||tvgook*.com/banner/upload$image
 ||influencernews.kr/bannerpop/uploads/image^$image
 ||torrentview*^data/editor^$image
-||tkor.blog/bann^$image
 ||linktong1.com/img^$image
-||tkor.land/bann^$image
 ||dayisoo.me/imgad$image
 ||madtimes.org/bannerpop/uploads/image^$image
 ||sharktoon*.com/img/banner^$image
 ||mangacat.net/bn^$image
 ||mangacat.net/mainhover^$image
 ||jamics.work/bann^$image
-||tkor.men/bann^$image
 ||redvi*.com/storage/upload/banners^$image
 ||realtoon*.link/data/file/banner^$image
 ||mango*.net/images/spon^$image
@@ -347,6 +343,7 @@
 ||adulti*.com/data/banner^$image
 /^http(s):\/\/sure-\d{1,3}.(com|link)/img/$image
 ||tkor.*/bann^$image
+||tkor.*^images^$image
 ||alspo1.net/imgban^$image
 ||sektoon*.org/images^$image
 ||toontime*.com/data/by_banner$image
@@ -381,3 +378,5 @@
 ||prskorea.co.kr/banner^$image
 ||cdn.ppomppu.co.kr/zboard/data3/banner^$image
 ||ppompu.co.kr/popup/banner$image
+||itbiznews.com/bannerpop/uploads^$image
+||weeklytrade.co.kr^*banner$image
