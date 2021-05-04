@@ -368,7 +368,8 @@
 ||linkmozi.com/files/attach/images^$image
 ||ttking*.me/ad^$image
 ||us1.thetorrent.net/img^$image
-||opinionnews.co.kr/bannerpop/uploads/image^$image||joongdo.co.kr/web//images/banner^$image
+||opinionnews.co.kr/bannerpop/uploads/image^$image
+||joongdo.co.kr/web//images/banner^$image
 ||javzoa.com/img^$image
 ||izm.co.kr/photo/banner^$image
 ||foodbank.co.kr/bannerpop/uploads^$image
