@@ -34,7 +34,6 @@
 ||clien.net/service/js/app/clien.naver.js
 ||dispatch.cdnser.be/ad/
 ||contentlink.co.kr^$third-party
-||weeklytrade.co.kr/banner/
 ||petzzi.com^*/*banner/
 ||g-disk.co.kr/images_g/banner/
 ||knnews.co.kr/edb/banner/
@@ -86,7 +85,6 @@
 ||radiokorea.com/amg/images/banner/
 ||img.megafile.co.kr/images^*/banner^*/web^$image
 ||acache.ilbe.com/files/attach/new/$image
-||weeklytrade.co.kr/RAD/PEG/banner^$image
 ||funddoctor.co.kr/images/banner^*banner$image
 ||webapi2.edaily.co.kr/BoardMgnt/popup
 ||image.gamechosun.co.kr/game/webzine/common/$image
