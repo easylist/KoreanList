@@ -380,3 +380,4 @@
 ||itbiznews.com/bannerpop/uploads^$image
 ||weeklytrade.co.kr^*banner$image
 ||ngetnews.com/bannerpop/uploads/image^$image
+||insidevina.com/bannerpop/uploads/image^$image
