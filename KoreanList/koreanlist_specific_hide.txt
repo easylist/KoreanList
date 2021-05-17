@@ -292,7 +292,7 @@ ilyoseoul.co.kr##.ad-template
 ilyoseoul.co.kr##.dnbanner
 m.ezday.co.kr##div[style="margin: 0px;padding: 15px"]
 news.joins.com###criteo_network
-news.joins.com##.ab_adtxt_wrap 
+news.joins.com##.ab_adtxt_wrap
 lawissue.co.kr##a[href*="smartstore.naver.com"]
 joseilbo.com##.banner_box_wrap
 joseilbo.com##div[class^="R_cnt_bn_"]
@@ -331,7 +331,7 @@ hani.co.kr###ad_tag
 inews24.com##ad[alt="3171"]
 newbam1.net##.main-banners
 major-top.com##.carousel-inner.bg-black
-funbe.cloud,funbe.vip##div[class^="main_top_bann"] 
+funbe.cloud,funbe.vip##div[class^="main_top_bann"]
 funbe.cloud,funbe.vip##.top_banner
 torrenttt03.me###hd_pops_2
 newsis.com##div[id^="mobonDivBanner"]
@@ -398,7 +398,8 @@ us1.thetorrent.net###ouibounce-modal
 us1.thetorrent.net##.widget-box-banner
 tfmedia.co.kr##.com_ban
 tfmedia.co.kr##.ht_right
-tfmedia.co.kr##.ht_leftsexbam1.me###hd_pop
+tfmedia.co.kr##.ht_left
+sexbam1.me###hd_pop
 sexbam1.me###manner
 sexbam1.me###topBanner
 sexbam1.me###bnr
@@ -410,3 +411,4 @@ jangup.com##.banner_box > a:not([href^="/com/ne"]):not([href*="instagram.com"])
 sedaily.com###M_view_line
 prskorea.co.kr##.right_box2
 torrentsee51.com##a[href^="/go/"]
+dynews.co.kr##.banner_box > a:not([href*="dynews"])
