@@ -66,7 +66,7 @@ def readSourceFromABPFilters(url, target):
             if(extracted < number_of_domain):
                 ISSUE_COUNT += 1
                 renewed_filter= line.replace(str(extracted), str(number_of_domain))
-                printIssue(str(ISSUE_COUNT) + ". Filter update suggestion:\n- [ ]" + line + " :arrow_right: " + renewed_filter)
+                printIssue(str(ISSUE_COUNT) + ". Filter update suggestion:\n- [ ] " + line + " :arrow_right: " + renewed_filter)
             elif(extracted == number_of_domain):
                 printIssue(line +" :arrow_right: (nothing to fix) :thumbsup:")
     printIssue("")
