@@ -381,3 +381,4 @@
 ||weeklytrade.co.kr^*banner$image
 ||ngetnews.com/bannerpop/uploads/image^$image
 ||insidevina.com/bannerpop/uploads/image^$image
+||kpinews.co.kr/bannerpop/uploads/image^$image
