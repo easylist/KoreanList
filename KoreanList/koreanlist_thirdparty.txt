@@ -49,3 +49,4 @@
 ||innorame.com$subdocument,domain=tfmedia.co.kr
 ||i.imgur.com^$image,domain=torrentwiz25.me
 ||7mimg.7m.com.cn^$image,domain=7mkr.com
+||log.adplex.co.kr/getBannerInfo$script,third-party
