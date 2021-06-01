@@ -411,5 +411,13 @@ startuptoday.kr##.banner_box > a:not([href*="startuptoday.kr"])
 jangup.com##.banner_box > a:not([href^="/com/ne"]):not([href*="instagram.com"])
 sedaily.com###M_view_line
 prskorea.co.kr##.right_box2
-torrentsee54.com##a[href^="/go/"]
+torrentsee55.com##a[href^="/go/"]
 dynews.co.kr##.banner_box > a:not([href*="dynews"])
+manduya10.com##video[style*="max-height:100%"]
+manduya10.com###jwplayer-ad
+m.etoday.co.kr##div[style*="float:right;width:200px;height:200px;"]
+hankyung.com##.wrap_list > .ad_txt
+hankyung.com##.ad_list
+hankyung.com##.joy_info
+hankyung.com##.ad_bottom_fix
+health.chosun.com###searchclinic_btn2
