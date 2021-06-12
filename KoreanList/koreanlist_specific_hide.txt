@@ -421,3 +421,5 @@ hankyung.com##.ad_list
 hankyung.com##.joy_info
 hankyung.com##.ad_bottom_fix
 health.chosun.com###searchclinic_btn2
+coinpan.com##div[style*="height: 93px; width: 776px;"]
+itworld.co.kr###techlibrary_left_slide_banner

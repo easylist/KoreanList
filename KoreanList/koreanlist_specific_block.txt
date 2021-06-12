@@ -382,3 +382,5 @@
 ||ngetnews.com/bannerpop/uploads/image^$image
 ||insidevina.com/bannerpop/uploads/image^$image
 ||kpinews.co.kr/bannerpop/uploads/image^$image
+||coinpan.com^*files/banner/banner$image
+||itworld.co.kr/_images/banner/banner$image
