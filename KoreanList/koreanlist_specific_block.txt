@@ -384,3 +384,4 @@
 ||kpinews.co.kr/bannerpop/uploads/image^$image
 ||coinpan.com^*files/banner/banner$image
 ||itworld.co.kr/_images/banner/banner$image
+||wolyo.co.kr/bannerpop/uploads/image^$image
