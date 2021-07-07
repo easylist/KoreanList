@@ -385,3 +385,4 @@
 ||coinpan.com^*files/banner/banner$image
 ||itworld.co.kr/_images/banner/banner$image
 ||wolyo.co.kr/bannerpop/uploads/image^$image
+||kdfnews.com/bannerpop/uploads/image$image
