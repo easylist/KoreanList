@@ -386,3 +386,4 @@
 ||itworld.co.kr/_images/banner/banner$image
 ||wolyo.co.kr/bannerpop/uploads/image^$image
 ||kdfnews.com/bannerpop/uploads/image$image
+||wikileaks-kr.org/bannerpop/uploads/image$image
