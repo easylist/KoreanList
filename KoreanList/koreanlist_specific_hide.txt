@@ -30,7 +30,6 @@ uuoobe.kr##TABLE[cellspacing="0"][cellpadding="0"][align="center"][width="730"][
 techholic.co.kr###articleBody .width-250.height-250
 kookje.co.kr##P.right[style="width:250px;height:250px;border:1px solid #ddd"]
 christiantoday.co.kr##.unit-banner
-bbs.ruliweb.com###adsense_read_728x90_01
 adic.or.kr##.banner
 hungryapp.co.kr##DIV[class^="fixed-top"]
 alba.co.kr###MainBanner
@@ -100,6 +99,8 @@ ablenews.co.kr##DIV[style="position:relative; height:110px; text-align:center"]
 daissue.kr###back
 knnews.co.kr##[class*="banner"]
 bbs.ruliweb.com##.nbp_container
+bbs.ruliweb.com##div[id^="adsense_off_read"]
+m.ruliweb.com##.ad_go_wrapper
 hungryapp.co.kr##.bannersww
 christiantoday.co.kr##.unit-banner-top
 kinews.net###layer-popups
@@ -420,6 +421,7 @@ hankyung.com##.wrap_list > .ad_txt
 hankyung.com##.ad_list
 hankyung.com##.joy_info
 hankyung.com##.ad_bottom_fix
+hankyung.com##.articlebanner
 health.chosun.com###searchclinic_btn2
 coinpan.com##div[style*="height: 93px; width: 776px;"]
 itworld.co.kr###techlibrary_left_slide_banner
