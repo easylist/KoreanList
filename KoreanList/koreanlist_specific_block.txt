@@ -81,6 +81,7 @@
 ||surprise.or.kr/img_^$image
 ||brainbox.co.kr/data/banner/
 ||menu.mt.co.kr/news/banner/image/$image
+||menu.mt.co.kr/news/articleBanner/quickBanner_$image
 ||metroseoul.co.kr/images/banner/
 ||radiokorea.com/amg/images/banner/
 ||img.megafile.co.kr/images^*/banner^*/web^$image
