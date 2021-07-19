@@ -388,3 +388,4 @@
 ||wolyo.co.kr/bannerpop/uploads/image^$image
 ||kdfnews.com/bannerpop/uploads/image$image
 ||wikileaks-kr.org/bannerpop/uploads/image$image
+||idjnews.kr/bannerpop/uploads/image$image
