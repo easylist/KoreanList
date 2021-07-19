@@ -37,8 +37,7 @@
 ||imgcloud6.net^$image,domain=fxfx40.com
 ||19all.net/data/files/banner^$image,domain=allall44.net
 ||i.imgur.com^$image,domain=tocops.net
-||imgcloud*.net^$image,domain=wtwt79.com|wtwt80.com
-||imgcloud*.net^$image,domain=wfwf143.com
+||imgcloud*.net^$image,domain=wtwt74.com|wfwf156.com
 ||1.bp.blogspot.com^$image,domain=blacktoon107.com
 ||i.imgur.com$image,domain=torrentgram21.com
 ||i.imgur.com$image,domain=ttobogo.net
