@@ -391,7 +391,7 @@ hmovie.net##div[id^="AD_"]
 kr1.ibe.kr###ouibounce-modal
 torrentmax15.com##.container-line-main-m
 torrentweb20.com##.mmmainads
-torrentweb24.com##.mmmainads
+torrentweb25.com##.mmmainads
 prskorea.co.kr##.small_bnr
 prskorea.co.kr##.imgcarousel1
 dtnews24.com##div[class*="user-banner"]
@@ -412,7 +412,7 @@ startuptoday.kr##.banner_box > a:not([href*="startuptoday.kr"])
 jangup.com##.banner_box > a:not([href^="/com/ne"]):not([href*="instagram.com"])
 sedaily.com###M_view_line
 prskorea.co.kr##.right_box2
-torrentsee59.com##a[href^="/go/"]
+torrentsee61.com##a[href^="/go/"]
 dynews.co.kr##.banner_box > a:not([href*="dynews"])
 manduya10.com##video[style*="max-height:100%"]
 manduya10.com###jwplayer-ad
