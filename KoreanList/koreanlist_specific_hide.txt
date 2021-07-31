@@ -427,4 +427,5 @@ coinpan.com##div[style*="height: 93px; width: 776px;"]
 itworld.co.kr###techlibrary_left_slide_banner
 news.einfomax.co.kr##a:not([href*="youtube.com"]) > img[src*="/bannerpop/"]
 dailysecu.com##a:not([href^="/event"]) > img[src*="/bannerpop/"]
-biz.chosun.com##.arcad-wrapper
+manatoki95.net###main-banner-view
+manatoki95.net###id_mbv
