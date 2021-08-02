@@ -283,8 +283,7 @@ phpschool.com##.main_banner
 phpschool.com##.main_job
 g-enews.com##.mad
 ebn.co.kr##.vod-banner
-newtoki96.net###main4x3_banner
-newtoki96.net###hd_pop
+newtoki95.com###main-banner-view
 poomki.net##a[href*="bondisk.com"]
 poomki.net##a[href*="filelon.com"]
 yeongnam.com##a[href^="/pages/adv.do?mode=advMove&advIdx"]
@@ -427,4 +426,5 @@ coinpan.com##div[style*="height: 93px; width: 776px;"]
 itworld.co.kr###techlibrary_left_slide_banner
 news.einfomax.co.kr##a:not([href*="youtube.com"]) > img[src*="/bannerpop/"]
 dailysecu.com##a:not([href^="/event"]) > img[src*="/bannerpop/"]
-biz.chosun.com##.arcad-wrapper
+manatoki95.net###main-banner-view
+manatoki95.net###id_mbv
