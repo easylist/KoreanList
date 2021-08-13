@@ -428,3 +428,4 @@ news.einfomax.co.kr##a:not([href*="youtube.com"]) > img[src*="/bannerpop/"]
 dailysecu.com##a:not([href^="/event"]) > img[src*="/bannerpop/"]
 manatoki95.net###main-banner-view
 manatoki95.net###id_mbv
+labortoday.co.kr##a:not([href*="labortoday.co.kr"]) > img[src*="/bannerpop/"]
