@@ -429,3 +429,7 @@ dailysecu.com##a:not([href^="/event"]) > img[src*="/bannerpop/"]
 manatoki95.net###main-banner-view
 manatoki95.net###id_mbv
 labortoday.co.kr##a:not([href*="labortoday.co.kr"]) > img[src*="/bannerpop/"]
+paxnetnews.com##.article-top-a-d
+paxnetnews.com##.article-mid-a-d
+paxnetnews.com##.hd-right-ad
+paxnetnews.com##a:not([href*="paxnetnews.com"]) > div[class*="side-top-ad"]
