@@ -390,7 +390,7 @@ hmovie.net##div[id^="AD_"]
 kr1.ibe.kr###ouibounce-modal
 torrentmax15.com##.container-line-main-m
 torrentweb25.com##.mmmainads
-torrentweb28.com##.mmmainads
+torrentweb30.com##.mmmainads
 prskorea.co.kr##.small_bnr
 prskorea.co.kr##.imgcarousel1
 dtnews24.com##div[class*="user-banner"]
