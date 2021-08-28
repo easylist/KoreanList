@@ -433,3 +433,4 @@ paxnetnews.com##.article-mid-a-d
 paxnetnews.com##.hd-right-ad
 paxnetnews.com##a:not([href*="paxnetnews.com"]) > div[class*="side-top-ad"]
 inews24.com##ad
+newsnjoy.or.kr###veritasaApp

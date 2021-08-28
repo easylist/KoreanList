@@ -390,3 +390,4 @@
 ||wikileaks-kr.org/bannerpop/uploads/image$image
 ||idjnews.kr/bannerpop/uploads/image$image
 ||vod-player.afreecatv.com/v101/hls/creatives/media
+||newsnjoy.or.kr/bannerpop/uploads/image^$image
