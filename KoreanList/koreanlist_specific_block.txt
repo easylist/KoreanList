@@ -391,3 +391,4 @@
 ||idjnews.kr/bannerpop/uploads/image$image
 ||vod-player.afreecatv.com/v101/hls/creatives/media
 ||newsnjoy.or.kr/bannerpop/uploads/image^$image
+||sorabada*.com/img/banner$image
