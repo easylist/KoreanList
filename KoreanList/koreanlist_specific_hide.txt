@@ -427,3 +427,10 @@ news.einfomax.co.kr##a:not([href*="youtube.com"]) > img[src*="/bannerpop/"]
 dailysecu.com##a:not([href^="/event"]) > img[src*="/bannerpop/"]
 manatoki96.net###main-banner-view
 manatoki96.net###id_mbv
+labortoday.co.kr##a:not([href*="labortoday.co.kr"]) > img[src*="/bannerpop/"]
+paxnetnews.com##.article-top-a-d
+paxnetnews.com##.article-mid-a-d
+paxnetnews.com##.hd-right-ad
+paxnetnews.com##a:not([href*="paxnetnews.com"]) > div[class*="side-top-ad"]
+inews24.com##ad
+newsnjoy.or.kr###veritasaApp
