@@ -434,3 +434,7 @@ paxnetnews.com##.hd-right-ad
 paxnetnews.com##a:not([href*="paxnetnews.com"]) > div[class*="side-top-ad"]
 inews24.com##ad
 newsnjoy.or.kr###veritasaApp
+jusoyo.net##div.basic-banner-gallery
+jusoyo.net##div.col-sm-12.widget-index-main
+jusoyo.net##div[id^="hd_pops"]
+sorabada27.com##div[id^="hd_pops"]
