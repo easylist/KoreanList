@@ -392,3 +392,4 @@
 ||vod-player.afreecatv.com/v101/hls/creatives/media
 ||newsnjoy.or.kr/bannerpop/uploads/image^$image
 ||sorabada*.com/img/banner$image
+||cafeptthumb-phinf.pstatic.net^*type=*banner
