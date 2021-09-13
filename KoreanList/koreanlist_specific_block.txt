@@ -393,3 +393,5 @@
 ||newsnjoy.or.kr/bannerpop/uploads/image^$image
 ||sorabada*.com/img/banner$image
 ||cafeptthumb-phinf.pstatic.net^*type=*banner
+||1.bp.blogspot.com^$image,domain=sogirl.co
+||qoqtv.com/banner^$image
