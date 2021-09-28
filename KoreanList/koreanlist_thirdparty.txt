@@ -49,3 +49,4 @@
 ||innorame.com$subdocument,domain=tfmedia.co.kr
 ||7mimg.7m.com.cn^$image,domain=7mkr.com
 ||log.adplex.co.kr/getBannerInfo$script,third-party
+||cloudaaaa.com/c^$image,third-party
