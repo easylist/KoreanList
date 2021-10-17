@@ -395,3 +395,5 @@
 ||cafeptthumb-phinf.pstatic.net^*type=*banner
 ||1.bp.blogspot.com^$image,domain=sogirl.co
 ||qoqtv.com/banner^$image
+||health.chosun.com/images/2020/aleft$image
+||m.health.chosun.com/img/m_banner_$image

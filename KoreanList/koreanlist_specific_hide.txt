@@ -439,3 +439,4 @@ jusoyo.net##div.basic-banner-gallery
 jusoyo.net##div.col-sm-12.widget-index-main
 jusoyo.net##div[id^="hd_pops"]
 sorabada30.com##div[id^="hd_pops"]
+incheonilbo.com##.user-banner
