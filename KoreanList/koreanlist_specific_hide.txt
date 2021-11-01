@@ -385,12 +385,12 @@ torrenti.co.kr##.widget-box-banner
 torrenti.co.kr###at-right > .widget-side-box > a > img
 torrenti.co.kr##.modal-backdrop
 torrenti.co.kr###ouibounce-modal
-jujutorrent37.com##.npia-board-gallery
+jujutorrent40.com##.npia-board-gallery
 hmovie.net##div[id^="AD_"]
 kr1.ibe.kr###ouibounce-modal
 torrentmax15.com##.container-line-main-m
 torrentweb34.com##.mmmainads
-torrentweb36.com##.mmmainads
+torrentweb37.com##.mmmainads
 prskorea.co.kr##.small_bnr
 prskorea.co.kr##.imgcarousel1
 dtnews24.com##div[class*="user-banner"]
@@ -411,7 +411,8 @@ startuptoday.kr##.banner_box > a:not([href*="startuptoday.kr"])
 jangup.com##.banner_box > a:not([href^="/com/ne"]):not([href*="instagram.com"])
 sedaily.com###M_view_line
 prskorea.co.kr##.right_box2
-torrentsee70.com##a[href^="/go/"]
+torrentsee75.com##a[href^="/go/"]
+torrentsee78.com##a[href^="/go/"]
 dynews.co.kr##.banner_box > a:not([href*="dynews"])
 manduya10.com##video[style*="max-height:100%"]
 manduya10.com###jwplayer-ad
@@ -426,8 +427,6 @@ coinpan.com##div[style*="height: 93px; width: 776px;"]
 itworld.co.kr###techlibrary_left_slide_banner
 news.einfomax.co.kr##a:not([href*="youtube.com"]) > img[src*="/bannerpop/"]
 dailysecu.com##a:not([href^="/event"]) > img[src*="/bannerpop/"]
-manatoki98.net###main-banner-view
-manatoki98.net###id_mbv
 labortoday.co.kr##a:not([href*="labortoday.co.kr"]) > img[src*="/bannerpop/"]
 paxnetnews.com##.article-top-a-d
 paxnetnews.com##.article-mid-a-d
