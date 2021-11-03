@@ -397,3 +397,4 @@
 ||qoqtv.com/banner^$image
 ||health.chosun.com/images/2020/aleft$image
 ||m.health.chosun.com/img/m_banner_$image
+||cdn.econovill.com/bannerpop/uploads^$image
