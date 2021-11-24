@@ -41,6 +41,7 @@
 ||imgcloud*.net^$image,domain=wtwt94.com
 ||1.bp.blogspot.com^$image,domain=blacktoon131.com
 ||i.imgur.com$image,domain=torrentgram29.com
+||saveimg.net/images^$image,domain=torrentgram29.com
 ||i.imgur.com$image,domain=ttobogo.net
 ||images2.imgbox.com$image,domain=ktxtorrent29.com
 ||images2.imgbox.com^$image,domain=torrentsir40.com
