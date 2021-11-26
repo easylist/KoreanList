@@ -144,7 +144,6 @@ asiatoday.co.kr##[class^="aside_google"]
 wowtv.co.kr###divTopBanner
 news.mt.co.kr###news_banner1
 autoview.co.kr##.banner
-seeit.kr##TABLE[style="width:690px;margin:5 5 5 5;border:1px solid #ffffff;"]
 ilbe.com##DIV[id^="openXdummy_TTop"]
 testdrive.or.kr###bannerpan
 radiokorea.com##.cycle-slideshow
@@ -158,7 +157,6 @@ boardlife.co.kr##[style="height:250px"]
 ddaily.co.kr##[style="padding-bottom:10px; border-bottom:1px solid #e4e4e4;margin:0;"]
 fomos.kr##.banner_area.banner01
 asiatoday.co.kr##div[style^="width:450px;height:160px;"]
-seeit.kr###ttItemGroup1853
 unitel.co.kr##.today_area
 veritas.kr##DIV[style^="width:728px;height:90px;"]
 asiatoday.co.kr##.mt15
@@ -385,11 +383,10 @@ torrenti.co.kr##.widget-box-banner
 torrenti.co.kr###at-right > .widget-side-box > a > img
 torrenti.co.kr##.modal-backdrop
 torrenti.co.kr###ouibounce-modal
-jujutorrent41.com##.npia-board-gallery
+jujutorrent42.com##.npia-board-gallery
 hmovie.net##div[id^="AD_"]
 kr1.ibe.kr###ouibounce-modal
-torrentmax2.com##.container-line-main-m
-torrentmax14.com##.container-line-main-m
+torrentmax15.com##.container-line-main-m
 torrentweb29.com##.mmmainads
 torrentweb34.com##.mmmainads
 torrentweb37.com##.mmmainads
@@ -415,7 +412,7 @@ sedaily.com###M_view_line
 prskorea.co.kr##.right_box2
 torrentsee75.com##a[href^="/go/"]
 torrentsee78.com##a[href^="/go/"]
-torrentsee80.com##a[href^="/go/"]
+torrentsee81.com##a[href^="/go/"]
 dynews.co.kr##.banner_box > a:not([href*="dynews"])
 manduya10.com##video[style*="max-height:100%"]
 manduya10.com###jwplayer-ad
