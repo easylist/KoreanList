@@ -38,12 +38,13 @@
 ||imgcloud6.net^$image,domain=fxfx40.com
 ||19all.net/data/files/banner^$image,domain=allall1.net
 ||i.imgur.com^$image,domain=tocops.net
-||imgcloud*.net^$image,domain=wtwt107.com
+||imgcloud*.net^$image,domain=wtwt110.com
 ||1.bp.blogspot.com^$image,domain=blacktoon131.com
 ||i.imgur.com$image,domain=torrentgram29.com
 ||saveimg.net/images^$image,domain=torrentgram29.com
 ||i.imgur.com$image,domain=ttobogo.net
-||images2.imgbox.com$image,domain=ktxtorrent30.com
+||images2.imgbox.com$image,domain=ktxtorrent32.com
+||images2.imgbox.com$image,domain=ktxtorrent33.com
 ||images2.imgbox.com^$image,domain=torrentsir43.com
 ||i.imgur.com^$image,domain=torrentqq115.com
 ||imgur.com^$image,domain=matown.kr
