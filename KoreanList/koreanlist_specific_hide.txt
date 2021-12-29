@@ -411,8 +411,7 @@ jangup.com##.banner_box > a:not([href^="/com/ne"]):not([href*="instagram.com"])
 sedaily.com###M_view_line
 prskorea.co.kr##.right_box2
 torrentsee75.com##a[href^="/go/"]
-torrentsee78.com##a[href^="/go/"]
-torrentsee81.com##a[href^="/go/"]
+torrentsee87.com##a[href^="/go/"]
 dynews.co.kr##.banner_box > a:not([href*="dynews"])
 manduya10.com##video[style*="max-height:100%"]
 manduya10.com###jwplayer-ad
