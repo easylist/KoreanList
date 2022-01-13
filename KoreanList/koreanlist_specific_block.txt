@@ -32,6 +32,7 @@
 ||ksilbo.co.kr/ad/
 ||etorrent.kr/img/index_banner
 ||clien.net/service/js/app/clien.naver.js
+||cloudaaaa.com/a
 ||dispatch.cdnser.be/ad/
 ||contentlink.co.kr^$third-party
 ||petzzi.com^*/*banner/
