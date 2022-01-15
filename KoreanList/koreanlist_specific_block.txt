@@ -400,3 +400,4 @@
 ||m.health.chosun.com/img/m_banner_$image
 ||cdn.econovill.com/bannerpop/uploads^$image
 ||ohli24.net/img^$image
+||manatoki119.net/tokinbtoki^$image
