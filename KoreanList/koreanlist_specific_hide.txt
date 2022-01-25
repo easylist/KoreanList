@@ -383,7 +383,7 @@ torrenti.co.kr##.widget-box-banner
 torrenti.co.kr###at-right > .widget-side-box > a > img
 torrenti.co.kr##.modal-backdrop
 torrenti.co.kr###ouibounce-modal
-jujutorrent44.com##.npia-board-gallery
+jujutorrent45.com##.npia-board-gallery
 hmovie.net##div[id^="AD_"]
 kr1.ibe.kr###ouibounce-modal
 torrentmax15.com##.container-line-main-m
@@ -410,7 +410,7 @@ startuptoday.kr##.banner_box > a:not([href*="startuptoday.kr"])
 jangup.com##.banner_box > a:not([href^="/com/ne"]):not([href*="instagram.com"])
 sedaily.com###M_view_line
 prskorea.co.kr##.right_box2
-torrentsee75.com##a[href^="/go/"]
+torrentsee77.com##a[href^="/go/"]
 torrentsee89.com##a[href^="/go/"]
 dynews.co.kr##.banner_box > a:not([href*="dynews"])
 manduya10.com##video[style*="max-height:100%"]
