@@ -443,3 +443,6 @@ dak.gg##.pa_top4
 dak.gg##div[id^="google_ads_iframe"]
 gukjenews.com##.banner_box
 namu.wiki###D7bCic0bB
+ygosu.com##div[style="text-align: center; position: relative; z-index: 101;"]
+ygosu.com###right_nav
+ygosu.com##.left_ban
