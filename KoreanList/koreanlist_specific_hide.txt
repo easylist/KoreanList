@@ -100,6 +100,7 @@ daissue.kr###back
 knnews.co.kr##[class*="banner"]
 bbs.ruliweb.com##.nbp_container
 bbs.ruliweb.com##div[id^="adsense_off_read"]
+bbs.ruliweb.com###ad_main_ti_new
 m.ruliweb.com##.ad_go_wrapper
 hungryapp.co.kr##.bannersww
 christiantoday.co.kr##.unit-banner-top
