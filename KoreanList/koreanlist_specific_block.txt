@@ -75,6 +75,7 @@
 ||image.auction.co.kr/DA/base/$image
 ||i.imgur.com/hc4FQfT.png
 ||platum.kr/wp-content/uploads/*side$image
+||live.staticflickr.com$image,domain=platum.kr
 ||bstoday.kr/bannerpop/uploads/image/
 ||ntoday.co.kr/bannerpop/uploads/image/
 ||zdnet.co.kr/Include2/ad_mt*.html$script
