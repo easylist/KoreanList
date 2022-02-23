@@ -444,3 +444,4 @@ dak.gg##.pa_top4
 dak.gg##div[id^="google_ads_iframe"]
 gukjenews.com##.banner_box
 namu.wiki###D7bCic0bB
+a5.avpong.net##.s_body_top
