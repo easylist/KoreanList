@@ -405,3 +405,4 @@
 ||manatoki120.net/tokinbtoki^$image
 ||bestadp.com^$image,subdocument
 ||a5.avpong.net/ad/banner
+||linkbaro*.net/ad/banner^$image
