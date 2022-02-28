@@ -99,6 +99,7 @@
 ||storyschool.kr/UPLOAD/BANNER/
 ||dd-adimage.newscloud.or.kr/$image
 ||img.mobon.net/newAd/js/jquery-1.9.1.min.js$domain=postshare.co.kr
+||imgcloud11.net$domain=wtwt122.com
 ||testdrive.or.kr/banner^$image
 ||polinews.co.kr/data/banner^$image
 ||tuning09.co.kr/widgets/login_info/skins/tuning09_login/images/banner/
