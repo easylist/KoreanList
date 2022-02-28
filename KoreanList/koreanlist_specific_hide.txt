@@ -439,7 +439,6 @@ jusoyo.net##div.col-sm-12.widget-index-main
 jusoyo.net##div[id^="hd_pops"]
 sorabada30.com##div[id^="hd_pops"]
 incheonilbo.com##.user-banner
-m.newspic.kr/###dionAdArea2
 dak.gg##.pa_top4
 dak.gg##div[id^="google_ads_iframe"]
 gukjenews.com##.banner_box
