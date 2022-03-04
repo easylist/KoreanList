@@ -444,3 +444,5 @@ dak.gg##div[id^="google_ads_iframe"]
 gukjenews.com##.banner_box
 namu.wiki###D7bCic0bB
 a5.avpong.net##.s_body_top
+newtoki123.com##a[href^="https://newtoki123.com/bbs/linkbn.php"]
+newtoki123.com##a[href^="https://t.me/s/newtoki3"]
