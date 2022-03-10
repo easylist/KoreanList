@@ -444,3 +444,5 @@ dak.gg##div[id^="google_ads_iframe"]
 gukjenews.com##.banner_box
 namu.wiki###D7bCic0bB
 a5.avpong.net##.s_body_top
+cafe24.com##a[href^="https://open.kakao.com/"]
+cafe24.com##.pum-close
