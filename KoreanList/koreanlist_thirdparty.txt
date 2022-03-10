@@ -27,7 +27,7 @@
 ||bananamall.co.kr/banner^$image,third-party
 ||ads-partners.coupang.com^$script,third-party
 ||i.imgur.com^$image,domain=manamoa31.net
-||i.imgur.com^$image,domain=buzztoon79.com
+||i.imgur.com^$image,domain=buzztoon156.com
 ||adclicks.devpia.com^$subdocument
 ||i.imgur.com^$image,domain=torrenthaja.com
 ||file.kcrwork.com/banner^$image,domain=jejukcr.com
