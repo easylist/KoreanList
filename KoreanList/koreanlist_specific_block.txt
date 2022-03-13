@@ -401,8 +401,7 @@
 ||m.health.chosun.com/img/m_banner_$image
 ||cdn.econovill.com/bannerpop/uploads^$image
 ||ohli24.net/img^$image
-||manatoki119.net/tokinbtoki^$image
-||manatoki120.net/tokinbtoki^$image
+||manatoki124.net/tokinbtoki^$image
 ||bestadp.com^$image,subdocument
 ||a5.avpong.net/ad/banner
 ||linkbaro*.net/ad/banner^$image
