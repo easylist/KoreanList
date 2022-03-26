@@ -447,3 +447,4 @@ a5.avpong.net##.s_body_top
 cafe24.com##a[href^="https://open.kakao.com/"]
 cafe24.com##.pum-close
 m.animalplanet.co.kr##.floting-ad
+torrentview53.com###hd_pop
