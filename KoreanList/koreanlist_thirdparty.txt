@@ -33,7 +33,7 @@
 ||file.kcrwork.com/banner^$image,domain=jejukcr.com
 ||i.imgur.com$image,domain=torrentrz.org
 ||i.imgur.com^$image,domain=marumaru.tech
-||i.imgur.com^$image,domain=torrentview50.com
+||i.imgur.com^$image,domain=torrentview53.com
 ||64.media.tumblr.com$image,domain=sorabada30.com
 ||imgcloud6.net^$image,domain=fxfx40.com
 ||19all.net/data/files/banner^$image,domain=allall1.net
