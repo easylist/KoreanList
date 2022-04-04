@@ -15,3 +15,5 @@
 ###FadeADLayer
 ##.hed_ad
 ##.swipe-carousel
+##.container.banner.mt-2
+##.container.banner.mt-3.mb-3
