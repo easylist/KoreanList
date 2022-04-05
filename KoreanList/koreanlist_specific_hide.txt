@@ -446,6 +446,8 @@ namu.wiki###D7bCic0bB
 a5.avpong.net##.s_body_top
 cafe24.com##a[href^="https://open.kakao.com/"]
 cafe24.com##.pum-close
+blacktoon167.com##.container.banner.mt-3.mb-3
+blacktoon167.com##[class^="col-12"][style^="padding:3px;"]
 m.animalplanet.co.kr##.floting-ad
 torrentview53.com###hd_pop
 ktxtorrent39.com###hd_pop
