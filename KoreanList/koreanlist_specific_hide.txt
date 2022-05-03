@@ -437,7 +437,7 @@ newsnjoy.or.kr###veritasaApp
 jusoyo.net##div.basic-banner-gallery
 jusoyo.net##div.col-sm-12.widget-index-main
 jusoyo.net##div[id^="hd_pops"]
-sorabada30.com##div[id^="hd_pops"]
+sorabada42.com##div[id^="hd_pops"]
 incheonilbo.com##.user-banner
 dak.gg##.pa_top4
 dak.gg##div[id^="google_ads_iframe"]
