@@ -43,7 +43,7 @@
 ||i.imgur.com$image,domain=torrentgram33.com
 ||saveimg.net/images^$image,domain=torrentgram33.com
 ||i.imgur.com$image,domain=ttobogo.net
-||images2.imgbox.com$image,domain=ktxtorrent39.com
+||images2.imgbox.com$image,domain=ktxtorrent43.com
 ||images2.imgbox.com^$image,domain=torrentsir51.com
 ||i.imgur.com^$image,domain=torrentqq126.com
 ||imgur.com^$image,domain=matown.kr
