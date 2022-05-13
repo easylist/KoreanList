@@ -406,3 +406,4 @@
 ||a5.avpong.net/ad/banner
 ||linkbaro*.net/ad/banner^$image
 ||kindtoon.com/ad/banner$image,$subdocument
+||blacktoon173.com/poster_js
