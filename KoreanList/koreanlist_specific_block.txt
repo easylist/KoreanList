@@ -319,6 +319,7 @@
 ||photo.newsen.com/banner^$image
 ||sisunnews.co.kr/bannerpop/uploads^$image
 ||manatoki*.net/data/banner^$image
+||manatoki*.net/tokinbtoki^$image
 ||torrentrz.org/data/banner^$image
 ||imgnewad.ytn.co.kr/image^$image
 ||hodu*^img/banner^$image
@@ -401,7 +402,6 @@
 ||m.health.chosun.com/img/m_banner_$image
 ||cdn.econovill.com/bannerpop/uploads^$image
 ||ohli24.net/img^$image
-||manatoki124.net/tokinbtoki^$image
 ||bestadp.com^$image,subdocument
 ||a5.avpong.net/ad/banner
 ||linkbaro*.net/ad/banner^$image
