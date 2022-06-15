@@ -3,6 +3,7 @@
 ||creditform.co.kr^$third-party
 ||wp.com/mrcrack.*/wp-content/uploads^$image,third-party
 ||pstatic.net/tveta/libs^$image,domain=naver.com
+||ssl.pstatic.net/tveta/libs/glad^$script,domain=naver.com
 ||vod2.shoppingcall.me/images/$third-party
 ||pe-adimage.newscloud.or.kr/creatives/
 ||ad.goclassic.co.kr/ad/
