@@ -450,7 +450,7 @@ blacktoon167.com##.container.banner.mt-3.mb-3
 blacktoon167.com##[class^="col-12"][style^="padding:3px;"]
 m.animalplanet.co.kr##.floting-ad
 torrentview53.com###hd_pop
-ktxtorrent39.com###hd_pop
+ktxtorrent46.com###hd_pop
 newtoki128.com##a[href*="/bbs/linkbn.php?"]
 nodoong2017.tistory.com##a[href^="https://partner.bitget.com"]
 nodoong2017.tistory.com##a[href^="https://www.mexc.com"]
