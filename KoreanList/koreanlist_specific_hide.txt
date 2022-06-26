@@ -455,3 +455,4 @@ newtoki128.com##a[href*="/bbs/linkbn.php?"]
 nodoong2017.tistory.com##a[href^="https://partner.bitget.com"]
 nodoong2017.tistory.com##a[href^="https://www.mexc.com"]
 new.land.naver.com##iframe[id="land_panel_da_tgtLREC"]
+m.naver.com###HOME_AD
