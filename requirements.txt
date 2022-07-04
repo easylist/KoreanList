@@ -1,6 +1,6 @@
 requests==2.22.0
 PyGithub==1.51
 PyInquirer==1.0.3
-#numpy==1.20.1
-numpy==1.22
+numpy==1.20.1
+#numpy==1.22
 tldextract==3.0.1
