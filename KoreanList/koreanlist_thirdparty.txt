@@ -39,7 +39,6 @@
 ||19all.net/data/files/banner^$image,domain=allall1.net
 ||i.imgur.com^$image,domain=tocops.net
 ||imgcloud*.net^$image,domain=wtwt141.com
-||1.bp.blogspot.com^$image,domain=blacktoon167.com
 ||i.imgur.com$image,domain=torrentgram33.com
 ||saveimg.net/images^$image,domain=torrentgram33.com
 ||i.imgur.com$image,domain=ttobogo.net
@@ -52,5 +51,5 @@
 ||log.adplex.co.kr/getBannerInfo$script,third-party
 ||cloudaaaa.com/c^$image,third-party
 ||adhooah.com/creative^$image,domain=ruliweb.com
-||hcdn1.maxsocdn.net/images^$image,domain=kr36.sogirl.so
-||1.bp.blogspot.com^$image,domain=kr36.sogirl.so
+||hcdn1.maxsocdn.net/images^$image,domain=kr36.sogirl.so,kr1.4kjav.co
+||1.bp.blogspot.com^$image,domain=kr36.sogirl.so,kr1.4kjav.co,blacktoon167.com
