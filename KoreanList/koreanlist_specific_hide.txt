@@ -457,3 +457,4 @@ nodoong2017.tistory.com##a[href^="https://www.mexc.com"]
 new.land.naver.com##iframe[id="land_panel_da_tgtLREC"]
 m.naver.com###HOME_AD
 kr36.sogirl.so##.happy-inside-player
+kr36.sogirl.so##.jconfirm
