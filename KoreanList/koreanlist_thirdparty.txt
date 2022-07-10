@@ -45,10 +45,12 @@
 ||i.imgur.com$image,domain=ttobogo.net
 ||images2.imgbox.com$image,domain=ktxtorrent46.com
 ||images2.imgbox.com^$image,domain=torrentsir51.com
-||i.imgur.com^$image,domain=torrentqq126.com
+||i.imgur.com^$image,domain=torrentqq212.com
 ||imgur.com^$image,domain=matown.kr
 ||innorame.com$subdocument,domain=tfmedia.co.kr
 ||7mimg.7m.com.cn^$image,domain=7mkr.com
 ||log.adplex.co.kr/getBannerInfo$script,third-party
 ||cloudaaaa.com/c^$image,third-party
 ||adhooah.com/creative^$image,domain=ruliweb.com
+||hcdn1.maxsocdn.net/images^$image,domain=kr36.sogirl.so
+||1.bp.blogspot.com^$image,domain=kr36.sogirl.so
