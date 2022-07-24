@@ -198,7 +198,9 @@
 ||taeyo.pe.kr/*banner_$image
 ||taeyo.pe.kr/images/spreadJS.gif
 ||devlec.com/images/devlec_taeyo.gif
-||toonkor.*/bann^$image
+||toonkor*/bann^$image
+||toonkor*.com/images^$image
+||cdn*.bestcontentitem.top^$image
 ||mangashow.me/img/banner^$image
 ||semoya.net/img/banner^$image
 ||hellven.net/data/apms/banner^$image
@@ -407,6 +409,4 @@
 ||linkbaro*.net/ad/banner^$image
 ||kindtoon.com/ad/banner$image,subdocument
 ||blacktoon173.com/poster_js
-||toonkor*.com/images^$image
-||toonkor*.com/bann^$image
-||cdn*.bestcontentitem.top^$image
+
