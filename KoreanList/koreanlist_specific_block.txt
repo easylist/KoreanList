@@ -407,3 +407,6 @@
 ||linkbaro*.net/ad/banner^$image
 ||kindtoon.com/ad/banner$image,subdocument
 ||blacktoon173.com/poster_js
+||toonkor*.com/images^$image
+||toonkor*.com/bann^$image
+||cdn*.bestcontentitem.top^$image
