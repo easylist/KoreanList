@@ -34,7 +34,7 @@
 ||file.kcrwork.com/banner^$image,domain=jejukcr.com
 ||i.imgur.com$image,domain=torrentrz.org
 ||i.imgur.com^$image,domain=marumaru.tech
-||i.imgur.com^$image,domain=torrentview62.com
+||i.imgur.com^$image,domain=torrentview65.com
 ||64.media.tumblr.com$image,domain=sorabada32.com
 ||19all.net/data/files/banner^$image,domain=allall1.net
 ||i.imgur.com^$image,domain=tocops.net
