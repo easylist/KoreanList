@@ -410,3 +410,4 @@
 ||kindtoon.com/ad/banner$image,subdocument
 ||blacktoon*.com/poster_js
 ||ddalbooks*.com/img^$image
+||bame*.net/img^$image
