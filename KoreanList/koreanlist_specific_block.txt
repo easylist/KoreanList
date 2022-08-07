@@ -222,7 +222,7 @@
 ||ppss.kr^*/*banner$image
 ||torrentelf.com/data/file/ad^$image
 ||torrentwal.com/banner^$image
-||ddaltime6.com/img^*.gif
+||ddaltime*.com/img^$image
 ||ggilbo.com/bannerpop^$image
 ||dasiboda1.net/dasi_media^*728.gif
 ||nunagom01.com/data/by_banner^$image
@@ -409,4 +409,3 @@
 ||linkbaro*.net/ad/banner^$image
 ||kindtoon.com/ad/banner$image,subdocument
 ||blacktoon173.com/poster_js
-
