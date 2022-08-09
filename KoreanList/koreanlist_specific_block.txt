@@ -248,6 +248,8 @@
 ||io1.innorame.com^$subdocument,domain=mbiz.herladcorp.com
 ||rapportian.com/banner^$subdocument
 ||newtoki*.net/data/banner^$image
+||newtoki*.com/data/banner^$image
+||newtoki*.com/tokinbtoki^$image
 ||dogjoa*.net/img/2019^$image
 ||linkzoa.com/data/linkimg^$image
 ||honam.co.kr/banner^$image
@@ -313,7 +315,6 @@
 ||newtoon*.com/data/by_banner^$image
 ||hangose01.com/data/file/linkt^$image
 ||boomboom*.site/data/apms/background^$image
-||newtoki*.com/data/banner^$image
 ||docdocdoc.co.kr/bannerpop/uploads^$image
 ||xn--hg3b191ba.2on.in/img/tot^$image
 ||famtimes.co.kr/bannerpop/uploads^$image
