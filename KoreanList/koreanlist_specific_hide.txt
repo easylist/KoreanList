@@ -41,6 +41,7 @@ newsprime.co.kr##.section_4 > iframe
 gamechosun.co.kr##.top_event
 etoday.co.kr###livereAd
 ilbe.com###bannerXX
+m.ilbe.com##.cutin-banner
 metroseoul.co.kr##[style="margin-top: 40px; width: 100%; height: 300px;"]
 ilbe.com##IFRAME[style="width:120px;height:618px"]
 kookje.co.kr##DIV.center[style="padding-top:10px;"]
