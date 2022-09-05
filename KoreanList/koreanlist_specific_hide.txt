@@ -461,3 +461,5 @@ kr36.sogirl.so##.happy-inside-player
 kr36.sogirl.so##.jconfirm
 m.edaily.co.kr###innoramegbLodK
 m.edaily.co.kr###youtubeArea
+it.chosun.com##.ad2
+it.chosun.com##.news_ad_top
