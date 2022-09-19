@@ -38,7 +38,7 @@
 ||64.media.tumblr.com$image,domain=sorabada32.com
 ||19all.net/data/files/banner^$image,domain=allall1.net
 ||i.imgur.com^$image,domain=tocops.net
-||imgcloud*.net^$image,domain=wtwt148.com|wtwt149.com|wtwt150.com
+||imgcloud*.net^$image,domain=wtwt153.com|wtwt154.com|wtwt155.com
 ||imgcloud*.net^$image,domain=fxfx138.com|fxfx139.com|fxfx140.com
 ||imgcloud*.net^$image,domain=wftoon37.com|wftoon38.com|wftoon39.com
 ||1.bp.blogspot.com^$image,domain=blacktoon167.com
