@@ -58,4 +58,4 @@
 ||hcdn1.maxsocdn.net/images^$image,domain=4kjav.co
 ||1.bp.blogspot.com^$image,domain=kr36.sogirl.so
 ||1.bp.blogspot.com^$image,domain=4kjav.co
-
+||*.cloudfront.net/covers^$image,domain=paxnetnews.com
