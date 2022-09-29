@@ -414,3 +414,4 @@
 ||bame*.net/img^$image
 ||segye.com/static/2019_segye/resources/images/eventpage^$image
 ||image.munhwa.com/www/banner^$image
+||img.tf.co.kr/img/tfad^$image
