@@ -413,6 +413,7 @@
 ||ddalbooks*.com/img^$image
 ||bame*.net/img^$image
 ||segye.com/static/2019_segye/resources/images/eventpage^$image
+||newstap.co.kr/bannerManager^$image
 ||image.munhwa.com/www/banner^$image
 ||img.tf.co.kr/img/tfad^$image
 ||canceranswer.co.kr/bannerpop/uploads^$image
