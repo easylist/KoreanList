@@ -463,3 +463,7 @@ m.edaily.co.kr###innoramegbLodK
 m.edaily.co.kr###youtubeArea
 it.chosun.com##.ad2
 it.chosun.com##.news_ad_top
+medicaltimes.com##.sideBtmAD
+medicaltimes.com##.sideTopAD
+medicaltimes.com##.sideBigAD
+medicaltimes.com##div[id^="viewAD"]
