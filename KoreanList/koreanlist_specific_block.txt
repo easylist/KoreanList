@@ -418,3 +418,4 @@
 ||img.tf.co.kr/img/tfad^$image
 ||canceranswer.co.kr/bannerpop/uploads^$image
 ||kukinews.com/data/kuk/banner^$image
+||medical-tribune.co.kr/bannerpop/uploads/image^$image
