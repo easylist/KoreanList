@@ -417,3 +417,4 @@
 ||image.munhwa.com/www/banner^$image
 ||img.tf.co.kr/img/tfad^$image
 ||canceranswer.co.kr/bannerpop/uploads^$image
+||kukinews.com/data/kuk/banner^$image
