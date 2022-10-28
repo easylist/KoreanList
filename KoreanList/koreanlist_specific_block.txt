@@ -419,3 +419,4 @@
 ||canceranswer.co.kr/bannerpop/uploads^$image
 ||kukinews.com/data/kuk/banner^$image
 ||medical-tribune.co.kr/bannerpop/uploads/image^$image
+||cosinkorea.com/data/banner^$image
