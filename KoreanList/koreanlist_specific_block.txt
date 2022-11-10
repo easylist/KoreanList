@@ -421,3 +421,4 @@
 ||medical-tribune.co.kr/bannerpop/uploads/image^$image
 ||cosinkorea.com/data/banner^$image
 ||img.wowtv.co.kr/MobileStyle/images/banner^$image
+||thesegye.com/support/_updata/banner2^$image
