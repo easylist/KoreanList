@@ -1,3 +1,4 @@
+humoruniv.com##a[href^="https://shopping-m.ggeal.com"]
 veritas.kr##.s-bn
 mimint.co.kr##.ad
 kcsnews.co.kr##[class^="rightad"]
