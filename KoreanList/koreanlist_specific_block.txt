@@ -348,8 +348,6 @@
 ||img.postshare.co.kr/images/banner^$image
 ||adulti*.com/data/banner^$image
 /^http(s):\/\/sure-\d{1,3}.(com|link)/img/$image
-||tkor.*/bann^$image
-||tkor.*^images^$image
 ||alspo1.net/imgban^$image
 ||sektoon*.org/images^$image
 ||toontime*.com/data/by_banner$image
