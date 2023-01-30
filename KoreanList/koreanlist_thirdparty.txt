@@ -61,3 +61,4 @@
 ||*.cloudfront.net/covers^$image,domain=paxnetnews.com
 ||images.nstatic.org/banner^$image,domain=noonoo.tv
 ||images2.imgbox.com^$image,domain=tvzota34.com
+||cdn.mindgil.com/bannerpop/uploads/image^$image,domain=mindgil.com
