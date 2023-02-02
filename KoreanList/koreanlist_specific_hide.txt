@@ -470,3 +470,4 @@ medicaltimes.com##div[id^="viewAD"]
 digitalchosun.dizzo.com##div[class^="wrap_ad_inner"]
 digitalchosun.dizzo.com###iwm_horizontal
 ssodam.com##ageModal
+m.ekn.kr##.__staxbn_wrap
