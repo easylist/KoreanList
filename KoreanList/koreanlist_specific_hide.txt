@@ -31,7 +31,7 @@ uuoobe.kr##TABLE[cellspacing="0"][cellpadding="0"][align="center"][width="730"][
 techholic.co.kr###articleBody .width-250.height-250
 kookje.co.kr##P.right[style="width:250px;height:250px;border:1px solid #ddd"]
 christiantoday.co.kr##.unit-banner
-adic.or.kr##.banner
+adic.or.kr,agit*.xyz##.banner
 hungryapp.co.kr##DIV[class^="fixed-top"]
 alba.co.kr###MainBanner
 mydaily.co.kr##DIV[style="width:706px; /**/overflow:hidden; margin-bottom:-20px; margin-top:-20px; padding:10px 0;"]
@@ -78,6 +78,7 @@ yonhapnews.co.kr##.goolge-banner
 christiantoday.co.kr###div_laypopup
 ytn.co.kr##DIV[style="margin:0 auto;width:628px;border:1px solid #cbcccf;padding:10px 5px 10px 15px;margin-bottom:10px;overflow:hidden;margin-top: 25px;"]
 uuoobe.kr##TABLE[cellspacing="0"][cellpadding="0"][width="230"][height="230"][border="0"]
+watchfreejavonline.co##div[class*="custom-html-widget"]
 zdnet.co.kr##div[class*="right_bn"]
 cyw.pe.kr##TABLE[height="1539"] > tbody > tr:nth-of-type(5)
 livere.me###livereAd
