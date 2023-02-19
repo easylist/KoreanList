@@ -474,3 +474,4 @@ ssodam.com##ageModal
 m.ekn.kr##.__staxbn_wrap
 news.oasisfeed.com##div[id^="advFigure"]
 news.oasisfeed.com##.coupangFloating
+jusoya.com###top_banner_container
