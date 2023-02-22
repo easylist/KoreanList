@@ -182,6 +182,8 @@ naver.com##.home_da2
 wikitree.co.kr##.wikitree_ad
 noteforum.co.kr##td[id^="id_bmain"]
 edaily.co.kr##DIV[class*="banner"]
+booktoki219.com##.id_bbn
+booktoki219.com##.board-tail-banner
 asiae.co.kr##.inside_banner
 news.heraldcorp.com##div[class^="ad_"]
 cjob.co.kr###main_bn_box
