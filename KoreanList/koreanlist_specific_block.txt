@@ -424,3 +424,4 @@
 ||cosinkorea.com/data/banner^$image
 ||img.wowtv.co.kr/MobileStyle/images/banner^$image
 ||thesegye.com/support/_updata/banner2^$image
+||booktoki*.com/tokinbtoki$image 
