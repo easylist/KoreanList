@@ -426,3 +426,4 @@
 ||thesegye.com/support/_updata/banner2^$image
 ||booktoki*.com/tokinbtoki^$image 
 ||nbnbiz.co.kr/bannerpop/uploads/image$image
+||hojubada.com/data/file/mbanner^$image
