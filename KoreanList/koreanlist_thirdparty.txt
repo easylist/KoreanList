@@ -63,5 +63,4 @@
 ||images2.imgbox.com^$image,domain=tvzota34.com
 ||cdn.mindgil.com/bannerpop/uploads/image^$image,domain=mindgil.com
 ||img1.daumcdn.net/thumb^$image,domain=jusoya.com
-||hojubada.com/data/file/mbanner^$image
 ||i.uuoobe.com/ad^$image,domain=torrentzoa.com
