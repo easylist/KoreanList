@@ -478,3 +478,4 @@ jusoya.com###top_banner_container
 totosave.com##.basic-post-link
 totosave.com##.w-banner
 m.cafe.naver.com##[class='banner_add bottom']
+m.cafe.naver.com##[class='banner_add']
