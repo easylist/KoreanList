@@ -428,3 +428,4 @@
 ||nbnbiz.co.kr/bannerpop/uploads/image$image
 ||hojubada.com/data/file/mbanner^$image
 ||consumernews.co.kr/bannerpop/uploads/image^$image
+||cdn.traveltimes.co.kr/bannerpop/uploads/image^$image
