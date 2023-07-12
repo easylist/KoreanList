@@ -429,3 +429,5 @@
 ||hojubada.com/data/file/mbanner^$image
 ||consumernews.co.kr/bannerpop/uploads/image^$image
 ||cdn.traveltimes.co.kr/bannerpop/uploads/image^$image
+||viewtorrent*.com/data/file/750_90^$image
+||viewtorrent*.com/data/file/250_250^$image
