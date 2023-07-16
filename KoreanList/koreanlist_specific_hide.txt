@@ -450,6 +450,7 @@ dak.gg##.pa_top4
 dak.gg##div[id^="google_ads_iframe"]
 gukjenews.com##.banner_box
 namu.wiki###D7bCic0bB
+namu.wiki##.E-YDYcoo
 a5.avpong.net##.s_body_top
 cafe24.com##a[href^="https://open.kakao.com/"]
 cafe24.com##.pum-close
