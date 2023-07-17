@@ -313,6 +313,8 @@ chol.com##.lnb3_shopping
 moneynet.co.kr##.scban_wrap
 moneynet.co.kr##div[class*="topban"]
 naver.com##.MM_DA_BRANDING_BANNER
+naver.com##.MM_DA_SMARTCHANNEL
+naver.com##.id_nmap
 naver.com###veta_top
 naver.com###veta_branding
 sports-g.com##.iwm_ba
@@ -321,6 +323,7 @@ fomos.kr###banner_center
 qtum.or.kr##.gpe_contents_xecon > div.xe_content:first-child
 fmkorea.com###adpost
 ccdn.co.kr##.width-320
+dcinside.com##.adv-group
 gall.dcinside.com##.rightbanner
 copytoon77.com##.banner_m
 newstown.co.kr##a:not([href*="newstown"]):not([href*="ZADW35BNPZ"]) > img[src*="/bannerpop/"]
@@ -371,6 +374,7 @@ m.search.naver.com##.sp_power
 idomin.com##a:not([href^="/com/"]):not([href$="gndomin"]) > img[src*="/bannerpop/"]
 tvgook43.com##div[class^="popup"]
 influencernews.kr###wingBanner
+kpanews.co.kr##.area_article_ad
 dogjoa34.net##.at-footer
 fntoday.co.kr##.banner_box > a:not([href*="http://www.fntoday"]):not([href*="UCXZC42ea-iwib-ljBNNA3Fg"]):not([href^="/news"])
 usjournal.kr###articleBody1
@@ -446,6 +450,7 @@ dak.gg##.pa_top4
 dak.gg##div[id^="google_ads_iframe"]
 gukjenews.com##.banner_box
 namu.wiki###D7bCic0bB
+namu.wiki##.E-YDYcoo
 a5.avpong.net##.s_body_top
 cafe24.com##a[href^="https://open.kakao.com/"]
 cafe24.com##.pum-close
