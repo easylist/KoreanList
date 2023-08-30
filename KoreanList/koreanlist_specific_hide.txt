@@ -317,6 +317,8 @@ naver.com##.MM_DA_SMARTCHANNEL
 naver.com##.id_nmap
 naver.com###veta_top
 naver.com###veta_branding
+naver.com###ad_timeboard
+naver.com##div[id="pc-main-ad-div-p_main_rollingboard_v1"]
 sports-g.com##.iwm_ba
 fomos.kr###top_banner
 fomos.kr###banner_center
