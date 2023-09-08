@@ -488,3 +488,5 @@ totosave.com##.w-banner
 m.cafe.naver.com##[class='banner_add bottom']
 m.cafe.naver.com##[class='banner_add']
 cafe.naver.com###sf_body
+etoland.co.kr##article.main-top-banner
+etoland.co.kr###youtube-player
