@@ -492,3 +492,4 @@ etoland.co.kr##article.main-top-banner
 etoland.co.kr###youtube-player
 donga.com##.aside_adzone06
 donga.com##.adwrap_box
+hojunara.com##li[class="img-banner"]
