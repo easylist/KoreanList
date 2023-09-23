@@ -46,6 +46,7 @@ ilbe.com###bannerXX
 m.ilbe.com##.cutin-banner
 metroseoul.co.kr##[style="margin-top: 40px; width: 100%; height: 300px;"]
 ilbe.com##IFRAME[style="width:120px;height:618px"]
+ilbe.com##.cutin-banner
 kookje.co.kr##DIV.center[style="padding-top:10px;"]
 cooln.kr##.tab
 mtn.co.kr##.adbanner_sponsor
@@ -493,3 +494,4 @@ etoland.co.kr###youtube-player
 donga.com##.aside_adzone06
 donga.com##.adwrap_box
 hojunara.com##li[class="img-banner"]
+
