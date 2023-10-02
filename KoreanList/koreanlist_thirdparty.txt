@@ -65,3 +65,4 @@
 ||img1.daumcdn.net/thumb^$image,domain=jusoya.com
 ||i.uuoobe.com/ad^$image,domain=torrentzoa.com
 ||rakuten.co.jp^$image,domain=keyakizaka46matomemory.net
+||kitweb.tadapi.info^$script,image,third-party
