@@ -45,7 +45,7 @@
 ||i.imgur.com$image,domain=torrentgram33.com
 ||saveimg.net/images^$image,domain=torrentgram33.com
 ||i.imgur.com$image,domain=ttobogo.net
-||images2.imgbox.com$image,domain=ktxtorrent66.com|ktxtorrent67.com|ktxtorrent68.com
+||images2.imgbox.com$image,domain=ktxtorrent94.com|ktxtorrent95.com|ktxtorrent96.com
 ||images2.imgbox.com^$image,domain=torrentsir51.com
 ||i.imgur.com^$image,domain=torrentqq212.com
 ||imgur.com^$image,domain=matown.kr
@@ -64,3 +64,5 @@
 ||cdn.mindgil.com/bannerpop/uploads/image^$image,domain=mindgil.com
 ||img1.daumcdn.net/thumb^$image,domain=jusoya.com
 ||i.uuoobe.com/ad^$image,domain=torrentzoa.com
+||rakuten.co.jp^$image,domain=keyakizaka46matomemory.net
+||kitweb.tadapi.info^$script,image,third-party
