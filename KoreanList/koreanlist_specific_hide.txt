@@ -495,4 +495,4 @@ donga.com##.aside_adzone06
 donga.com##.adwrap_box
 hojunara.com##li[class="img-banner"]
 hojunara.com##.rent-banner
-
+boannews.com###powerbiz_area
