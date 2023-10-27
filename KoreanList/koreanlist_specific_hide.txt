@@ -312,6 +312,7 @@ news1.kr##.ad_txt_article
 chol.com##[class^="main_banner"]
 chol.com##.lnb3_shopping
 moneynet.co.kr##.scban_wrap
+coinreaders.com##.scroll_bottom_bn
 moneynet.co.kr##div[class*="topban"]
 naver.com##.MM_DA_BRANDING_BANNER
 naver.com##.MM_DA_SMARTCHANNEL
@@ -495,4 +496,4 @@ donga.com##.aside_adzone06
 donga.com##.adwrap_box
 hojunara.com##li[class="img-banner"]
 hojunara.com##.rent-banner
-
+boannews.com###powerbiz_area
