@@ -121,6 +121,7 @@ ppomppu.co.kr##.banner_553
 etoday.co.kr###quick_right
 api.dable.io##div.item-sp
 dt.co.kr##TABLE[align="left"][height="270"][width="260"]
+dt.co.kr##iframe[src^="//finead"]
 platum.kr##.Grand_News_Custom_Ads
 dailian.co.kr###ban_mtre14
 petzzi.com##.right-layout1 > .right-group:nth-of-type(6)
