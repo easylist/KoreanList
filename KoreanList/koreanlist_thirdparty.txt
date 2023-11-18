@@ -27,6 +27,7 @@
 ||pr-adimage.newscloud.or.kr^$image
 ||bananamall.co.kr/banner^$image,third-party
 ||ads-partners.coupang.com^$script,third-party
+||ads-partners.coupang.com/widgets.html^$subdocument,third-party
 ||i.imgur.com^$image,domain=manamoa31.net
 ||i.imgur.com^$image,domain=buzztoon156.com
 ||adclicks.devpia.com^$subdocument
