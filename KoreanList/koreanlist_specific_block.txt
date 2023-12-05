@@ -466,7 +466,7 @@
 ||i.imgur.com$image,domain=ttobogo.net
 ||images2.imgbox.com$image,domain=ktxtorrent99.com|ktxtorrent100.com|ktxtorrent101.com
 ||images2.imgbox.com^$image,domain=torrentsir51.com
-||i.imgur.com^$image,domain=torrentqq212.com
+||i.imgur.com^$image,domain=torrentqq285.com
 ||imgur.com^$image,domain=matown.kr
 ||innorame.com$subdocument,domain=tfmedia.co.kr
 ||7mimg.7m.com.cn^$image,domain=7mkr.com
