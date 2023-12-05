@@ -426,6 +426,7 @@
 ||cdn.traveltimes.co.kr/bannerpop/uploads/image^$image
 ||viewtorrent*.com/data/file/750_90^$image
 ||viewtorrent*.com/data/file/250_250^$image
+||viewtorrent*.com/data/editor^$image
 ||hojunara.com/_files/admin^$image
 ||ohli24.com/img/2024^$image
 ||blog.kakaocdn.net^$image,domain=avada.tistory.com
