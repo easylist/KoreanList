@@ -472,3 +472,4 @@
 ||innorame.com$subdocument,domain=tfmedia.co.kr
 ||7mimg.7m.com.cn^$image,domain=7mkr.com
 ||loader.fmkorea.com^
+||linklove*.com/data/file^$image
