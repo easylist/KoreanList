@@ -33,3 +33,4 @@
 ||livere.co.kr/*ad*/$third-party
 ||211.49.99.53/images^$third-party
 ||ilovevid.com/banner^$third-party,image
+||ad.planbplus.co.kr/adSb^$subdocument,third-party
