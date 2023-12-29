@@ -473,3 +473,4 @@
 ||7mimg.7m.com.cn^$image,domain=7mkr.com
 ||loader.fmkorea.com^
 ||linklove*.com/data/file^$image
+||ssl.pstatic.net/adimg3.search/adpost/js^$script,domain=m.humoruniv.com

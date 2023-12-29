@@ -1,5 +1,9 @@
 tvreport.co.kr##.tvreport-gsm-video-ad
 humoruniv.com##a[href^="https://shopping-m.ggeal.com"]
+m.humoruniv.com###choo_pds_notice_boom_div
+m.humoruniv.com###choo_center_boom_div
+m.humoruniv.com###choo_read_top_boom_div
+m.humoruniv.com##.gbt1#d3
 veritas.kr##.s-bn
 mimint.co.kr##.ad
 kcsnews.co.kr##[class^="rightad"]
