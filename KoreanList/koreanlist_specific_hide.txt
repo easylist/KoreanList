@@ -186,6 +186,7 @@ ezday.co.kr##[id^="homeAd"]
 bhumor.co.kr###adLayerPopup
 cgv.co.kr###BottomWrapper
 naver.com##.home_da2
+m.search.naver.com##section[class="sc _pwl_video_container ad_light_mode"]
 wikitree.co.kr##.wikitree_ad
 noteforum.co.kr##td[id^="id_bmain"]
 edaily.co.kr##DIV[class*="banner"]
