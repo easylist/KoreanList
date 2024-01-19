@@ -474,3 +474,4 @@
 ||loader.fmkorea.com^
 ||linklove*.com/data/file^$image
 ||ssl.pstatic.net/adimg3.search/adpost/js^$script,domain=m.humoruniv.com
+||dailygaewon.com/bannerpop/uploads/image^$image
