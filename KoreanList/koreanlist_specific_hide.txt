@@ -503,3 +503,4 @@ donga.com##.adwrap_box
 hojunara.com##li[class="img-banner"]
 hojunara.com##.rent-banner
 boannews.com###powerbiz_area
+hani.co.kr##div[class*="BaseAd_adWrapper__4XXD0"]
