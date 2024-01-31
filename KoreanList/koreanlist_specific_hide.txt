@@ -505,3 +505,4 @@ hojunara.com##.rent-banner
 boannews.com###powerbiz_area
 hani.co.kr##div[class*="BaseAd_adWrapper__4XXD0"]
 blog.naver.com###ncc_container
+newspim.com##.bnbox
