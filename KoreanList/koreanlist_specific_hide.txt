@@ -506,7 +506,6 @@ boannews.com###powerbiz_area
 hani.co.kr##div[class*="BaseAd_adWrapper__4XXD0"]
 blog.naver.com###ncc_container
 newspim.com##.bnbox
-coupang.com##li.search-product__ad-badge
 coupang.com##.sdp-mid-banner
 coupang.com##.srp-top-banner-container
 coupang.com###coupang-banner
