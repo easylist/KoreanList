@@ -20,3 +20,5 @@
 @@||kpenews.com/images^*/recruit_$image
 @@||ad-mapps.com^$third-party,domain=ytn.co.kr
 menupan.com#@#.google_adsense_footer
+@@||meeco.kr^$generichide
+@@||captainpang.tistory.com^$generichide
