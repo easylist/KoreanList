@@ -475,3 +475,4 @@
 ||linklove*.com/data/file^$image
 ||ssl.pstatic.net/adimg3.search/adpost/js^$script,domain=m.humoruniv.com
 ||dailygaewon.com/bannerpop/uploads/image^$image
+||magazine.hankyung.com/magazine_images/banner^$image
