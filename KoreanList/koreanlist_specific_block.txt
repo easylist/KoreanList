@@ -477,3 +477,4 @@
 ||dailygaewon.com/bannerpop/uploads/image^$image
 ||magazine.hankyung.com/magazine_images/banner^$image
 ||adimg.digitalcamp.co.kr^$domain=sportsseoul.com
+||file.sportsseoul.com/svc/banner^$image
