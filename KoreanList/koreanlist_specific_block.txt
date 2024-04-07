@@ -476,3 +476,4 @@
 ||ssl.pstatic.net/adimg3.search/adpost/js^$script,domain=m.humoruniv.com
 ||dailygaewon.com/bannerpop/uploads/image^$image
 ||magazine.hankyung.com/magazine_images/banner^$image
+||adimg.digitalcamp.co.kr^$domain=sportsseoul.com
