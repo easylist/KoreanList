@@ -32,9 +32,7 @@
 ||ksilbo.co.kr/ad/
 ||etorrent.kr/img/index_banner
 ||clien.net/service/js/app/clien.naver.js
-
 ||dispatch.cdnser.be/ad/
-
 ||petzzi.com^*/*banner/
 ||g-disk.co.kr/images_g/banner/
 ||knnews.co.kr/edb/banner/
@@ -478,3 +476,5 @@
 ||magazine.hankyung.com/magazine_images/banner^$image
 ||adimg.digitalcamp.co.kr^$domain=sportsseoul.com
 ||file.sportsseoul.com/svc/banner^$image
+||mydaily.co.kr/upload/ads^$image
+
