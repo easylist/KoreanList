@@ -514,3 +514,4 @@ coupang.com###srp-bottom-carousel-dco-contaner
 mttotoinfo.com###bottom-banner-btn
 mttotoinfo.com##aside[itemtype="https://schema.org/WPSideBar"]
 mttotoinfo.com###bannerlistwidget-2
+m.starnewskorea.com##div[id="viewarea"]
