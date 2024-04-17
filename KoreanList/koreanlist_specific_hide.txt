@@ -516,4 +516,4 @@ mttotoinfo.com##aside[itemtype="https://schema.org/WPSideBar"]
 mttotoinfo.com###bannerlistwidget-2
 m.starnewskorea.com##div[id="viewarea"]
 darakwon.co.kr##div[class="main6 bottomto50"]
-
+ssodam.com###ageModal
