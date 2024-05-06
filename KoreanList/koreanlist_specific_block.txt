@@ -307,6 +307,7 @@
 ||torrentmep.com/data/banner^$image
 ||moeni.org/img/sponsor$image
 ||newtoon*.com/data/by_banner^$image
+||newtoon*.com/banner^$image
 ||hangose01.com/data/file/linkt^$image
 ||boomboom*.site/data/apms/background^$image
 ||docdocdoc.co.kr/bannerpop/uploads^$image
