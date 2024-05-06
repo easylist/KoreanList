@@ -517,3 +517,7 @@ mttotoinfo.com###bannerlistwidget-2
 m.starnewskorea.com##div[id="viewarea"]
 darakwon.co.kr##div[class="main6 bottomto50"]
 ssodam.com###ageModal
+blacktv01.com##div[id^="hd_pops"]
+ttse3.com##.carousel-inner
+ttse3.com##.sc_div
+
