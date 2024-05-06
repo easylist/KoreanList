@@ -477,4 +477,5 @@
 ||adimg.digitalcamp.co.kr^$domain=sportsseoul.com
 ||file.sportsseoul.com/svc/banner^$image
 ||mydaily.co.kr/upload/ads^$image
+||blacktv01.com/data/editor^$image
 
