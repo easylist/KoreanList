@@ -521,4 +521,6 @@ blacktv01.com##div[id^="hd_pops"]
 ttse3.com##.carousel-inner
 ttse3.com##.sc_div
 cokcoktv.me##.custom_banner_wrap
+mvking.org##div[id^="popup_id_1"]
+mvking.org##div[class="row ml-0 mr-0 "]
 
