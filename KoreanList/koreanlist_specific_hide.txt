@@ -264,7 +264,7 @@ ezday.co.kr##.pb5
 newspim.com###slideshow
 joseilbo.com##.google_ban_iframe2
 koreatimes.com##.bn_300x250_2
-manatoki120.net,torrentgaja.com###hd_pop
+manatoki339.net,manatoki340.net,manatoki341.net,torrentgaja.com###hd_pop
 torrentp.net##div[id^="banner_top"]
 torrentp.net##.banner
 viewsnnews.com##.ads
