@@ -504,6 +504,7 @@ donga.com##.adwrap_box
 hojunara.com##li[class="img-banner"]
 hojunara.com##.rent-banner
 boannews.com###powerbiz_area
+boannews.com##.main_banner
 hani.co.kr##div[class*="BaseAd_adWrapper__4XXD0"]
 blog.naver.com###ncc_container
 newspim.com##.bnbox
