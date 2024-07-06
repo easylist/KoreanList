@@ -479,4 +479,4 @@
 ||file.sportsseoul.com/svc/banner^$image
 ||mydaily.co.kr/upload/ads^$image
 ||blacktv01.com/data/editor^$image
-
+||admax.me/imgadpark^$image,domain=ttking45.me
