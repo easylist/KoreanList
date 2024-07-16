@@ -480,3 +480,4 @@
 ||mydaily.co.kr/upload/ads^$image
 ||blacktv01.com/data/editor^$image
 ||admax.me/imgadpark^$image,domain=ttking45.me
+||ttg-*.com/theme/BS4-Basic/storage/image^$image
