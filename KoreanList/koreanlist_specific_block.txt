@@ -481,4 +481,4 @@
 ||blacktv01.com/data/editor^$image
 ||admax.me/imgadpark^$image,domain=ttking45.me
 ||ttg-*.com/theme/BS4-Basic/storage/image^$image
-||static.filesbest.xyz^$domain=torrentsome152.com
+||static.filesbest.xyz^$domain=torrentsome154.com,torrentsome155.com,torrentsome156.com,torrentsome157.com
