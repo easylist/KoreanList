@@ -35,3 +35,4 @@
 ||ilovevid.com/banner^$third-party,image
 ||ad.planbplus.co.kr/adSb^$subdocument,third-party
 ||ad.adjw.co.kr^$subdocument,third-party
+||i.keezip.com/ad^$image,third-party
