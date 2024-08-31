@@ -482,4 +482,5 @@
 ||newyorkkorea.net/RAD/PEG/banner_$image
 ||admax.me/imgadpark^$image,domain=ttking45.me
 ||ttg-*.com/theme/BS4-Basic/storage/image^$image
-||static.filesbest.xyz^$domain=torrentsome154.com,torrentsome155.com,torrentsome156.com,torrentsome157.com
+||static.filesbest.xyz^$domain=torrentsome158.com,torrentsome159.com,torrentsome160.com,torrentsome161.com
+||gltv*.com/files/attach/filebox^$image
