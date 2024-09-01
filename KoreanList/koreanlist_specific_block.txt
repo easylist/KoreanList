@@ -484,3 +484,4 @@
 ||ttg-*.com/theme/BS4-Basic/storage/image^$image
 ||static.filesbest.xyz^$domain=torrentsome158.com,torrentsome159.com,torrentsome160.com,torrentsome161.com
 ||gltv*.com/files/attach/filebox^$image
+||yatoon*.com/ban/banner$image
