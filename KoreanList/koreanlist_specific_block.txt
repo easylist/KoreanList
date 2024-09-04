@@ -485,3 +485,4 @@
 ||static.filesbest.xyz^$domain=torrentsome158.com|torrentsome159.com|torrentsome160.com|torrentsome161.com
 ||gltv*.com/files/attach/filebox^$image
 ||yatoon*.com/ban/banner$image
+||pstatic.net^*/gfp-core.js$domain=m.blog.naver.com
