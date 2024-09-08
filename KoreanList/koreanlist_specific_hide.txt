@@ -262,6 +262,9 @@ sportalkorea.com###mk_ad
 m.kyeongin.com###mobitreeP
 ezday.co.kr##.pb5
 newspim.com###slideshow
+newspim.com##.bnbox
+m.newspim.com##div[style*="overflow:hidden; text-align:center; width:100%; height:250px;"]
+newspim.com##div[style*="float: right; width: 300px; height: 250px; margin: 10px"]
 joseilbo.com##.google_ban_iframe2
 koreatimes.com##.bn_300x250_2
 manatoki339.net,manatoki340.net,manatoki341.net,torrentgaja.com###hd_pop
@@ -507,7 +510,7 @@ boannews.com###powerbiz_area
 boannews.com##.main_banner
 hani.co.kr##div[class*="BaseAd_adWrapper__4XXD0"]
 blog.naver.com###ncc_container
-newspim.com##.bnbox
+
 coupang.com##.sdp-mid-banner
 coupang.com##.srp-top-banner-container
 coupang.com###coupang-banner
