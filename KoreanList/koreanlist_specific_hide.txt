@@ -534,3 +534,4 @@ hellven.net##a[class="thumbnail"]
 ttg-15.com##.topbanner
 ttg-15.com###hd_pop
 shinailbo.co.kr###wingBanner
+av19a.com##div[style="min-height: 1em !important;"]
