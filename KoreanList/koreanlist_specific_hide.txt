@@ -510,7 +510,6 @@ boannews.com###powerbiz_area
 boannews.com##.main_banner
 hani.co.kr##div[class*="BaseAd_adWrapper__4XXD0"]
 blog.naver.com###ncc_container
-
 coupang.com##.sdp-mid-banner
 coupang.com##.srp-top-banner-container
 coupang.com###coupang-banner
@@ -535,3 +534,4 @@ ttg-15.com##.topbanner
 ttg-15.com###hd_pop
 shinailbo.co.kr###wingBanner
 av19a.com##div[style="min-height: 1em !important;"]
+mail.daum.net###daBannerWrapper
