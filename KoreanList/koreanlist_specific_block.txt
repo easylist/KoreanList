@@ -487,3 +487,4 @@
 ||yatoon*.com/ban/banner$image
 ||pstatic.net^*/gfp-core.js$domain=m.blog.naver.com
 ||david.cdnbuzz.buzz/banner^$image,domain=av19a.com
+||gongim.com/uploads/banner^$image
