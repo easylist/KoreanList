@@ -537,3 +537,5 @@ av19a.com##div[style="min-height: 1em !important;"]
 mail.daum.net##div[id="daBannerWrapper"]
 dcnewsj.joins.com##div[class="ab_ad336"]
 mlbpark.donga.com###advertise_naver
+mlbpark.donga.com##div[class^="naver_power"]
+mlbpark.donga.com###naverTrendM
