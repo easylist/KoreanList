@@ -36,7 +36,6 @@ uuoobe.kr##TABLE[cellspacing="0"][cellpadding="0"][align="center"][width="730"][
 techholic.co.kr###articleBody .width-250.height-250
 kookje.co.kr##P.right[style="width:250px;height:250px;border:1px solid #ddd"]
 christiantoday.co.kr##.unit-banner
-adic.or.kr,agit*.xyz##.banner
 hungryapp.co.kr##DIV[class^="fixed-top"]
 alba.co.kr###MainBanner
 mydaily.co.kr##DIV[style="width:706px; /**/overflow:hidden; margin-bottom:-20px; margin-top:-20px; padding:10px 0;"]
