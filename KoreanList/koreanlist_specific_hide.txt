@@ -539,3 +539,4 @@ mlbpark.donga.com###advertise_naver
 mlbpark.donga.com##div[class^="naver_power"]
 mlbpark.donga.com###naverTrendM
 m.bunjang.co.kr##div[class^="Productsstyle__PowerLinkWrapper"]
+okky.kr##a[style="display: block !important;"]
