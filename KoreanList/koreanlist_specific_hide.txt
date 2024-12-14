@@ -345,8 +345,9 @@ blog.naver.com###ssp-adpost
 buzztoon79.com###hd_pop
 chuksannews.co.kr##.top_banner
 inews24.com##ad[class="view200"]
-hani.co.kr###ad_tag
+inews24.com##container[class="a4040-4060 ad"]
 inews24.com##ad[alt="3171"]
+hani.co.kr###ad_tag
 newbam1.net##.main-banners
 major-top.com##.carousel-inner.bg-black
 funbe.cloud,funbe.vip##div[class^="main_top_bann"]
