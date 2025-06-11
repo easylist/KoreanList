@@ -488,3 +488,4 @@
 ||pstatic.net^*/gfp-core.js$domain=m.blog.naver.com
 ||david.cdnbuzz.buzz/banner^$image,domain=av19a.com
 ||gongim.com/uploads/banner^$image
+||rk-amg.s3.us-west-2.amazonaws.com/banner^$image,domain=radiokorea.com
