@@ -250,6 +250,7 @@
 ||honam.co.kr/ad^$image,domain=honam.co.kr
 ||jejusori.net/bannerpop^$image
 ||electimes.com/banner^$image
+||electimes.com/bannerpop^$script
 ||javnet04.club/data/file/ad^$image
 ||18moa4.com/data/file/main_top_banner^$image
 ||cds.ilyoseoul.co.kr/bannerpop^$script
