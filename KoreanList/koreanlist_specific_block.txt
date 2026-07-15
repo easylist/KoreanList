@@ -490,3 +490,5 @@
 ||david.cdnbuzz.buzz/banner^$image,domain=av19a.com
 ||gongim.com/uploads/banner^$image
 ||rk-amg.s3.us-west-2.amazonaws.com/banner^$image,domain=radiokorea.com
+||nstatic.dcinside.com/ad/2025/banner^$image
+||nstatic.dcinside.com/ad/2026/banner^$image
